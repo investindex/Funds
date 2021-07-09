@@ -1,6 +1,7 @@
 # ETFs
 
 | Stock index | Allocation | BlackRock    | State Street | State Street | B. Fee | V. Fee | S. Fee |
+| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 
 | Stock index | Allocation | BlackRock    | Vanguard     | State Street | B. Fee | V. Fee | S. Fee |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
