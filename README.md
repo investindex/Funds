@@ -33,7 +33,7 @@ The ETF issuers with the largest total assets under management are BlackRock, Va
   <b>Complex ETF portfolio</b>
 </p>
 
-| &nbsp; &nbsp; &nbsp; &nbsp; Stock index &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; Allocation &nbsp; | BlackRock | Vanguard | State Street | B. Fee | V. Fee | S. Fee |
+| &nbsp; &nbsp; &nbsp; Stock index &nbsp; &nbsp; &nbsp; | &emsp; Allocation &emsp; | BlackRock | Vanguard | State Street | B. Fee | V. Fee | S. Fee |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | Intl Large Cap Value | 6% | [IVLU](https://www.ishares.com/us/products/275382/ishares-msci-international-developed-value-factor-etf) | [IVLU](https://www.ishares.com/us/products/275382/ishares-msci-international-developed-value-factor-etf) | [IVLU](https://www.ishares.com/us/products/275382/ishares-msci-international-developed-value-factor-etf) | .30% | .30% | .30% |
 
