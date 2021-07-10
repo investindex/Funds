@@ -10,7 +10,7 @@ The ETF issuers with the largest total assets under management are BlackRock, Va
   <b>One ETF</b>
 </p>
 
-| Stock index | Allocation | BlackRock | Vanguard | State Street | B. Fee | V. Fee | S. Fee |
+| &nbsp; Stock index &nbsp; | Allocation | &nbsp; BlackRock &nbsp; | &nbsp; Vanguard &nbsp; | &nbsp; State Street &nbsp; | B. Fee | V. Fee | S. Fee |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | Total US | 100% | [ITOT](https://www.ishares.com/us/products/239724/ishares-core-sp-total-us-stock-market-etf) | [VTI](https://investor.vanguard.com/etf/profile/VTI) | [SPTM](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-sp-1500-composite-stock-market-etf-sptm) | .03% | .03% | .03% |
 | Total Global | 100% | [ACWI](https://www.ishares.com/us/products/239600/ishares-msci-acwi-etf) | [VT](https://investor.vanguard.com/etf/profile/VT) | [SPGM](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-msci-global-stock-market-etf-spgm) | .32% | .08% | .09% |
