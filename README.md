@@ -55,4 +55,4 @@ space
 
 space
 
-<b id="f1">1</b> Footnote content here. [↩](#a1)
+id="f1"><sup>1<sup/> Footnote content here. [↩](#a1)
