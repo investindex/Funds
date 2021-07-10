@@ -1,6 +1,6 @@
 # ETF proposals
 
-The ETF issuers with the largest total assets under management are BlackRock, Vanguard, and State Street (in decreasing order). The [ETF database](https://etfdb.com/etfs/issuers/#issuer-power-rankings__aum&sort_name=revenue_position&sort_order=asc&page=1) is a great resource for comparing and searching for ETFs. Three tables below show allocations using ETFs from these institutions. Regardless of your choice, the fees are a matter of cents annually for every $100 invested. <sup id="a1">[1](#f1)</sup>
+The ETF issuers with the largest total assets under management are BlackRock, Vanguard, and State Street (in decreasing order). The [ETF database](https://etfdb.com/etfs/issuers/#issuer-power-rankings__aum&sort_name=revenue_position&sort_order=asc&page=1) is a great resource for comparing and searching for ETFs. Three tables below show allocations using ETFs from these institutions. Regardless of your choice, the fees are a matter of cents annually for every $100 invested. <sup id="fn1">[1](#f1)</sup>
 
 &nbsp;
 
@@ -55,4 +55,4 @@ space
 
 space
 
-<sup id="f1"> 1 </sup> Footnote content here. [↩](#a1)
+<sup id="f1"> 1 </sup> Footnote content here. [↩](#fn1)
