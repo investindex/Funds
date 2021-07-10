@@ -2,7 +2,7 @@
 
 ## ETFs
 
-The ETF issuers with the largest total assets under management are BlackRock, Vanguard, and State Street (in decreasing order). The [ETF database](https://etfdb.com/etfs/issuers/#issuer-power-rankings__aum&sort_name=revenue_position&sort_order=asc&page=1) is a great resource for comparing and searching for ETFs. Three tables below show allocations using ETFs from these institutions. Regardless of your choice, the fees are a matter of cents annually for every $100 invested.<sup id="fn1">[1](#f1)</sup>
+The ETF issuers with the largest total assets under management are BlackRock, Vanguard, and State Street (in decreasing order). The [ETF database](https://etfdb.com/etfs/issuers/#issuer-power-rankings__aum&sort_name=revenue_position&sort_order=asc&page=1) is a great resource for comparing and searching for ETFs. Three tables below show allocations using ETFs from these institutions. Regardless of your choice, the fees are a matter of cents annually for every $100 invested.
 
 &nbsp;
 
@@ -88,10 +88,3 @@ The leading providers of indexed mutual funds are Fidelity and Vanguard. There a
 | Total US | 20% | [FSKAX](https://fundresearch.fidelity.com/mutual-funds/summary/315911693) | [VTSAX](https://investor.vanguard.com/mutual-funds/profile/VTSAX) | .015% | .04% |
 | Intl Large Cap Value | 10% | [FIVA](https://institutional.fidelity.com/app/fund/etf/snapshot/FIIS_ETF_FIVA.html) | [VTRIX](https://investor.vanguard.com/mutual-funds/profile/VTRIX) | .39% | .35% |
 | Total International | 10% | [FTIHX](https://fundresearch.fidelity.com/mutual-funds/summary/31635V638) | [VTIAX](https://investor.vanguard.com/mutual-funds/profile/VTIAX) | .06% | .11% |
-
-
-&nbsp;
-
-&nbsp;
-
-<sup id="f1"> 1 </sup> Footnote content here. [↩](#fn1)
