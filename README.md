@@ -1,4 +1,6 @@
-# ETF proposals
+# Fund proposals
+
+## ETFs
 
 The ETF issuers with the largest total assets under management are BlackRock, Vanguard, and State Street (in decreasing order). The [ETF database](https://etfdb.com/etfs/issuers/#issuer-power-rankings__aum&sort_name=revenue_position&sort_order=asc&page=1) is a great resource for comparing and searching for ETFs. Three tables below show allocations using ETFs from these institutions. Regardless of your choice, the fees are a matter of cents annually for every $100 invested.<sup id="fn1">[1](#f1)</sup>
 
@@ -16,7 +18,7 @@ The ETF issuers with the largest total assets under management are BlackRock, Va
 &nbsp;
 
 <p align="center">
-  <b>Simple ETF Portfolio</b>
+  <b>Simple ETF portfolio</b>
 </p>
 
 | Stock index | Allocation | BlackRock | Vanguard | State Street | B. Fee | V. Fee | S. Fee |
@@ -28,7 +30,7 @@ The ETF issuers with the largest total assets under management are BlackRock, Va
 &nbsp;
 
 <p align="center">
-  <b>Complex ETF Portfolio</b>
+  <b>Complex ETF portfolio</b>
 </p>
 
 | Stock index | Allocation | BlackRock | Vanguard | State Street | B. Fee | V. Fee | S. Fee |
@@ -41,20 +43,51 @@ The ETF issuers with the largest total assets under management are BlackRock, Va
 | Intl Large Cap Value | 6% | [IVLU](https://www.ishares.com/us/products/275382/ishares-msci-international-developed-value-factor-etf) | [IVLU](https://www.ishares.com/us/products/275382/ishares-msci-international-developed-value-factor-etf) | [IVLU](https://www.ishares.com/us/products/275382/ishares-msci-international-developed-value-factor-etf) | .30% | .30% | .30% |
 | Intl Quality | 8% | [IQLT](https://www.ishares.com/us/products/271540/ishares-msci-international-developed-quality-factor-etf) | [IQLT](https://www.ishares.com/us/products/271540/ishares-msci-international-developed-quality-factor-etf) | [IQLT](https://www.ishares.com/us/products/271540/ishares-msci-international-developed-quality-factor-etf) | .30% | .30% | .30% |
 
-space
+&nbsp;
 
-space
+&nbsp;
 
-space
+## Mutual funds
 
-space
+The leading providers of indexed mutual funds are Fidelity and Vanguard. There are no mutual fund offerings for the quality factor, nor for the international small cap value index, so those categories are omitted here. As with the ETFs above, annual fees are pennies per year for every $100 invested.
 
-space
+&nbsp;
 
-space
+<p align="center">
+  <b>One mutual fund</b>
+</p>
 
-space
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Stock index | Allocation | Fidelity | Vanguard | F. Fee | V. Fee | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| | Total US | 100% | [FSKAX](https://fundresearch.fidelity.com/mutual-funds/summary/315911693) | [VTSAX](https://investor.vanguard.com/mutual-funds/profile/VTSAX) | .015% | .04% | |
+| | Total Global | 100% | | [VTWAX](https://investor.vanguard.com/mutual-funds/profile/VTWAX) | | .10% | |
 
-space
+&nbsp;
+
+<p align="center">
+  <b>One mutual fund</b>
+</p>
+
+| &emsp; &nbsp; &nbsp; &nbsp; Stock index &nbsp; &nbsp; &nbsp; &emsp; | &nbsp; &nbsp; &nbsp; Allocation &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Fidelity &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Vanguard &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; F. Fee &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; V. Fee &nbsp; &nbsp; &nbsp; &nbsp; |
+| :--: | :--: | :--: | :--: | :--: | :--: |
+| Total US | 100% | [FSKAX](https://fundresearch.fidelity.com/mutual-funds/summary/315911693) | [VTSAX](https://investor.vanguard.com/mutual-funds/profile/VTSAX) | .015% | .04% |
+| Total Global | 100% | | [VTWAX](https://investor.vanguard.com/mutual-funds/profile/VTWAX) | | .10% |
+
+&nbsp;
+
+<p align="center">
+  <b>Simple mutual fund portfolio</b>
+</p>
+
+| Stock index | Allocation | Fidelity | Vanguard | F. Fee | V. Fee |
+| :--: | :--: | :--: | :--: | :--: | :--: |
+| Total US | 40% | [FSKAX](https://fundresearch.fidelity.com/mutual-funds/summary/315911693) | [VTSAX](https://investor.vanguard.com/mutual-funds/profile/VTSAX) | .015% | .04% |
+| US Small Cap Value | 40% | [FISVX](https://fundresearch.fidelity.com/mutual-funds/summary/31635T773) | [VSIAX](https://investor.vanguard.com/mutual-funds/profile/VSIAX) | .05% | .07% |
+| Total International | 20% | [FTIHX](https://fundresearch.fidelity.com/mutual-funds/summary/31635V638) | [VTIAX](https://investor.vanguard.com/mutual-funds/profile/VTIAX) | .06% | .11% |
+
+
+&nbsp;
+
+&nbsp;
 
 <sup id="f1"> 1 </sup> Footnote content here. [↩](#fn1)
