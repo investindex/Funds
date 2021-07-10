@@ -10,7 +10,7 @@ The ETF issuers with the largest total assets under management are BlackRock, Va
   <b>One ETF</b>
 </p>
 
-| &nbsp; Stock index &nbsp; | Allocation | &nbsp; BlackRock &nbsp; | &nbsp; Vanguard &nbsp; | &nbsp; State Street &nbsp; | B. Fee | V. Fee | S. Fee |
+| &nbsp; &nbsp; &nbsp; Stock index &nbsp; &nbsp; &nbsp; | &nbsp; Allocation &nbsp; | BlackRock | Vanguard | State Street | B. Fee | V. Fee | S. Fee |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | Total US | 100% | [ITOT](https://www.ishares.com/us/products/239724/ishares-core-sp-total-us-stock-market-etf) | [VTI](https://investor.vanguard.com/etf/profile/VTI) | [SPTM](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-sp-1500-composite-stock-market-etf-sptm) | .03% | .03% | .03% |
 | Total Global | 100% | [ACWI](https://www.ishares.com/us/products/239600/ishares-msci-acwi-etf) | [VT](https://investor.vanguard.com/etf/profile/VT) | [SPGM](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-msci-global-stock-market-etf-spgm) | .32% | .08% | .09% |
@@ -21,7 +21,7 @@ The ETF issuers with the largest total assets under management are BlackRock, Va
   <b>Simple ETF portfolio</b>
 </p>
 
-| Stock index | Allocation | BlackRock | Vanguard | State Street | B. Fee | V. Fee | S. Fee |
+| &nbsp; &nbsp; &nbsp; Stock index &nbsp; &nbsp; &nbsp; | &nbsp; Allocation &nbsp; | BlackRock | Vanguard | State Street | B. Fee | V. Fee | S. Fee |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | US Quality | 40% | [QUAL](https://www.ishares.com/us/products/256101/ishares-msci-usa-quality-factor-etf) | [VFQY](https://investor.vanguard.com/etf/profile/VFQY) | [VFQY](https://investor.vanguard.com/etf/profile/VFQY) | .15% | .13% | .13% |
 | US Small Cap Value | 40% | [ISCV](https://www.ishares.com/us/products/239588/ishares-morningstar-smallcap-value-etf) | [VBR](https://investor.vanguard.com/etf/profile/VBR) | [SLYV](https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-600-small-cap-value-etf-slyv) | .06% | .07% | .15% |
@@ -34,16 +34,6 @@ The ETF issuers with the largest total assets under management are BlackRock, Va
 </p>
 
 | &nbsp; &nbsp; &nbsp; Stock index &nbsp; &nbsp; &nbsp; | &nbsp; Allocation &nbsp; | BlackRock | Vanguard | State Street | B. Fee | V. Fee | S. Fee |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| Intl Large Cap Value | 6% | [IVLU](https://www.ishares.com/us/products/275382/ishares-msci-international-developed-value-factor-etf) | [IVLU](https://www.ishares.com/us/products/275382/ishares-msci-international-developed-value-factor-etf) | [IVLU](https://www.ishares.com/us/products/275382/ishares-msci-international-developed-value-factor-etf) | .30% | .30% | .30% |
-
-&nbsp;
-
-<p align="center">
-  <b>Complex ETF portfolio</b>
-</p>
-
-| &nbsp; Stock index &nbsp; | Allocation | BlackRock | Vanguard | State Street | B. Fee | V. Fee | S. Fee |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | US Small Cap Value | 30% | [ISCV](https://www.ishares.com/us/products/239588/ishares-morningstar-smallcap-value-etf) | [VBR](https://investor.vanguard.com/etf/profile/VBR) | [SLYV](https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-600-small-cap-value-etf-slyv) | .06% | .07% | .15% |
 | US Mid Cap Value | 20% | [IMCV](https://www.ishares.com/us/products/239584/ishares-morningstar-midcap-value-etf) | [VOE](https://investor.vanguard.com/etf/profile/VOE) | [MDYV](https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-400-mid-cap-value-etf-mdyv) | .06% | .07% | .15% |
