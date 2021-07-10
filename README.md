@@ -23,7 +23,7 @@ The ETF issuers with the largest total assets under management are BlackRock, Va
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | US Quality | 40% | [QUAL](https://www.ishares.com/us/products/256101/ishares-msci-usa-quality-factor-etf) | [VFQY](https://investor.vanguard.com/etf/profile/VFQY) | [VFQY](https://investor.vanguard.com/etf/profile/VFQY) | .15% | .13% | .13% |
 | US Small Cap Value | 40% | [ISCV](https://www.ishares.com/us/products/239588/ishares-morningstar-smallcap-value-etf) | [VBR](https://investor.vanguard.com/etf/profile/VBR) | [SLYV](https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-600-small-cap-value-etf-slyv) | .06% | .07% | .15% |
-| Total International ex-US | 20% | [IXUS](https://www.ishares.com/us/products/244048/ishares-core-msci-total-international-stock-etf) | [VXUS](https://investor.vanguard.com/etf/profile/VXUS) | [CWI](https://www.ssga.com/us/en/individual/etfs/funds/spdr-msci-acwi-ex-us-etf-cwi) | .09% | .08% | .30% |
+| Total Intl ex-US | 20% | [IXUS](https://www.ishares.com/us/products/244048/ishares-core-msci-total-international-stock-etf) | [VXUS](https://investor.vanguard.com/etf/profile/VXUS) | [CWI](https://www.ssga.com/us/en/individual/etfs/funds/spdr-msci-acwi-ex-us-etf-cwi) | .09% | .08% | .30% |
 
 space
 
