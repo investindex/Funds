@@ -57,7 +57,7 @@ The leading providers of indexed mutual funds are Fidelity and Vanguard. There a
   <b>One mutual fund</b>
 </p>
 
-| &nbsp; &nbsp; &nbsp; Stock index &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; Allocation &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; Fidelity &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; Vanguard &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; F. Fee &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; V. Fee &nbsp; &nbsp; &nbsp; &nbsp; |
+| &nbsp; &nbsp; &nbsp; Stock index &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; Allocation &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; Fidelity &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; Vanguard &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; F. Fee &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; V. Fee &nbsp; &nbsp; &nbsp; |
 | :--: | :--: | :--: | :--: | :--: | :--: |
 | Total US | 100% | [FSKAX](https://fundresearch.fidelity.com/mutual-funds/summary/315911693) | [VTSAX](https://investor.vanguard.com/mutual-funds/profile/VTSAX) | .015% | .04% |
 | Total Global | 100% | | [VTWAX](https://investor.vanguard.com/mutual-funds/profile/VTWAX) | | .10% |
