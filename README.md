@@ -1,12 +1,14 @@
 # Fund proposals
 
+For ETFs and mutual funds separately, I will propose portfolios with increasing levels of complexity. If an institution lacks a fund to fill a given row's category, it will either be left blank or filled in with a suggested fund from another institution. The simplest portfolios are a single fund, but two options are provided: a total US fund or a total global fund.
+
 A terminology note: when used here in reference to a fund, the term _Global_ includes the US. The term _International_, abbreviated _Intl_, excludes the US.
 
 &nbsp;
 
 ## ETFs
 
-The ETF issuers with the largest total assets under management are BlackRock, Vanguard, and State Street (in decreasing order). The [ETF database](https://etfdb.com/etfs/issuers/#issuer-power-rankings__aum&sort_name=revenue_position&sort_order=asc&page=1) is a great resource for comparing and searching for ETFs. Three tables below show allocations using ETFs from these institutions. Regardless of your choice, the fees are a matter of cents annually for every $100 invested.
+The ETF issuers with the largest total assets under management are BlackRock, Vanguard, and State Street (in decreasing order). The [ETF database](https://etfdb.com/etfs/issuers/#issuer-power-rankings__aum&sort_name=revenue_position&sort_order=asc&page=1) is a great resource for comparing and searching for ETFs. Regardless of your choice, the fees are a matter of cents annually for every $100 invested.
 
 &nbsp;
 
@@ -161,3 +163,9 @@ These tables summarize the funds discussed above plus funds from Schwab. One fun
 | Total US Corporate | [VTC](https://investor.vanguard.com/etf/profile/VTC) | [LQD](https://www.ishares.com/us/products/239566/ishares-iboxx-investment-grade-corporate-bond-etf) | [SPBO](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-corporate-bond-etf-spbo) | |
 | Total International | [BNDX](https://investor.vanguard.com/etf/profile/BNDX) | [IAGG](https://www.ishares.com/us/products/279626/ishares-international-aggregate-bond-etf) | | |
 | Total Global | [BNDW](https://investor.vanguard.com/etf/profile/BNDW) | | | |
+
+&nbsp;
+
+[Click here for the next section — Concerns for the small investor](https://github.com/investindex/Small)
+
+&nbsp;
