@@ -1,6 +1,8 @@
 # Fund proposals
 
-A terminology note: when applied to a fund, the term _Global_ includes the US, while the term _International_ (abbreviated Intl) excludes the US.
+A terminology note: when used here in reference to a fund, the term _Global_ includes the US, while the term _International_ (abbreviated _Intl_) excludes the US.
+
+&nbsp;
 
 ## ETFs
 
