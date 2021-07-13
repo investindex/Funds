@@ -86,6 +86,9 @@ The leading providers of indexed mutual funds are Fidelity and Vanguard. There a
   <b>Complex mutual fund portfolio</b>
 </p>
 
+| iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii | iiiiiiiiiiiiiiiiii | i | i | i | i | i | i |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+
 | Stock index | Allocation | Fidelity | Vanguard | Schwab | F. Fee | V. Fee | S. Fee |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | US Small Cap Value | 30% | [FISVX](https://fundresearch.fidelity.com/mutual-funds/summary/31635T773) | [VSIAX](https://investor.vanguard.com/mutual-funds/profile/VSIAX) | [SFSNX](https://www.schwabassetmanagement.com/products/sfsnx) | .05% | .07% | .25% |
