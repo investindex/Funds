@@ -86,7 +86,7 @@ The leading providers of indexed mutual funds are Fidelity and Vanguard. There a
   <b>Complex mutual fund portfolio</b>
 </p>
 
-| iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii | iiiiiiiiiiiiiiiiii | iiiiiiiiiiiiiiiiiiiii | iiiiiiiiiiiiiiiiiiiii | iiiiiiiiiiiiiiiiiiiii | iiiiiiiiiiiii | iiiiiiiiiiiii | iiiiiiiiiiiii |
+| iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii | iiiiiiiiiiiiiiiiii | iiiiiiiiiiiiiiiiiiii | iiiiiiiiiiiiiiiiiiii | iiiiiiiiiiiiiiiiiiii | iiiiiiiiiiiii | iiiiiiiiiiiii | iiiiiiiiiiiii |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 
 | Stock index | Allocation | Fidelity | Vanguard | Schwab | F. Fee | V. Fee | S. Fee |
@@ -104,7 +104,7 @@ The leading providers of indexed mutual funds are Fidelity and Vanguard. There a
   <b>Complex mutual fund portfolio</b>
 </p>
 
-| iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii | iiiiiiiiiiiiiiiiii | iiiiiiiiiiiiiiiiiiiii | iiiiiiiiiiiiiiiiiiiii | iiiiiiiiiiiiiiiiiiiii | iiiiiiiiiiiii | iiiiiiiiiiiii | iiiiiiiiiiiii |
+| iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii | iiiiiiiiiiiiiiiiii | iiiiiiiiiiiiiiiiiiii | iiiiiiiiiiiiiiiiiiii | iiiiiiiiiiiiiiiiiiii | iiiiiiiiiiiii | iiiiiiiiiiiii | iiiiiiiiiiiii |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 
 | &emsp; &nbsp; &nbsp; Stock index &nbsp; &nbsp; &emsp; | &nbsp; &nbsp; Allocation &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; Fidelity &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; Vanguard &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; F. Fee &nbsp; &nbsp; | &nbsp; &nbsp; V. Fee &nbsp; &nbsp; |
