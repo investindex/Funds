@@ -123,10 +123,10 @@ Keep in mind that: (1) if a primary concern is market cap weighting, developed m
 
 ## Summary
 
-These tables summarize the funds discussed above plus funds from Schwab. One fund is not in its own institution’s column, AVDV by Avantis.
+These tables summarize the funds discussed above plus funds from Schwab. Only one fund is not in its own institution’s column, AVDV by Avantis. Some of the Vanguard bond ETFs have a mutual fund counterpart with a purchase fee (also known as a front-end load). Those mutual funds were excluded for that reason; other Vanguard bond ETFs lack a mutual fund counterpart.
 
 <p align="center">
-  <b>Stock ETFs and mutual funds</b>
+  <b>Stock funds</b>
 </p>
 
 | Stock index | Vanguard | &nbsp; BlackRock &nbsp; | &ensp; State Street &ensp; | Fidelity | Schwab |
@@ -147,21 +147,21 @@ These tables summarize the funds discussed above plus funds from Schwab. One fun
 &nbsp;
 
 <p align="center">
-  <b>Bond ETFs</b>
+  <b>Bond funds</b>
 </p>
 
 | Bond index | &ensp; &nbsp; Vanguard &nbsp; &ensp; | &nbsp; &nbsp; BlackRock &nbsp; &nbsp; | &nbsp; &nbsp; State Street &nbsp; &nbsp; | &emsp; &nbsp; Schwab &nbsp; &emsp; |
 | :--: | :--: | :--: | :--: | :--: |
-| Short-term US Treasury | [VGSH](https://investor.vanguard.com/etf/profile/VGSH) | [SHY](https://www.ishares.com/us/products/239452/ishares-13-year-treasury-bond-etf) | [SPTS](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-short-term-treasury-etf-spts) | [SCHO](https://www.schwabassetmanagement.com/products/scho) |
-| Short-term US | [BSV](https://investor.vanguard.com/etf/profile/BSV) | | | |
-| Short-term US Corporate | [VCSH](https://investor.vanguard.com/etf/profile/VCSH) | [IGSB](https://www.ishares.com/us/products/239451/ishares-13-year-credit-bond-etf) | [SPSB](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-short-term-corporate-bond-etf-spsb) | [SCHJ](https://www.schwabassetmanagement.com/products/schj) |
-| Intermediate-term US | [BIV](https://investor.vanguard.com/etf/profile/BIV) | [IMTB](https://www.ishares.com/us/products/285539/ishares-core-5-10-year-usd-bond-etf) | | |
+| Short-term US Treasury | [VGSH](https://investor.vanguard.com/etf/profile/VGSH) / [VSBSX](https://investor.vanguard.com/mutual-funds/profile/VSBSX) | [SHY](https://www.ishares.com/us/products/239452/ishares-13-year-treasury-bond-etf) | [SPTS](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-short-term-treasury-etf-spts) | [SCHO](https://www.schwabassetmanagement.com/products/scho) |
+| Short-term US | [BSV](https://investor.vanguard.com/etf/profile/BSV) / [VBIRX](https://investor.vanguard.com/mutual-funds/profile/VBIRX) | | | [SWSBX](https://www.schwabassetmanagement.com/products/swsbx) |
+| Short-term US Corporate | [VCSH](https://investor.vanguard.com/etf/profile/VCSH) / [VSCSX](https://investor.vanguard.com/mutual-funds/profile/VSCSX) | [IGSB](https://www.ishares.com/us/products/239451/ishares-13-year-credit-bond-etf) | [SPSB](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-short-term-corporate-bond-etf-spsb) | [SCHJ](https://www.schwabassetmanagement.com/products/schj) |
+| Intermediate-term US | [BIV](https://investor.vanguard.com/etf/profile/BIV) / [VBILX](https://investor.vanguard.com/mutual-funds/profile/VBILX) | [IMTB](https://www.ishares.com/us/products/285539/ishares-core-5-10-year-usd-bond-etf) | | |
 | Intermediate-term US Corporate | [VCIT](https://investor.vanguard.com/etf/profile/VCIT) | [IGIB](https://www.ishares.com/us/products/239463/ishares-intermediate-credit-bond-etf) | [SPIB](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-intermediate-term-corporate-bond-etf-spib) | [SCHI](https://www.schwabassetmanagement.com/products/schi) |
 | Long-term US | [BLV](https://investor.vanguard.com/etf/profile/BLV) | [ILTB](https://www.ishares.com/us/products/239424/ishares-core-longterm-us-bond-etf) | | |
 | Long-term US Corporate | [VCLT](https://investor.vanguard.com/etf/profile/VCLT) | [IGLB](https://www.ishares.com/us/products/239423/ishares-10-year-credit-bond-etf) | [SPLB](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-long-term-corporate-bond-etf-splb) | |
-| Total US | [BND](https://investor.vanguard.com/etf/profile/BND) | [AGG](https://www.ishares.com/us/products/239458/ishares-core-total-us-bond-market-etf) | [SPAB](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-aggregate-bond-etf-spab) | [SCHZ](https://www.schwabassetmanagement.com/products/schz) |
+| Total US | [BND](https://investor.vanguard.com/etf/profile/BND) / [VBTLX](https://investor.vanguard.com/mutual-funds/profile/VBTLX) | [AGG](https://www.ishares.com/us/products/239458/ishares-core-total-us-bond-market-etf) | [SPAB](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-aggregate-bond-etf-spab) | [SCHZ](https://www.schwabassetmanagement.com/products/schz) / [SWAGX](https://www.schwabassetmanagement.com/products/swagx) |
 | Total US Corporate | [VTC](https://investor.vanguard.com/etf/profile/VTC) | [LQD](https://www.ishares.com/us/products/239566/ishares-iboxx-investment-grade-corporate-bond-etf) | [SPBO](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-corporate-bond-etf-spbo) | |
-| Total International | [BNDX](https://investor.vanguard.com/etf/profile/BNDX) | [IAGG](https://www.ishares.com/us/products/279626/ishares-international-aggregate-bond-etf) | | |
+| Total International | [BNDX](https://investor.vanguard.com/etf/profile/BNDX) / [VTABX](https://investor.vanguard.com/mutual-funds/profile/VTABX) | [IAGG](https://www.ishares.com/us/products/279626/ishares-international-aggregate-bond-etf) | | |
 | Total Global | [BNDW](https://investor.vanguard.com/etf/profile/BNDW) | | | |
 
 &nbsp;
