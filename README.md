@@ -76,9 +76,9 @@ The leading providers of indexed mutual funds are Fidelity and Vanguard. There a
 
 | Stock index | Allocation | Fidelity | Vanguard | Schwab | F. Fee | V. Fee | S. Fee |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| Total US | 40% | &nbsp; &nbsp; [FSKAX](https://fundresearch.fidelity.com/mutual-funds/summary/315911693) &nbsp; &nbsp; | &nbsp; &nbsp; [VTSAX](https://investor.vanguard.com/mutual-funds/profile/VTSAX) &nbsp; &nbsp; | &nbsp; &nbsp; [SWTSX](https://www.schwabassetmanagement.com/products/swtsx) &nbsp; &nbsp; | .015% | .04% | .03% |
-| US Small Cap Value | 40% | [FISVX](https://fundresearch.fidelity.com/mutual-funds/summary/31635T773) | [VSIAX](https://investor.vanguard.com/mutual-funds/profile/VSIAX) | [SFSNX](https://www.schwabassetmanagement.com/products/sfsnx) | &nbsp; .05% &nbsp; | &nbsp; .07% &nbsp; | &nbsp; .25% &nbsp; |
-| Intl Large Cap Value | 20% | [FIVA](https://institutional.fidelity.com/app/fund/etf/snapshot/FIIS_ETF_FIVA.html) | [VTRIX](https://investor.vanguard.com/mutual-funds/profile/VTRIX) | [SFNNX](https://www.schwabassetmanagement.com/products/sfnnx) | .39% | .35% | .25% |
+| Total US | 40% | &ensp; [FSKAX](https://fundresearch.fidelity.com/mutual-funds/summary/315911693) &ensp; | &ensp; [VTSAX](https://investor.vanguard.com/mutual-funds/profile/VTSAX) &ensp; | &ensp; [SWTSX](https://www.schwabassetmanagement.com/products/swtsx) &ensp; | .015% | .04% | .03% |
+| US Small Cap Value | 40% | [FISVX](https://fundresearch.fidelity.com/mutual-funds/summary/31635T773) | [VSIAX](https://investor.vanguard.com/mutual-funds/profile/VSIAX) | [SFSNX](https://www.schwabassetmanagement.com/products/sfsnx) | .05% | .07% | .25% |
+| Intl Large Cap Value | 20% | [FIVA](https://institutional.fidelity.com/app/fund/etf/snapshot/FIIS_ETF_FIVA.html) | [VTRIX](https://investor.vanguard.com/mutual-funds/profile/VTRIX) | [SFNNX](https://www.schwabassetmanagement.com/products/sfnnx) | &nbsp; .39% &nbsp; | &nbsp; .35% &nbsp; | &nbsp; .25% &nbsp; |
 
 &nbsp;
 
