@@ -63,18 +63,16 @@ The leading providers of indexed mutual funds are Fidelity and Vanguard. There a
   <b>One mutual fund</b>
 </p>
 
-
+| &emsp; &nbsp; Stock index &nbsp; &emsp; | Allocation | Fidelity | Vanguard | Schwab | F. Fee | V. Fee | S. Fee |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| Total US | 100% | &ensp; [FSKAX](https://fundresearch.fidelity.com/mutual-funds/summary/315911693) &ensp; | &ensp; [VTSAX](https://investor.vanguard.com/mutual-funds/profile/VTSAX) &ensp; | &ensp; [SWTSX](https://www.schwabassetmanagement.com/products/swtsx) &ensp; | .015% | .04% | .03% |
+| Total Global | 100% | | [VTWAX](https://investor.vanguard.com/mutual-funds/profile/VTWAX) | | &ensp; &ensp; &ensp; &nbsp; &nbsp; | &nbsp; .10% &nbsp; | &ensp; &ensp; &ensp; &nbsp; &nbsp; |
 
 &nbsp;
 
 <p align="center">
   <b>Simple mutual fund portfolio</b>
 </p>
-
-| &emsp; &nbsp; Stock index &nbsp; &emsp; | Allocation | Fidelity | Vanguard | Schwab | F. Fee | V. Fee | S. Fee |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| Total US | 100% | &ensp; [FSKAX](https://fundresearch.fidelity.com/mutual-funds/summary/315911693) &ensp; | &ensp; [VTSAX](https://investor.vanguard.com/mutual-funds/profile/VTSAX) &ensp; | &ensp; [SWTSX](https://www.schwabassetmanagement.com/products/swtsx) &ensp; | .015% | .04% | .03% |
-| Total Global | 100% | | [VTWAX](https://investor.vanguard.com/mutual-funds/profile/VTWAX) | | &ensp; &ensp; &ensp; &nbsp; &nbsp; | &nbsp; .10% &nbsp; | &ensp; &ensp; &ensp; &nbsp; &nbsp; |
 
 | Stock index | Allocation | Fidelity | Vanguard | Schwab | F. Fee | V. Fee | S. Fee |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
@@ -97,15 +95,6 @@ The leading providers of indexed mutual funds are Fidelity and Vanguard. There a
 | Intl Small Cap Value | 10% | [SFILX](https://www.schwabassetmanagement.com/products/sfilx) | [SFILX](https://www.schwabassetmanagement.com/products/sfilx) | [SFILX](https://www.schwabassetmanagement.com/products/sfilx) | .39% | .39% | .39% |
 | Intl Large Cap Value | 10% | [FIVA](https://institutional.fidelity.com/app/fund/etf/snapshot/FIIS_ETF_FIVA.html) | [VTRIX](https://investor.vanguard.com/mutual-funds/profile/VTRIX) | [SFNNX](https://www.schwabassetmanagement.com/products/sfnnx) | &nbsp; .39% &nbsp; | &nbsp; .35% &nbsp; | &nbsp; .25% &nbsp; |
 
-| Stock index | Allocation | Fidelity | Vanguard | Schwab | F. Fee | V. Fee | S. Fee |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| US Small Cap Value | 30% | [FISVX](https://fundresearch.fidelity.com/mutual-funds/summary/31635T773) | [VSIAX](https://investor.vanguard.com/mutual-funds/profile/VSIAX) | [SFSNX](https://www.schwabassetmanagement.com/products/sfsnx) | &nbsp; .05% &nbsp; | &nbsp; .07% &nbsp; | &nbsp; .25% &nbsp; |
-| US Mid Cap Value | 20% | [FIMVX](https://fundresearch.fidelity.com/mutual-funds/summary/31635T799) | [VMVAX](https://investor.vanguard.com/mutual-funds/profile/VMVAX) | [VMVAX](https://investor.vanguard.com/mutual-funds/profile/VMVAX) | .05% | .07% | .07% |
-| US Large Cap Value | 10% | [FLCOX](https://fundresearch.fidelity.com/mutual-funds/summary/31635V679) | [VVIAX](https://investor.vanguard.com/mutual-funds/profile/VVIAX) | [SWLVX](https://www.schwabassetmanagement.com/products/swlvx) | .035% | .05% | .035%
-| Total US | 20% | &nbsp; &nbsp; [FSKAX](https://fundresearch.fidelity.com/mutual-funds/summary/315911693) &nbsp; &nbsp; | &nbsp; &nbsp; [VTSAX](https://investor.vanguard.com/mutual-funds/profile/VTSAX) &nbsp; &nbsp; | &nbsp; &nbsp; [SWTSX](https://www.schwabassetmanagement.com/products/swtsx) &nbsp; &nbsp; | .015% | .04% | .03% |
-| Intl Small Cap Value | 10% | [SFILX](https://www.schwabassetmanagement.com/products/sfilx) | [SFILX](https://www.schwabassetmanagement.com/products/sfilx) | [SFILX](https://www.schwabassetmanagement.com/products/sfilx) | .39% | .39% | .39% |
-| Intl Large Cap Value | 10% | [FIVA](https://institutional.fidelity.com/app/fund/etf/snapshot/FIIS_ETF_FIVA.html) | [VTRIX](https://investor.vanguard.com/mutual-funds/profile/VTRIX) | [SFNNX](https://www.schwabassetmanagement.com/products/sfnnx) | .39% | .35% | .25% |
-
 &nbsp;
 
 &nbsp;
@@ -122,7 +111,7 @@ Vanguard’s US quality factor ETF (VFQY) is more balanced between small, mid, a
 
 State Street doesn’t offer an ETF focused solely on the quality factor, but it does offer multiple ETFs such as [QUS](https://www.ssga.com/us/en/individual/etfs/funds/spdr-msci-usa-strategicfactorssm-etf-qus), [QEFA](https://www.ssga.com/us/en/individual/etfs/funds/spdr-msci-eafe-strategicfactorssm-etf-qefa), and [QWLD](https://www.ssga.com/us/en/individual/etfs/funds/spdr-msci-world-strategicfactorssm-etf-qwld) with a combination of quality, value, and low volatility.
 
-Fidelity lacks a low-cost global mutual fund, leading to the empty space in the first mutual fund table. BlackRock has ETF offerings for all categories, while those from Vanguard and State Street need to be supplemented with AVDV by Avantis or ISVL by BlackRock for the international small cap value category. Only BlackRock’s IVLU and Fidelity’s [FIVA](https://institutional.fidelity.com/app/fund/etf/snapshot/FIIS_ETF_FIVA.html) fit the international large cap value category, and BlackRock’s IQLT is the only one of its kind I am aware of.
+Fidelity and Schwab lack a low-cost global mutual fund, leading to the empty spaces in the first mutual fund table. BlackRock has ETF offerings for all categories, while those from Vanguard and State Street need to be supplemented with AVDV by Avantis or ISVL by BlackRock for the international small cap value category. Only BlackRock’s IVLU and Fidelity’s [FIVA](https://institutional.fidelity.com/app/fund/etf/snapshot/FIIS_ETF_FIVA.html) fit the international large cap value category, and BlackRock’s IQLT is the only one of its kind I am aware of.
 
 One may wish to build a bespoke allocation of developed and emerging markets. This is not hard: ETF pairs for developed/emerging markets include [VEA](https://investor.vanguard.com/etf/profile/overview/VEA)/[VWO](https://investor.vanguard.com/etf/profile/VWO) by Vanguard, [IDEV](https://www.ishares.com/us/products/286762/ishares-core-msci-international-developed-markets-etf-fund)/[IEMG](https://www.ishares.com/us/products/244050/ishares-core-msci-emerging-markets-etf) by BlackRock, and [SPDW](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-developed-world-ex-us-etf-spdw)/[SPEM](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-emerging-markets-etf-spem) by State Street. (The fees are notably lower for these two from State Street than for CWI.) The mutual fund pairs are [FSPSX](https://fundresearch.fidelity.com/mutual-funds/summary/315911727)/[FPADX](https://fundresearch.fidelity.com/mutual-funds/summary/316146331) and [VTMGX](https://investor.vanguard.com/mutual-funds/profile/VTMGX)/[VEMAX](https://investor.vanguard.com/mutual-funds/profile/VEMAX).
 
