@@ -49,7 +49,7 @@ The ETF issuers with the largest total assets under management are BlackRock, Va
 | Intl Small Cap Value | 6% | [ISVL](https://www.blackrock.com/us/individual/products/317548/ishares-international-developed-small-cap-value-factor-etf) | [AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) | [AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) | .30% | .36% | .36% |
 | Intl Large Cap Value | 6% | [IVLU](https://www.ishares.com/us/products/275382/ishares-msci-international-developed-value-factor-etf) | [IVLU](https://www.ishares.com/us/products/275382/ishares-msci-international-developed-value-factor-etf) | [IVLU](https://www.ishares.com/us/products/275382/ishares-msci-international-developed-value-factor-etf) | .30% | .30% | .30% |
 | Intl Quality | 8% | [IQLT](https://www.ishares.com/us/products/271540/ishares-msci-international-developed-quality-factor-etf) | [IQLT](https://www.ishares.com/us/products/271540/ishares-msci-international-developed-quality-factor-etf) | [IQLT](https://www.ishares.com/us/products/271540/ishares-msci-international-developed-quality-factor-etf) | .30% | .30% | .30% |
-| | | | | | .124% | .1286% | .1686% |
+| | | | | | .124% | .129% | .169% |
 
 &nbsp;
 
