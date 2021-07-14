@@ -55,7 +55,7 @@ The ETF issuers with the largest total assets under management are BlackRock, Va
 
 ## Mutual funds
 
-The leading providers of indexed mutual funds are Fidelity and Vanguard. There are no mutual fund offerings for the quality factor, nor for the international small cap value index, so those categories are omitted here. As with the ETFs above, annual fees are pennies per year for every $100 invested.
+The leading providers of indexed mutual funds are Fidelity and Vanguard; Schwab has a less diverse collection but also offers some indices which the first two do not. There are no mutual fund offerings for the domestic or international quality factor, so those categories are omitted here. As with the ETFs above, annual fees are pennies per year for every $100 invested.
 
 &nbsp;
 
