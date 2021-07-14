@@ -164,6 +164,10 @@ These tables summarize the funds discussed above plus funds from Schwab. Only on
 
 &nbsp;
 
+The only funds not categorized in the tables above were J.P. Morgan's US quality ETF ([JQUA](https://am.jpmorgan.com/us/en/asset-management/adv/products/jpmorgan-us-quality-factor-etf-46641q761), and some Schwab funds that don't fit neatly into the table: their RAFI emerging markets funds ([FNDE](https://www.schwabassetmanagement.com/products/fnde)/[SFENX](https://www.schwabassetmanagement.com/products/sfenx)) and their RAFI US large cap funds ([FNDX](https://www.schwabassetmanagement.com/products/fndx)/[SFLNX](https://www.schwabassetmanagement.com/products/sflnx)).
+
+&nbsp;
+
 [Click here for the next section — Concerns for the small investor](https://github.com/investindex/Small)
 
 &nbsp;
