@@ -170,7 +170,7 @@ These tables summarize the funds discussed above. Only one fund is not in its ow
 
 Some of the Vanguard bond ETFs have a mutual fund counterpart with a purchase fee (also known as a front-end load). Those mutual funds are excluded for that reason; other Vanguard bond ETFs lack a mutual fund counterpart. Fidelity bond funds are omitted completely because their expense ratios are too high.
 
-The only funds not categorized in the tables above are J.P. Morgan's US quality ETF ([JQUA](https://am.jpmorgan.com/us/en/asset-management/adv/products/jpmorgan-us-quality-factor-etf-46641q761)), and some Schwab funds that don't fit neatly into the table: their RAFI emerging markets funds ([FNDE](https://www.schwabassetmanagement.com/products/fnde)/[SFENX](https://www.schwabassetmanagement.com/products/sfenx)) and their RAFI US large cap funds ([FNDX](https://www.schwabassetmanagement.com/products/fndx)/[SFLNX](https://www.schwabassetmanagement.com/products/sflnx)).
+The only funds not categorized in the tables above are J.P. Morgan's US quality ETF ([JQUA](https://am.jpmorgan.com/us/en/asset-management/adv/products/jpmorgan-us-quality-factor-etf-46641q761)), and some Schwab funds that don't fit neatly into the table: their RAFI total US fund ([https://www.schwabassetmanagement.com/products/fndb](https://www.schwabassetmanagement.com/products/fndb)), RAFI emerging markets funds ([FNDE](https://www.schwabassetmanagement.com/products/fnde)/[SFENX](https://www.schwabassetmanagement.com/products/sfenx)), and RAFI US large cap funds ([FNDX](https://www.schwabassetmanagement.com/products/fndx)/[SFLNX](https://www.schwabassetmanagement.com/products/sflnx)).
 
 &nbsp;
 
