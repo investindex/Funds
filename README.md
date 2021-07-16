@@ -185,7 +185,7 @@ The only recommended funds not categorized in the tables above are J.P. Morgan's
 This example portfolio is for a hypothetical married couple, both age 35 and earning income, with no debt and a combined liquid net worth of $40,000 plus a total of $10,000 in their Roth IRAs.
 
 | Location | Amount | Percentage | Purpose | 
-| :--: | :--: | :--: | :--: | :--: |
+| :--: | :--: | :--: | :--: |
 | Checking account | $8,000 | 16% | Potential for immediate use |
 | [Vanguard Short-term Bond ETF - BSV](https://investor.vanguard.com/etf/profile/BSV) | $5,000 | 10% | Further emergency funds |
 | [Vanguard Long-Term Corporate Bond ETF - VCLT](https://investor.vanguard.com/etf/profile/overview/VCLT) | $7,000 | 14% | Appreciation without large risk |
