@@ -1,6 +1,6 @@
 # Fund proposals
 
-For ETFs and mutual funds separately, I will propose portfolios with increasing levels of complexity. If an institution lacks a fund to fill a given row's category, it will either be left blank or filled in with a suggested fund from another institution. The simplest portfolios are a single fund, but two options are provided: a total US fund or a total global fund.
+For ETFs and mutual funds separately, I will propose portfolios with increasing levels of complexity. If an institution lacks a fund to fill a given row's category, it will either be left blank or filled in with a suggested fund from another institution. The simplest portfolios are a single fund, but two options are provided: a total US fund or a total global fund. Summary tables at the end organize all the funds, and this is followed by an example portfolio.
 
 A terminology note: when used here in reference to a fund, the term _Global_ includes the US. The term _International_, abbreviated _Intl_, excludes the US.
 
@@ -175,6 +175,23 @@ These tables summarize the funds discussed above. Only one fund is not in its ow
 Some of the Vanguard bond ETFs have a mutual fund counterpart with a purchase fee (also known as a front-end load). Those mutual funds are excluded for that reason; other Vanguard bond ETFs lack a mutual fund counterpart. Fidelity bond funds are omitted completely because their expense ratios are too high.
 
 The only recommended funds not categorized in the tables above are J.P. Morgan's US quality ETF ([JQUA](https://am.jpmorgan.com/us/en/asset-management/adv/products/jpmorgan-us-quality-factor-etf-46641q761)) and US large cap value ETF ([JVAL](https://am.jpmorgan.com/us/en/asset-management/adv/products/jpmorgan-u-s-value-factor-etf-etf-shares-46641q753)); BlackRock's US large cap value fund ([VLUE](https://www.ishares.com/us/products/251616/ishares-msci-usa-value-factor-etf)) with greater value tilt than IUSV; and some Schwab funds that don't fit neatly into the table: their RAFI total US ETF ([FNDB](https://www.schwabassetmanagement.com/products/fndb)), RAFI US large cap funds ([FNDX](https://www.schwabassetmanagement.com/products/fndx)/[SFLNX](https://www.schwabassetmanagement.com/products/sflnx)), and RAFI emerging markets funds ([FNDE](https://www.schwabassetmanagement.com/products/fnde)/[SFENX](https://www.schwabassetmanagement.com/products/sfenx)).
+
+&nbsp;
+
+&nbsp;
+
+## Example portfolio
+
+This example portfolio is for a hypothetical married couple, both age 35 and earning income, with no debt and a combined liquid net worth of $40,000 plus a total of $10,000 in their Roth IRAs.
+
+| Fund | Location | Amount | Percentage | Purpose | 
+| :--: | :--: | :--: | :--: | :--: |
+| Checking account | Bank of America | $8,000 | 16% | Potential for immediate use |
+| [Vanguard Short-term Bond ETF - BSV](https://investor.vanguard.com/etf/profile/BSV) | Fidelity brokerage account | $5,000 | 10% | Further emergency funds |
+| [Vanguard Long-Term Corporate Bond ETF - VCLT](https://investor.vanguard.com/etf/profile/overview/VCLT) | Fidelity brokerage account | $7,000 | 14% | Appreciation without large risk |
+
+
+
 
 &nbsp;
 
