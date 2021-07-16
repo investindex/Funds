@@ -187,8 +187,13 @@ This example portfolio is for a hypothetical married couple, both age 35 and ear
 | Location | Amount | Percentage | Purpose | 
 | :--: | :--: | :--: | :--: |
 | Checking account | $8,000 | 16% | Potential for immediate use |
-| [Vanguard Short-term Bond ETF - BSV](https://investor.vanguard.com/etf/profile/BSV) | $5,000 | 10% | Further emergency funds |
-| [Vanguard Long-Term Corporate Bond ETF - VCLT](https://investor.vanguard.com/etf/profile/overview/VCLT) | $7,000 | 14% | Appreciation without large risk |
+| [Short-term Bonds - BSV](https://investor.vanguard.com/etf/profile/BSV) | $5,000 | 10% | Further emergency funds |
+| [Long-Term Corporate Bonds - VCLT](https://investor.vanguard.com/etf/profile/overview/VCLT) | $7,000 | 14% | Appreciation without large risk |
+| [US Small Cap Value - FISVX](https://fundresearch.fidelity.com/mutual-funds/summary/31635T773) | $4,000 | 8% | Retirement investing (Roth IRA) |
+| [US Quality - VFQY](https://investor.vanguard.com/etf/profile/VFQY) | $3,000 | 6% | Retirement investing (Roth IRA) |
+| [Intl Small Cap Value - AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) | $1,000 | 2% | Retirement investing (Roth IRA) |
+| [Intl Quality - IQLT](https://www.ishares.com/us/products/271540/ishares-msci-international-developed-quality-factor-etf) | $1,000 | 2% | Retirement investing (Roth IRA) |
+| [RAFI Emerging Markets Large Cap - FNDE](https://www.schwabassetmanagement.com/products/fnde) | $1,000 | 2% | Retirement investing (Roth IRA) |
 
 
 
