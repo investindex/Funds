@@ -195,8 +195,8 @@ This example portfolio is for a hypothetical married couple, both age 35 and ear
 | [RAFI US Large Cap - FNDX](https://www.schwabassetmanagement.com/products/fndx) | $3,000 | 6% | Long-term financial goals |
 | [International Quality - IQLT](https://www.ishares.com/us/products/271540/ishares-msci-international-developed-quality-factor-etf) | $2,500 | 5% | Long-term financial goals |
 | [Intl Small Cap Value - ISVL](https://www.blackrock.com/us/individual/products/317548/ishares-international-developed-small-cap-value-factor-etf) | $1,500 | 3% | Long-term financial goals |
-| [US Small Cap Value - FISVX](https://fundresearch.fidelity.com/mutual-funds/summary/31635T773) | $4,000 | 8% | Retirement investing (Roth IRA) |
-| [US Quality - VFQY](https://investor.vanguard.com/etf/profile/VFQY) | $3,000 | 6% | Retirement investing (Roth IRA) |
+| [US Quality - VFQY](https://investor.vanguard.com/etf/profile/VFQY) | $3,500 | 7% | Retirement investing (Roth IRA) |
+| [US Small Cap Value - FISVX](https://fundresearch.fidelity.com/mutual-funds/summary/31635T773) | $3,500 | 7% | Retirement investing (Roth IRA) |
 | [Intl Small Cap Value - AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) | $1,500 | 3% | Retirement investing (Roth IRA) |
 | [RAFI Emerging Markets Large Cap - FNDE](https://www.schwabassetmanagement.com/products/fnde) | $1,500 | 3% | Retirement investing (Roth IRA) |
 
