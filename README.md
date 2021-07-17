@@ -174,7 +174,7 @@ These tables summarize the funds discussed above. Only one fund is not in its ow
 
 Some of the Vanguard bond ETFs have a mutual fund counterpart with a purchase fee (also known as a front-end load). Those mutual funds are excluded for that reason; other Vanguard bond ETFs lack a mutual fund counterpart. Fidelity bond funds are omitted completely because their expense ratios are too high.
 
-The only recommended funds not categorized in the tables above are J.P. Morgan's US quality ETF ([JQUA](https://am.jpmorgan.com/us/en/asset-management/adv/products/jpmorgan-us-quality-factor-etf-46641q761)) and US large cap value ETF ([JVAL](https://am.jpmorgan.com/us/en/asset-management/adv/products/jpmorgan-u-s-value-factor-etf-etf-shares-46641q753)); BlackRock's US large cap value fund ([VLUE](https://www.ishares.com/us/products/251616/ishares-msci-usa-value-factor-etf)) with greater value tilt than IUSV; and some Schwab funds that don't fit neatly into the table: their RAFI total US ETF ([FNDB](https://www.schwabassetmanagement.com/products/fndb)), US RAFI large cap funds ([FNDX](https://www.schwabassetmanagement.com/products/fndx)/[SFLNX](https://www.schwabassetmanagement.com/products/sflnx)), and RAFI emerging markets funds ([FNDE](https://www.schwabassetmanagement.com/products/fnde)/[SFENX](https://www.schwabassetmanagement.com/products/sfenx)).
+The only recommended funds not categorized in the tables above are J.P. Morgan's US quality ETF ([JQUA](https://am.jpmorgan.com/us/en/asset-management/adv/products/jpmorgan-us-quality-factor-etf-46641q761)) and US large cap value ETF ([JVAL](https://am.jpmorgan.com/us/en/asset-management/adv/products/jpmorgan-u-s-value-factor-etf-etf-shares-46641q753)); BlackRock's US large cap value fund ([VLUE](https://www.ishares.com/us/products/251616/ishares-msci-usa-value-factor-etf)) with greater value tilt than IUSV; and some Schwab funds that don't fit neatly into the table: their RAFI total US ETF ([FNDB](https://www.schwabassetmanagement.com/products/fndb)), RAFI US large cap funds ([FNDX](https://www.schwabassetmanagement.com/products/fndx)/[SFLNX](https://www.schwabassetmanagement.com/products/sflnx)), and RAFI emerging markets funds ([FNDE](https://www.schwabassetmanagement.com/products/fnde)/[SFENX](https://www.schwabassetmanagement.com/products/sfenx)).
 
 &nbsp;
 
@@ -198,7 +198,7 @@ This example portfolio is for a hypothetical married couple, both age 35 and ear
 | [US Small Cap Value - FISVX](https://fundresearch.fidelity.com/mutual-funds/summary/31635T773) | $4,000 | 8% | Retirement investing (Roth IRA) |
 | [US Quality - VFQY](https://investor.vanguard.com/etf/profile/VFQY) | $3,000 | 6% | Retirement investing (Roth IRA) |
 | [Intl Small Cap Value - AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) | $1,500 | 3% | Retirement investing (Roth IRA) |
-| [Emerging Markets RAFI Large Cap - FNDE](https://www.schwabassetmanagement.com/products/fnde) | $1,500 | 3% | Retirement investing (Roth IRA) |
+| [RAFI Emerging Markets Large Cap - FNDE](https://www.schwabassetmanagement.com/products/fnde) | $1,500 | 3% | Retirement investing (Roth IRA) |
 
 &nbsp;
 
