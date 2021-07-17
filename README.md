@@ -48,17 +48,6 @@ The ETF issuers with the largest total assets under management are BlackRock, Va
 | US Quality | 20% | [QUAL](https://www.ishares.com/us/products/256101/ishares-msci-usa-quality-factor-etf) | [VFQY](https://investor.vanguard.com/etf/profile/VFQY) | [VFQY](https://investor.vanguard.com/etf/profile/VFQY) | .15% | .13% | .13% |
 | Intl Small Cap Value | 6% | [ISVL](https://www.blackrock.com/us/individual/products/317548/ishares-international-developed-small-cap-value-factor-etf) | [AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) | [AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) | .30% | .36% | .36% |
 | Intl Large Cap Value | 6% | [IVLU](https://www.ishares.com/us/products/275382/ishares-msci-international-developed-value-factor-etf) | [IVLU](https://www.ishares.com/us/products/275382/ishares-msci-international-developed-value-factor-etf) | [IVLU](https://www.ishares.com/us/products/275382/ishares-msci-international-developed-value-factor-etf) | .30% | .30% | .30% |
-| Intl Quality | 8% | [IQLT](https://www.ishares.com/us/products/271540/ishares-msci-international-developed-quality-factor-etf) | [IQLT](https://www.ishares.com/us/products/271540/ishares-msci-international-developed-quality-factor-etf) | [IQLT](https://www.ishares.com/us/products/271540/ishares-msci-international-developed-quality-factor-etf) | .30% | .30% | .30% |
-| | | | | | .124% | .129% | .169% |
-
-| &nbsp; &nbsp; &nbsp; &nbsp; Stock index &nbsp; &nbsp; &nbsp; &nbsp; | Allocation | BlackRock | Vanguard | State Street | B. Fee | V. Fee | S. Fee |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| US Small Cap Value | 30% | [ISCV](https://www.ishares.com/us/products/239588/ishares-morningstar-smallcap-value-etf) | [VBR](https://investor.vanguard.com/etf/profile/VBR) | [SLYV](https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-600-small-cap-value-etf-slyv) | .06% | .07% | .15% |
-| US Mid Cap Value | 20% | [IMCV](https://www.ishares.com/us/products/239584/ishares-morningstar-midcap-value-etf) | [VOE](https://investor.vanguard.com/etf/profile/VOE) | [MDYV](https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-400-mid-cap-value-etf-mdyv) | .06% | .07% | .15% |
-| US Large Cap Value | 10% | [IUSV](https://www.ishares.com/us/products/239715/ishares-core-sp-us-value-etf) | [VTV](https://investor.vanguard.com/etf/profile/VTV) | [SPYV](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-sp-500-value-etf-spyv) | .04% | .04% | .04% |
-| US Quality | 20% | [QUAL](https://www.ishares.com/us/products/256101/ishares-msci-usa-quality-factor-etf) | [VFQY](https://investor.vanguard.com/etf/profile/VFQY) | [VFQY](https://investor.vanguard.com/etf/profile/VFQY) | .15% | .13% | .13% |
-| Intl Small Cap Value | 6% | [ISVL](https://www.blackrock.com/us/individual/products/317548/ishares-international-developed-small-cap-value-factor-etf) | [AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) | [AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) | .30% | .36% | .36% |
-| Intl Large Cap Value | 6% | [IVLU](https://www.ishares.com/us/products/275382/ishares-msci-international-developed-value-factor-etf) | [IVLU](https://www.ishares.com/us/products/275382/ishares-msci-international-developed-value-factor-etf) | [IVLU](https://www.ishares.com/us/products/275382/ishares-msci-international-developed-value-factor-etf) | .30% | .30% | .30% |
 | International Quality | 8% | [IQLT](https://www.ishares.com/us/products/271540/ishares-msci-international-developed-quality-factor-etf) | [IQLT](https://www.ishares.com/us/products/271540/ishares-msci-international-developed-quality-factor-etf) | [IQLT](https://www.ishares.com/us/products/271540/ishares-msci-international-developed-quality-factor-etf) | .30% | .30% | .30% |
 | | | | | | .124% | .129% | .169% |
 
@@ -185,7 +174,7 @@ These tables summarize the funds discussed above. Only one fund is not in its ow
 
 Some of the Vanguard bond ETFs have a mutual fund counterpart with a purchase fee (also known as a front-end load). Those mutual funds are excluded for that reason; other Vanguard bond ETFs lack a mutual fund counterpart. Fidelity bond funds are omitted completely because their expense ratios are too high.
 
-The only recommended funds not categorized in the tables above are J.P. Morgan's US quality ETF ([JQUA](https://am.jpmorgan.com/us/en/asset-management/adv/products/jpmorgan-us-quality-factor-etf-46641q761)) and US large cap value ETF ([JVAL](https://am.jpmorgan.com/us/en/asset-management/adv/products/jpmorgan-u-s-value-factor-etf-etf-shares-46641q753)); BlackRock's US large cap value fund ([VLUE](https://www.ishares.com/us/products/251616/ishares-msci-usa-value-factor-etf)) with greater value tilt than IUSV; and some Schwab funds that don't fit neatly into the table: their RAFI total US ETF ([FNDB](https://www.schwabassetmanagement.com/products/fndb)), RAFI US large cap funds ([FNDX](https://www.schwabassetmanagement.com/products/fndx)/[SFLNX](https://www.schwabassetmanagement.com/products/sflnx)), and RAFI emerging markets funds ([FNDE](https://www.schwabassetmanagement.com/products/fnde)/[SFENX](https://www.schwabassetmanagement.com/products/sfenx)).
+The only recommended funds not categorized in the tables above are J.P. Morgan's US quality ETF ([JQUA](https://am.jpmorgan.com/us/en/asset-management/adv/products/jpmorgan-us-quality-factor-etf-46641q761)) and US large cap value ETF ([JVAL](https://am.jpmorgan.com/us/en/asset-management/adv/products/jpmorgan-u-s-value-factor-etf-etf-shares-46641q753)); BlackRock's US large cap value fund ([VLUE](https://www.ishares.com/us/products/251616/ishares-msci-usa-value-factor-etf)) with greater value tilt than IUSV; and some Schwab funds that don't fit neatly into the table: their RAFI total US ETF ([FNDB](https://www.schwabassetmanagement.com/products/fndb)), US RAFI large cap funds ([FNDX](https://www.schwabassetmanagement.com/products/fndx)/[SFLNX](https://www.schwabassetmanagement.com/products/sflnx)), and RAFI emerging markets funds ([FNDE](https://www.schwabassetmanagement.com/products/fnde)/[SFENX](https://www.schwabassetmanagement.com/products/sfenx)).
 
 &nbsp;
 
@@ -193,18 +182,24 @@ The only recommended funds not categorized in the tables above are J.P. Morgan's
 
 ## Example portfolio
 
-This example portfolio is for a hypothetical married couple, both age 35 and earning income, with no debt and a combined liquid net worth of $40,000 plus a total of $10,000 in their Roth IRAs.
+This example portfolio is for a hypothetical married couple, both age 35 and earning income, with no debt and a combined liquid net worth of $40,000 plus a total of $10,000 in their Roth IRAs. Note that some indices are repeated, because investing in their taxable brokerage account and Roth IRA must be separate.
 
 | Location | Amount | Percentage | Purpose | 
 | :--: | :--: | :--: | :--: |
 | Checking account | $8,000 | 16% | Potential for immediate use |
 | [Short-term Bonds - BSV](https://investor.vanguard.com/etf/profile/BSV) | $5,000 | 10% | Further emergency funds |
 | [Long-Term Corporate Bonds - VCLT](https://investor.vanguard.com/etf/profile/overview/VCLT) | $7,000 | 14% | Appreciation without large risk |
+| [US Quality - VFQY](https://investor.vanguard.com/etf/profile/VFQY) | $5,000 | 10% | Long-term financial goals |
+| [US Small Cap Value - VBR](https://investor.vanguard.com/etf/profile/VBR) | $5,000 | 10% | Long-term financial goals |
+| [US Mid Cap Value - VOE](https://investor.vanguard.com/etf/profile/VOE) | $3,000 | 6% | Long-term financial goals |
+| [US RAFI Large Cap - FNDX](https://www.schwabassetmanagement.com/products/fndx) | $3,000 | 6% | Long-term financial goals |
+| [Intl Small Cap Value - ISVL](https://www.blackrock.com/us/individual/products/317548/ishares-international-developed-small-cap-value-factor-etf) | $2,000 | 4% | Long-term financial goals |
+| [International Quality - IQLT](https://www.ishares.com/us/products/271540/ishares-msci-international-developed-quality-factor-etf) | $2,000 | 4% | Long-term financial goals |
 | [US Small Cap Value - FISVX](https://fundresearch.fidelity.com/mutual-funds/summary/31635T773) | $4,000 | 8% | Retirement investing (Roth IRA) |
-| [US Quality - VFQY](https://investor.vanguard.com/etf/profile/VFQY) | $3,000 | 6% | Retirement investing (Roth IRA) |
+| [US Quality - QUAL](https://www.ishares.com/us/products/256101/ishares-msci-usa-quality-factor-etf) | $3,000 | 6% | Retirement investing (Roth IRA) |
 | [Intl Small Cap Value - AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) | $1,000 | 2% | Retirement investing (Roth IRA) |
-| [Intl Quality - IQLT](https://www.ishares.com/us/products/271540/ishares-msci-international-developed-quality-factor-etf) | $1,000 | 2% | Retirement investing (Roth IRA) |
-| [RAFI Emerging Markets Large Cap - FNDE](https://www.schwabassetmanagement.com/products/fnde) | $1,000 | 2% | Retirement investing (Roth IRA) |
+| [International Quality - IQLT](https://www.ishares.com/us/products/271540/ishares-msci-international-developed-quality-factor-etf) | $1,000 | 2% | Retirement investing (Roth IRA) |
+| [Emerging Markets RAFI Large Cap - FNDE](https://www.schwabassetmanagement.com/products/fnde) | $1,000 | 2% | Retirement investing (Roth IRA) |
 
 
 
