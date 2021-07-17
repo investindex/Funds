@@ -1,6 +1,6 @@
 # Fund proposals
 
-For ETFs and mutual funds separately, I will propose portfolios with increasing levels of complexity. If an institution lacks a fund to fill a given row's category, it will either be left blank or filled in with a suggested fund from another institution. The simplest portfolios are a single fund, but two options are provided: a total US fund or a total global fund. [Summary tables](https://github.com/investindex/Funds#summary) at the end organize all the funds, followed by an [example portfolio](https://github.com/investindex/Funds#example-portfolio) of both stocks and bonds.
+For ETFs and mutual funds separately, I will propose portfolios with increasing levels of complexity and provide options from multiple institutions. If an institution lacks a fund to fill a given row's category, it will either be left blank or filled in with a suggested fund from another institution. The simplest portfolios are a single fund, either a total US fund or a total global fund. [Summary tables](https://github.com/investindex/Funds#summary) at the end organize all the funds, followed by an [example portfolio](https://github.com/investindex/Funds#example-portfolio) of specific stock and bond funds.
 
 A terminology note: when used here in reference to a fund, the term _Global_ includes the US. The term _International_, abbreviated _Intl_, excludes the US.
 
