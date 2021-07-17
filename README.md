@@ -182,7 +182,7 @@ The only recommended funds not categorized in the tables above are J.P. Morgan's
 
 ## Example portfolio
 
-This example portfolio is for a hypothetical married couple, both age 35 and earning income, who rent their property and have no debt. Their combined liquid net worth is $40,000 plus $10,000 in a Roth IRA one of them contributes to. They keep $20,000 in cash and bonds and the remainder in stocks. Some indices are duplicated, because their taxable brokerage account and Roth IRA must be separate. When duplication was needed, I took the opportunity to select different funds, in order to average across differences in implementation (QUAL/VFQY; VBR/FISVX; ISVL/AVDV).
+This example portfolio is for a hypothetical married couple, both age 35 and earning income, who rent their residence and have no debt. Their combined liquid net worth is $40,000 plus $10,000 in a Roth IRA one of them contributes to. They keep $20,000 in cash and bonds and the remainder in stocks. Some indices are duplicated, because their taxable brokerage account and Roth IRA must be separate. When duplication was needed, I took the opportunity to select different funds, in order to average across differences in implementation (QUAL/VFQY; VBR/FISVX; ISVL/AVDV).
 
 | &ensp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Location &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; | &nbsp; Amount &nbsp; | Percentage | Purpose | 
 | :--: | :--: | :--: | :--: |
