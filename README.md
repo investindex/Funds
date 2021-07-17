@@ -182,13 +182,13 @@ The only recommended funds not categorized in the tables above are J.P. Morgan's
 
 ## Example portfolio
 
-This example portfolio is for a hypothetical married couple, both age 35 and earning income, with no debt and a combined liquid net worth of $40,000 plus a total of $10,000 in their Roth IRAs. They keep $20,000 in cash and bonds, $20,000 in stocks, and all $10,000 of retirement money in stocks. Some indices are duplicated, because their taxable brokerage account and Roth IRA must be separate. When duplication was needed, I took the opportunity to select different funds, in order to average across differences in implementation (QUAL/VFQY; VBR/FISVX; ISVL/AVDV).
+This example portfolio is for a hypothetical married couple, both age 35 and earning income, with no debt and a combined liquid net worth of $40,000 plus $10,000 in a Roth IRA one of them contributes to. They keep $20,000 in cash and bonds and the remainder in stocks. Some indices are duplicated, because their taxable brokerage account and Roth IRA must be separate. When duplication was needed, I took the opportunity to select different funds, in order to average across differences in implementation (QUAL/VFQY; VBR/FISVX; ISVL/AVDV).
 
 | &ensp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Location &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; | &nbsp; Amount &nbsp; | Percentage | Purpose | 
 | :--: | :--: | :--: | :--: |
 | Checking account | $8,000 | 16% | Potential for immediate use |
 | [Short-term Bonds - BSV](https://investor.vanguard.com/etf/profile/BSV) | $4,000 | 8% | Further emergency funds |
-| [Long-Term Corporate Bonds - SPLB](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-long-term-corporate-bond-etf-splb) | $8,000 | 16% | Appreciation without large risk |
+| [Long-Term Corporate Bonds - SPLB](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-long-term-corporate-bond-etf-splb) | $8,000 | 16% | Appreciation without high risk |
 | [US Quality - QUAL](https://www.ishares.com/us/products/256101/ishares-msci-usa-quality-factor-etf) | $5,000 | 10% | Long-term financial goals |
 | [US Small Cap Value - VBR](https://investor.vanguard.com/etf/profile/VBR) | $5,000 | 10% | Long-term financial goals |
 | [US Mid Cap Value - VOE](https://investor.vanguard.com/etf/profile/VOE) | $3,000 | 6% | Long-term financial goals |
