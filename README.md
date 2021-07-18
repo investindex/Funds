@@ -45,10 +45,10 @@ The ETF issuers with the largest total assets under management are BlackRock, Va
 | US Small Cap Value | 30% | [ISCV](https://www.ishares.com/us/products/239588/ishares-morningstar-smallcap-value-etf) | [VBR](https://investor.vanguard.com/etf/profile/VBR) | [SLYV](https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-600-small-cap-value-etf-slyv) | .06% | .07% | .15% |
 | US Mid Cap Value | 20% | [IMCV](https://www.ishares.com/us/products/239584/ishares-morningstar-midcap-value-etf) | [VOE](https://investor.vanguard.com/etf/profile/VOE) | [MDYV](https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-400-mid-cap-value-etf-mdyv) | .06% | .07% | .15% |
 | US Large Cap Value | 10% | [IUSV](https://www.ishares.com/us/products/239715/ishares-core-sp-us-value-etf) | [VTV](https://investor.vanguard.com/etf/profile/VTV) | [SPYV](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-sp-500-value-etf-spyv) | .04% | .04% | .04% |
-| US Quality | 20% | [QUAL](https://www.ishares.com/us/products/256101/ishares-msci-usa-quality-factor-etf) | [VFQY](https://investor.vanguard.com/etf/profile/VFQY) | [VFQY](https://investor.vanguard.com/etf/profile/VFQY) | .15% | .13% | .13% |
+| US Quality | 20% | [QUAL](https://www.ishares.com/us/products/256101/ishares-msci-usa-quality-factor-etf) | [VFQY](https://investor.vanguard.com/etf/profile/VFQY) | VFQY | .15% | .13% | .13% |
 | Intl Small Cap Value | 6% | [ISVL](https://www.blackrock.com/us/individual/products/317548/ishares-international-developed-small-cap-value-factor-etf) | [AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) | [AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) | .30% | .36% | .36% |
-| Intl Large Cap Value | 6% | [IVLU](https://www.ishares.com/us/products/275382/ishares-msci-international-developed-value-factor-etf) | [IVLU](https://www.ishares.com/us/products/275382/ishares-msci-international-developed-value-factor-etf) | [IVLU](https://www.ishares.com/us/products/275382/ishares-msci-international-developed-value-factor-etf) | .30% | .30% | .30% |
-| International Quality | 8% | [IQLT](https://www.ishares.com/us/products/271540/ishares-msci-international-developed-quality-factor-etf) | [IQLT](https://www.ishares.com/us/products/271540/ishares-msci-international-developed-quality-factor-etf) | [IQLT](https://www.ishares.com/us/products/271540/ishares-msci-international-developed-quality-factor-etf) | .30% | .30% | .30% |
+| Intl Large Cap Value | 6% | [IVLU](https://www.ishares.com/us/products/275382/ishares-msci-international-developed-value-factor-etf) | IVLU | IVLU | .30% | .30% | .30% |
+| International Quality | 8% | [IQLT](https://www.ishares.com/us/products/271540/ishares-msci-international-developed-quality-factor-etf) | IQLT | IQLT | .30% | .30% | .30% |
 | | | | | | .124% | .129% | .169% |
 
 &nbsp;
@@ -92,10 +92,10 @@ The leading providers of indexed mutual funds are Fidelity and Vanguard; Schwab 
 | Stock index | Allocation | Fidelity | Vanguard | Schwab | F. Fee | V. Fee | S. Fee |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | US Small Cap Value | 30% | [FISVX](https://fundresearch.fidelity.com/mutual-funds/summary/31635T773) | [VSIAX](https://investor.vanguard.com/mutual-funds/profile/VSIAX) | [SFSNX](https://www.schwabassetmanagement.com/products/sfsnx) | .05% | .07% | .25% |
-| US Mid Cap Value | 20% | [FIMVX](https://fundresearch.fidelity.com/mutual-funds/summary/31635T799) | [VMVAX](https://investor.vanguard.com/mutual-funds/profile/VMVAX) | [VMVAX](https://investor.vanguard.com/mutual-funds/profile/VMVAX) | .05% | .07% | .07% |
+| US Mid Cap Value | 20% | [FIMVX](https://fundresearch.fidelity.com/mutual-funds/summary/31635T799) | [VMVAX](https://investor.vanguard.com/mutual-funds/profile/VMVAX) | VMVAX | .05% | .07% | .07% |
 | US Large Cap Value | 10% | [FLCOX](https://fundresearch.fidelity.com/mutual-funds/summary/31635V679) | [VVIAX](https://investor.vanguard.com/mutual-funds/profile/VVIAX) | [SWLVX](https://www.schwabassetmanagement.com/products/swlvx) | .035% | .05% | .035%
 | Total US | 20% | &ensp; [FSKAX](https://fundresearch.fidelity.com/mutual-funds/summary/315911693) &ensp; | &ensp; [VTSAX](https://investor.vanguard.com/mutual-funds/profile/VTSAX) &ensp; | &ensp; [SWTSX](https://www.schwabassetmanagement.com/products/swtsx) &ensp; | .015% | .04% | .03% |
-| Intl Small Cap Value | 10% | [SFILX](https://www.schwabassetmanagement.com/products/sfilx) | [SFILX](https://www.schwabassetmanagement.com/products/sfilx) | [SFILX](https://www.schwabassetmanagement.com/products/sfilx) | .39% | .39% | .39% |
+| Intl Small Cap Value | 10% | SFILX | SFILX | [SFILX](https://www.schwabassetmanagement.com/products/sfilx) | .39% | .39% | .39% |
 | Intl Large Cap Value | 10% | [FIVA](https://institutional.fidelity.com/app/fund/etf/snapshot/FIIS_ETF_FIVA.html) | [VTRIX](https://investor.vanguard.com/mutual-funds/profile/VTRIX) | [SFNNX](https://www.schwabassetmanagement.com/products/sfnnx) | &nbsp; .39% &nbsp; | &nbsp; .35% &nbsp; | &nbsp; .25% &nbsp; |
 | | | | | | .110% | .122% | .163% |
 
