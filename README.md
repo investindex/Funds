@@ -8,7 +8,7 @@ A terminology note: when used here in reference to a fund, the term _Global_ inc
 
 ## ETFs
 
-The ETF issuers with the largest total assets under management are BlackRock, Vanguard, and State Street (in decreasing order). The [ETF database](https://etfdb.com/etfs/issuers/#issuer-power-rankings__aum&sort_name=revenue_position&sort_order=asc&page=1) is a great resource for comparing and searching for ETFs. Regardless of your choice, the fees are a matter of cents annually for every $100 invested.
+The ETF issuers with the largest total assets under management are BlackRock, Vanguard, and State Street (in decreasing order). The [ETF database](https://etfdb.com/etfs/issuers/#issuer-power-rankings__aum&sort_name=revenue_position&sort_order=asc&page=1) and [ETF.com](https://www.etf.com/channels/) are great resources for comparing and searching for ETFs. Regardless of your choice, the fees are a matter of cents annually for every $100 invested.
 
 &nbsp;
 
@@ -29,7 +29,7 @@ The ETF issuers with the largest total assets under management are BlackRock, Va
 
 | &nbsp; &nbsp; &nbsp; &nbsp; Stock index &nbsp; &nbsp; &nbsp; &nbsp; | Allocation | BlackRock | Vanguard | State Street | B. Fee | V. Fee | S. Fee |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| US Quality | 40% | [QUAL](https://www.ishares.com/us/products/256101/ishares-msci-usa-quality-factor-etf) | [VFQY](https://investor.vanguard.com/etf/profile/VFQY) | [VFQY](https://investor.vanguard.com/etf/profile/VFQY) | .15% | .13% | .13% |
+| US Quality | 40% | [QUAL](https://www.ishares.com/us/products/256101/ishares-msci-usa-quality-factor-etf) | [VFQY](https://investor.vanguard.com/etf/profile/VFQY) | VFQY | .15% | .13% | .13% |
 | US Small Cap Value | 40% | [ISCV](https://www.ishares.com/us/products/239588/ishares-morningstar-smallcap-value-etf) | [VBR](https://investor.vanguard.com/etf/profile/VBR) | [SLYV](https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-600-small-cap-value-etf-slyv) | .06% | .07% | .15% |
 | Total International | 20% | [IXUS](https://www.ishares.com/us/products/244048/ishares-core-msci-total-international-stock-etf) | [VXUS](https://investor.vanguard.com/etf/profile/VXUS) | [CWI](https://www.ssga.com/us/en/individual/etfs/funds/spdr-msci-acwi-ex-us-etf-cwi) | .09% | .08% | .30% |
 | | | | | | .102% | .096% | .172% |
