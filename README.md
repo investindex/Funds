@@ -186,6 +186,8 @@ There are also the all-in-one funds [discussed in the guidelines](https://github
 
 These examples are for a hypothetical married couple, both age 35 and earning income, who rent their residence and have no debt. Their combined liquid net worth is $40,000 plus $10,000 in a Roth IRA one of them has contributed to. In the complex version, they keep $20,000 in cash and bonds and the remainder in stocks. Some indices are duplicated, because their taxable brokerage account and Roth IRA must be separate. When duplication was needed, I took the opportunity to select different funds, in order to average across differences in implementation (QUAL/VFQY; VBR/FISVX; ISVL/AVDV). In the simple version, they keep about $20,800 in cash and bonds and the remainder in stocks. Only three funds are used, instead of 12.
 
+&nbsp;
+
 <p align="center">
   <b>Complex portfolio</b>
 </p>
