@@ -186,6 +186,10 @@ There are also the all-in-one funds [discussed in the guidelines](https://github
 
 This example portfolio is for a hypothetical married couple, both age 35 and earning income, who rent their residence and have no debt. Their combined liquid net worth is $40,000 plus $10,000 in a Roth IRA one of them has contributed to. They keep $20,000 in cash and bonds and the remainder in stocks. Some indices are duplicated, because their taxable brokerage account and Roth IRA must be separate. When duplication was needed, I took the opportunity to select different funds, in order to average across differences in implementation (QUAL/VFQY; VBR/FISVX; ISVL/AVDV).
 
+<p align="center">
+  <b>Complex portfolio</b>
+</p>
+
 | &ensp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Location &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; | &nbsp; Amount &nbsp; | Percentage | Purpose | 
 | :--: | :--: | :--: | :--: |
 | Checking account | $8,000 | 16% | Potential for immediate use |
@@ -203,6 +207,17 @@ This example portfolio is for a hypothetical married couple, both age 35 and ear
 | [Intl Small Cap Value - AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) | $1,500 | 3% | Retirement investing (Roth IRA) |
 
 &nbsp;
+
+<p align="center">
+  <b>Simple portfolio</b>
+</p>
+
+| &ensp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Location &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; | &nbsp; Amount &nbsp; | Percentage | Purpose | 
+| :--: | :--: | :--: | :--: |
+| Checking account | $8,000 | 16% | Potential for immediate use |
+| [60/40 Allocation - AOR](https://www.ishares.com/us/products/239756/ishares-growth-allocation-etf) | $32,000 | 64% | Emergency funds and long-term goals |
+| [Global Multifactor - ACWF](https://www.ishares.com/us/products/272821/ishares-msci-global-multi-factor-etf) | $5,000 | 10% | Retirement investing (Roth IRA) |
+| [US Small Cap Value - VSIAX](https://investor.vanguard.com/mutual-funds/profile/VSIAX) | $5,000 | 10% | Retirement investing (Roth IRA) |
 
 [Click here for the next section — Concerns for the small investor](https://github.com/investindex/Small)
 
