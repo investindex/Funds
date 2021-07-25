@@ -176,6 +176,8 @@ Some of the Vanguard bond ETFs have a mutual fund counterpart with a purchase fe
 
 The only recommended funds not categorized in the tables above are J.P. Morgan's US quality ETF ([JQUA](https://am.jpmorgan.com/us/en/asset-management/adv/products/jpmorgan-us-quality-factor-etf-46641q761)) and US large cap value ETF ([JVAL](https://am.jpmorgan.com/us/en/asset-management/adv/products/jpmorgan-u-s-value-factor-etf-etf-shares-46641q753)); BlackRock's US large cap value fund ([VLUE](https://www.ishares.com/us/products/251616/ishares-msci-usa-value-factor-etf)) with greater value tilt than IUSV; and some Schwab funds that don't fit neatly into the table: their RAFI total US ETF ([FNDB](https://www.schwabassetmanagement.com/products/fndb)), RAFI US large cap funds ([FNDX](https://www.schwabassetmanagement.com/products/fndx)/[SFLNX](https://www.schwabassetmanagement.com/products/sflnx)), and RAFI emerging markets funds ([FNDE](https://www.schwabassetmanagement.com/products/fnde)/[SFENX](https://www.schwabassetmanagement.com/products/sfenx)).
 
+There are also the all-in-one funds [discussed in the guidelines](https://github.com/investindex/Guidelines#simplify-dont-oversimplify).
+
 &nbsp;
 
 &nbsp;
