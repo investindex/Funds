@@ -223,6 +223,8 @@ These examples are for a hypothetical married couple, both age 35 and earning in
 
 &nbsp;
 
+&nbsp;
+
 [Click here for the next section — Concerns for the small investor](https://github.com/investindex/Small)
 
 &nbsp;
