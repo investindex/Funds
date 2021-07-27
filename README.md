@@ -148,6 +148,7 @@ These tables summarize the funds discussed above. Only one fund is not in its ow
 | Intl Large Cap Value | [VTRIX](https://investor.vanguard.com/mutual-funds/profile/VTRIX) | [IVLU](https://www.ishares.com/us/products/275382/ishares-msci-international-developed-value-factor-etf) | | [FIVA](https://institutional.fidelity.com/app/fund/etf/snapshot/FIIS_ETF_FIVA.html) | [FNDF](https://www.schwabassetmanagement.com/products/fndf) / [SFNNX](https://www.schwabassetmanagement.com/products/sfnnx) |
 | International Quality | | [IQLT](https://www.ishares.com/us/products/271540/ishares-msci-international-developed-quality-factor-etf) | | | |
 | Total Global | [VT](https://investor.vanguard.com/etf/profile/VT) / [VTWAX](https://investor.vanguard.com/mutual-funds/profile/VTWAX) | [ACWI](https://www.ishares.com/us/products/239600/ishares-msci-acwi-etf) | [SPGM](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-msci-global-stock-market-etf-spgm) | | |
+| Global Multifactor | | [ACWF](https://www.ishares.com/us/products/272821/ishares-msci-global-multi-factor-etf) | [QWLD](https://www.ssga.com/us/en/individual/etfs/funds/spdr-msci-world-strategicfactorssm-etf-qwld) | | |
 
 &nbsp;
 
