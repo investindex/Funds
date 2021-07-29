@@ -125,7 +125,7 @@ There are other multifactor funds which I will list here.
 
 BlackRock manages a global multifactor fund ([ACWF](https://www.ishares.com/us/products/272821/ishares-msci-global-multi-factor-etf)), a developed markets multifactor fund ([INTF](https://www.ishares.com/us/products/272822/ishares-msci-international-multi-factor-etf)), an emerging markets multifactor fund ([EMGF](https://www.ishares.com/us/products/272820/ishares-msci-emerging-multi-factor-etf)), an international developed small cap multifactor fund ([ISCF](https://www.ishares.com/us/products/272823/ishares-msci-international-small-cap-multi-factor-etf)), a US small cap multifactor fund ([SMLF](https://www.ishares.com/us/products/272825/ishares-msci-usa-small-cap-multi-factor-etf)), a US mid cap multifactor fund ([MIDF](https://www.ishares.com/us/products/308876/)), and a US large cap multifactor fund ([LRGF](https://www.ishares.com/us/products/272824/ishares-msci-usa-multi-factor-etf)).
 
-Pimco
+Pimco manages a RAFI US multifactor fund ([MFUS](https://www.pimco.com/en-us/investments/etf/rafi-dynamic-multi-factor-us-equity-etf)), RAFI developed markets multifactor fund ([MFDX](https://www.pimco.com/en-us/investments/etf/rafi-dynamic-multi-factor-international-equity-etf)), and a RAFI emerging markets multifactor fund ([MFEM](https://www.pimco.com/en-us/investments/etf/rafi-dynamic-multi-factor-emerging-markets-equity-etf)).
 
 Invesco
 
