@@ -119,7 +119,23 @@ BlackRock has an alternative to IUSV. This fund, [VLUE](https://www.ishares.com/
 
 Vanguard’s US quality factor ETF (VFQY) is more balanced between small, mid, and large cap stocks than its counterpart at BlackRock (QUAL), which holds a smaller number of almost entirely large cap stocks. J.P. Morgan has a quality factor ETF with characteristics intermediate between the two ([JQUA](https://am.jpmorgan.com/us/en/asset-management/adv/products/jpmorgan-us-quality-factor-etf-46641q761)).
 
-State Street doesn’t offer an ETF focused solely on the quality factor, but it does offer multiple ETFs with a combination of quality, value, and low volatility: [QUS](https://www.ssga.com/us/en/individual/etfs/funds/spdr-msci-usa-strategicfactorssm-etf-qus), [QEFA](https://www.ssga.com/us/en/individual/etfs/funds/spdr-msci-eafe-strategicfactorssm-etf-qefa), [QEMM](https://www.ssga.com/us/en/individual/etfs/funds/spdr-msci-emerging-markets-strategicfactorssm-etf-qemm), and [QWLD](https://www.ssga.com/us/en/individual/etfs/funds/spdr-msci-world-strategicfactorssm-etf-qwld). Low volatility is advertised because it has strong historical returns, but these returns are explained by [other](https://www.youtube.com/watch?v=xUbJ21WcUWA&ab_channel=BenFelix) [variables](https://www.sciencedirect.com/science/article/pii/S0304405X21002051). A low-volatility strategy dovetails well with selecting high-profitability stocks. You might consider using these funds to achieve risk factor diversification more simply, although the methods of diversification are less clear than when implemented on your own.
+State Street doesn’t offer an ETF focused solely on the quality factor, but it does offer multiple ETFs with a combination of quality, value, and low volatility: [QUS](https://www.ssga.com/us/en/individual/etfs/funds/spdr-msci-usa-strategicfactorssm-etf-qus), [QEFA](https://www.ssga.com/us/en/individual/etfs/funds/spdr-msci-eafe-strategicfactorssm-etf-qefa), [QEMM](https://www.ssga.com/us/en/individual/etfs/funds/spdr-msci-emerging-markets-strategicfactorssm-etf-qemm), and [QWLD](https://www.ssga.com/us/en/individual/etfs/funds/spdr-msci-world-strategicfactorssm-etf-qwld). Low volatility is advertised because it has strong historical returns, but these returns are explained by [other](https://www.youtube.com/watch?v=xUbJ21WcUWA&ab_channel=BenFelix) [variables](https://www.sciencedirect.com/science/article/pii/S0304405X21002051). A low-volatility strategy dovetails well with selecting high-profitability stocks.
+
+There are other multifactor funds which I will list here.
+
+BlackRock manages a global multifactor fund ([ACWF](https://www.ishares.com/us/products/272821/ishares-msci-global-multi-factor-etf)), a developed markets multifactor fund ([INTF](https://www.ishares.com/us/products/272822/ishares-msci-international-multi-factor-etf)), an emerging markets multifactor fund ([EMGF](https://www.ishares.com/us/products/272820/ishares-msci-emerging-multi-factor-etf)), an international developed small cap multifactor fund ([ISCF](https://www.ishares.com/us/products/272823/ishares-msci-international-small-cap-multi-factor-etf)), a US small cap multifactor fund ([SMLF](https://www.ishares.com/us/products/272825/ishares-msci-usa-small-cap-multi-factor-etf)), a US mid cap multifactor fund ([MIDF](https://www.ishares.com/us/products/308876/)), and a US large cap multifactor fund ([LRGF](https://www.ishares.com/us/products/272824/ishares-msci-usa-multi-factor-etf)).
+
+Pimco
+
+Invesco
+
+Goldman Sachs
+
+Fidelity
+
+
+
+You might consider using these funds to achieve risk factor diversification more simply, although the methods of diversification are less clear than when implemented on your own. Expense ratios are also slightly higher but still reasonable.
 
 &nbsp;
 
