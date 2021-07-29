@@ -59,7 +59,7 @@ The ETF issuers with the largest total [assets under management](https://www.inv
 
 ## Mutual funds
 
-The leading providers of indexed mutual funds are Fidelity and Vanguard; Schwab has a smaller collection but also covers some indices which the first two do not (see the [previous section](https://github.com/investindex/Portfolio)). Mutual fund offerings are not as diverse, so even the complex portfolio is not as complex as the ETF version. As with ETFs, annual fees are pennies per year for every $100 invested.
+The leading providers of indexed mutual funds are Fidelity and Vanguard; Schwab has a smaller collection but also covers some indices which the first two do not (see RAFI indices in the [previous section](https://github.com/investindex/Portfolio)). Mutual fund offerings are not as diverse, so even the complex portfolio is not as complex as the ETF version. As with ETFs, annual fees are pennies per year for every $100 invested.
 
 &nbsp;
 
