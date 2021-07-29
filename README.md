@@ -33,7 +33,7 @@ The ETF issuers with the largest total [assets under management](https://www.inv
 | US Quality | 30% | [QUAL](https://www.ishares.com/us/products/256101/ishares-msci-usa-quality-factor-etf) | [VFQY](https://investor.vanguard.com/etf/profile/VFQY) | VFQY | .15% | .13% | .13% |
 | US Small Cap Value | 40% | [ISCV](https://www.ishares.com/us/products/239588/ishares-morningstar-smallcap-value-etf) | [VBR](https://investor.vanguard.com/etf/profile/VBR) | [SLYV](https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-600-small-cap-value-etf-slyv) | .06% | .07% | .15% |
 | Total International | 30% | [IXUS](https://www.ishares.com/us/products/244048/ishares-core-msci-total-international-stock-etf) | [VXUS](https://investor.vanguard.com/etf/profile/VXUS) | [CWI](https://www.ssga.com/us/en/individual/etfs/funds/spdr-msci-acwi-ex-us-etf-cwi) | .09% | .08% | .30% |
-| | | | | | .XXX% | .XXX% | .XXX% |
+| | | | | | .096% | .091% | .189% |
 
 &nbsp;
 
@@ -51,7 +51,7 @@ The ETF issuers with the largest total [assets under management](https://www.inv
 | Intl Large Cap Value | 7% | [IVLU](https://www.ishares.com/us/products/275382/ishares-msci-international-developed-value-factor-etf) | IVLU | IVLU | .30% | .30% | .30% |
 | International Quality | 7% | [IQLT](https://www.ishares.com/us/products/271540/ishares-msci-international-developed-quality-factor-etf) | IQLT | IQLT | .30% | .30% | .30% |
 | Intl Emerging | 8% | [IEMG](https://www.ishares.com/us/products/244050/ishares-core-msci-emerging-markets-etf) | [VWO](https://investor.vanguard.com/etf/profile/VWO) | [SPEM](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-emerging-markets-etf-spem) | .11% | .10% | .11% |
-| | | | | | .XXX% | .XXX% | .XXX% |
+| | | | | | .133% | .137% | .170% |
 
 &nbsp;
 
@@ -83,7 +83,7 @@ The leading providers of indexed mutual funds are Fidelity and Vanguard; Schwab 
 | Total US | 30% | &ensp; [FSKAX](https://fundresearch.fidelity.com/mutual-funds/summary/315911693) &ensp; | &ensp; [VTSAX](https://investor.vanguard.com/mutual-funds/profile/VTSAX) &ensp; | &ensp; [SWTSX](https://www.schwabassetmanagement.com/products/swtsx) &ensp; | .015% | .04% | .03% |
 | US Small Cap Value | 40% | [FISVX](https://fundresearch.fidelity.com/mutual-funds/summary/31635T773) | [VSIAX](https://investor.vanguard.com/mutual-funds/profile/VSIAX) | [SFSNX](https://www.schwabassetmanagement.com/products/sfsnx) | .05% | .07% | .25% |
 | Intl Developed | 30% | [FSPSX](https://fundresearch.fidelity.com/mutual-funds/summary/315911727) | [VTMGX](https://investor.vanguard.com/mutual-funds/profile/VTMGX) | [SWISX](https://www.schwabassetmanagement.com/products/swisx) | &nbsp; .035% &nbsp; | &nbsp; .07% &nbsp; | &nbsp; .06% &nbsp; |
-| | | | | | .XXX% | .XXX% | .XXX% |
+| | | | | | .035% | .061% | .127% |
 
 &nbsp;
 
@@ -99,7 +99,7 @@ The leading providers of indexed mutual funds are Fidelity and Vanguard; Schwab 
 | Total US | 20% | &ensp; [FSKAX](https://fundresearch.fidelity.com/mutual-funds/summary/315911693) &ensp; | &ensp; [VTSAX](https://investor.vanguard.com/mutual-funds/profile/VTSAX) &ensp; | &ensp; [SWTSX](https://www.schwabassetmanagement.com/products/swtsx) &ensp; | .015% | .04% | .03% |
 | Intl Large Cap Value | 20% | [FIVA](https://institutional.fidelity.com/app/fund/etf/snapshot/FIIS_ETF_FIVA.html) | [VTRIX](https://investor.vanguard.com/mutual-funds/profile/VTRIX) | [SFNNX](https://www.schwabassetmanagement.com/products/sfnnx) | &nbsp; .39% &nbsp; | &nbsp; .35% &nbsp; | &nbsp; .25% &nbsp; |
 | Intl Emerging | 10% | [FPADX](https://fundresearch.fidelity.com/mutual-funds/summary/316146331) | [VEMAX](https://investor.vanguard.com/mutual-funds/profile/VEMAX) | [SCHE](https://www.schwabassetmanagement.com/products/sche) | &nbsp; .075% &nbsp; | &nbsp; .14% &nbsp; | &nbsp; .11% &nbsp; |
-| | | | | | .XXX% | .XXX% | .XXX% |
+| | | | | | .112% | .125% | .144% |
 
 &nbsp;
 
@@ -113,7 +113,7 @@ Although the funds are presented as groups, there is no prize for brand loyalty 
 
 ## Comments on minor details and additional funds
 
-When deciding on weights for developed vs. emerging markets, keep in mind that: (1) if a primary concern is market cap weighting, developed markets are a larger class and (even without the US) demand two to three times more weight than emerging markets; (2) the international value ETFs — AVDV, ISVL, IVLU, FIVA — invest exclusively in developed countries, whereas VTRIX provides some coverage of emerging markets as well.
+When deciding on weights for developed vs. emerging markets, keep in mind that: (1) if a primary concern is market cap weighting, developed markets are a larger class and (even without the US) demand two to three times more weight than emerging markets; (2) the international value ETFs — AVDV, ISVL, IVLU, FIVA — invest exclusively in developed countries, whereas VTRIX provides some coverage of emerging markets as well. Unlike the other managers, BlackRock includes South Korea in their emerging markets fund (IEMG) instead of their developed markets fund (IDEV).
 
 BlackRock has an alternative to IUSV. This fund, [VLUE](https://www.ishares.com/us/products/251616/ishares-msci-usa-value-factor-etf), has a smaller number of holdings and a stronger value tilt than IUSV. It is expected to exaggerate the value premium, so it stands to reason that in the long run VLUE will probably outperform IUSV, with the drawback of higher volatility and higher random risk due to less diversification.
 
