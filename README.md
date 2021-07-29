@@ -131,11 +131,9 @@ Goldman Sachs manages a US large cap multifactor fund ([GSLC](https://www.gsam.c
 
 Invesco manages a US large cap multifactor fund ([QVML](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&productId=ETF-QVML)), a US mid cap multifactor fund ([QVMM](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&productId=ETF-QVMM)), a US small cap multifactor fund ([QVMS](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&productId=ETF-QVMS)), and a Russell 2000 (US small cap index) multifactor fund ([OMFS](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&productId=ETF-OMFS)).
 
-Fidelity
+Fidelity manages a developed markets multifactor fund ([FDEV](https://institutional.fidelity.com/app/fund/etf/snapshot/FIIS_ETF_FDEV.html)), an emerging markets multifactor fund ([FDEM](https://institutional.fidelity.com/app/fund/etf/snapshot/FIIS_ETF_FDEM.html)), a US large cap multifactor fund ([FLRG](https://institutional.fidelity.com/app/fund/etf/snapshot/FIIS_ETF_FLRG.html)), and a US small/mid cap multifactor fund ([FSMD](https://institutional.fidelity.com/app/fund/etf/snapshot/FIIS_ETF_FSMD.html)).
 
-
-
-You might consider using these funds to achieve risk factor diversification more simply, although the methods of diversification are less clear than when implemented on your own. Expense ratios are also slightly higher but still reasonable.
+You might consider using these funds to achieve risk factor diversification more simply, although the methods of diversification are less clear than when implemented on your own. Expense ratios are also slightly higher but still reasonable. If the funds listed here present an overwhelming number of choices, simply ignore them and keep reading.
 
 &nbsp;
 
