@@ -185,7 +185,7 @@ There are also the all-in-one funds [discussed in the guidelines](https://github
 
 ## Example portfolio
 
-These examples are for a hypothetical married couple, both age 35 and earning income, who rent their residence and have no debt. Their combined liquid net worth is $40,000 plus $10,000 in a Roth IRA one of them has contributed to. In the complex version, they keep $20,000 in cash and bonds and the remainder in stocks. Some indices are duplicated, because their taxable brokerage account and Roth IRA must be separate. When duplication was needed, I took the opportunity to select different funds, in order to average across differences in implementation (QUAL/VFQY; VBR/FISVX; ISVL/AVDV). In the simple version, they keep about $20,800 in cash and bonds and the remainder in stocks. Only three funds are used, instead of 12.
+These examples are for a hypothetical married couple, both age 35 and earning income, who rent their residence and have no debt. Their combined liquid net worth is $40,000 plus $10,000 in a Roth IRA one of them has contributed to. In the complex version, they keep $20,000 in cash and bonds and the remainder in stocks. Some indices are duplicated, because their taxable brokerage account and Roth IRA must be separate. When duplication was needed, I took the opportunity to select different funds, in order to average across differences in implementation (QUAL/VFQY; VBR/FISVX; ISVL/AVDV). In the simple version, they keep about $20,800 in cash and bonds and the remainder in stocks. Only three funds are used, instead of 13.
 
 &nbsp;
 
@@ -198,12 +198,13 @@ These examples are for a hypothetical married couple, both age 35 and earning in
 | Checking account | $8,000 | 16% | Potential for immediate use |
 | [Short-term Bonds - BSV](https://investor.vanguard.com/etf/profile/BSV) | $4,000 | 8% | Further emergency funds |
 | [Long-Term Corporate Bonds - SPLB](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-long-term-corporate-bond-etf-splb) | $8,000 | 16% | Appreciation without high risk |
-| [US Quality - QUAL](https://www.ishares.com/us/products/256101/ishares-msci-usa-quality-factor-etf) | $5,000 | 10% | Long-term financial goals |
-| [US Small Cap Value - VBR](https://investor.vanguard.com/etf/profile/VBR) | $5,000 | 10% | Long-term financial goals |
+| [US Small Cap Value - VBR](https://investor.vanguard.com/etf/profile/VBR) | $4,500 | 9% | Long-term financial goals |
+| [US Quality - QUAL](https://www.ishares.com/us/products/256101/ishares-msci-usa-quality-factor-etf) | $4,000 | 8% | Long-term financial goals |
 | [US Mid Cap Value - VOE](https://investor.vanguard.com/etf/profile/VOE) | $3,000 | 6% | Long-term financial goals |
 | [RAFI US Large Cap - FNDX](https://www.schwabassetmanagement.com/products/fndx) | $3,000 | 6% | Long-term financial goals |
 | [International Quality - IQLT](https://www.ishares.com/us/products/271540/ishares-msci-international-developed-quality-factor-etf) | $2,500 | 5% | Long-term financial goals |
 | [Intl Small Cap Value - ISVL](https://www.ishares.com/us/products/317548/ishares-international-developed-small-cap-value-factor-etf) | $1,500 | 3% | Long-term financial goals |
+| [Emerging Markets Multifactor - EMGF](https://www.ishares.com/us/products/272820/ishares-msci-emerging-multi-factor-etf) | $1,500 | 3% | Long-term financial goals |
 | [US Small Cap Value - FISVX](https://fundresearch.fidelity.com/mutual-funds/summary/31635T773) | $3,500 | 7% | Retirement investing (Roth IRA) |
 | [US Quality - VFQY](https://investor.vanguard.com/etf/profile/VFQY) | $3,000 | 6% | Retirement investing (Roth IRA) |
 | [RAFI Emerging Markets Large Cap - FNDE](https://www.schwabassetmanagement.com/products/fnde) | $2,000 | 4% | Retirement investing (Roth IRA) |
