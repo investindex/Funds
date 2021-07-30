@@ -109,7 +109,7 @@ The leading providers of indexed mutual funds are Fidelity and Vanguard; Schwab 
 
 Although the funds are presented as groups, there is no prize for brand loyalty and you may want to choose a combination of managing institutions, as well as a combination of ETFs and mutual funds. Other institutions I haven’t mentioned have solid offerings which are not diverse enough to build a complex portfolio, as defined here. The fund [JQUA](https://am.jpmorgan.com/us/en/asset-management/adv/products/jpmorgan-us-quality-factor-etf-46641q761) mentioned below is a good product, but I cannot recommend many of J.P. Morgan’s other funds. Other institutions have still more offerings, so this guide is not exhaustive. But the institutions reviewed here manage many of the best funds at very low cost. So unless you have highly specific ideas beyond indexing and want to use a product like Invesco’s [Solar ETF](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=TAN), you are not missing anything major by selecting among them.
 
-See this footnote for comments on minor details of funds, as well as many additional funds. Most of the new funds mentioned are multifactor funds, which combine the implementation of several factors in one fund.<sup id="fn1">[1](#f1)</sup>
+See this footnote<sup id="fn1">[1](#f1)</sup> for comments on minor details of funds, as well as many additional funds. Most of the new funds mentioned are multifactor funds, which combine the implementation of several factors in one fund.
 
 &nbsp;
 
