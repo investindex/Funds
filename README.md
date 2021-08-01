@@ -180,6 +180,19 @@ These examples are for a hypothetical married couple, both age 35 and earning in
 &nbsp;
 
 <p align="center">
+  <b>Simple portfolio</b>
+</p>
+
+| &ensp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Location &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; | &nbsp; Amount &nbsp; | Percentage | Purpose | 
+| :--: | :--: | :--: | :--: |
+| Checking account | $8,000 | 16% | Potential for immediate use |
+| [60/40 Allocation - AOR](https://www.ishares.com/us/products/239756/ishares-growth-allocation-etf) | $32,000 | 64% | Emergency + Long-term funds |
+| [Global Multifactor - QWLD](https://www.ssga.com/us/en/individual/etfs/funds/spdr-msci-world-strategicfactorssm-etf-qwld) | $5,000 | 10% | Retirement investing (Roth IRA) |
+| [US Small Cap Value - VSIAX](https://investor.vanguard.com/mutual-funds/profile/VSIAX) | $5,000 | 10% | Retirement investing (Roth IRA) |
+
+&nbsp;
+
+<p align="center">
   <b>Complex portfolio</b>
 </p>
 
@@ -199,19 +212,6 @@ These examples are for a hypothetical married couple, both age 35 and earning in
 | [US Quality - VFQY](https://investor.vanguard.com/etf/profile/VFQY) | $3,000 | 6% | Retirement investing (Roth IRA) |
 | [RAFI Emerging Markets Large Cap - FNDE](https://www.schwabassetmanagement.com/products/fnde) | $2,000 | 4% | Retirement investing (Roth IRA) |
 | [Intl Small Cap Value - AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) | $1,500 | 3% | Retirement investing (Roth IRA) |
-
-&nbsp;
-
-<p align="center">
-  <b>Simple portfolio</b>
-</p>
-
-| &ensp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Location &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; | &nbsp; Amount &nbsp; | Percentage | Purpose | 
-| :--: | :--: | :--: | :--: |
-| Checking account | $8,000 | 16% | Potential for immediate use |
-| [60/40 Allocation - AOR](https://www.ishares.com/us/products/239756/ishares-growth-allocation-etf) | $32,000 | 64% | Emergency + Long-term funds |
-| [Global Multifactor - QWLD](https://www.ssga.com/us/en/individual/etfs/funds/spdr-msci-world-strategicfactorssm-etf-qwld) | $5,000 | 10% | Retirement investing (Roth IRA) |
-| [US Small Cap Value - VSIAX](https://investor.vanguard.com/mutual-funds/profile/VSIAX) | $5,000 | 10% | Retirement investing (Roth IRA) |
 
 &nbsp;
 
