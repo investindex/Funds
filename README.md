@@ -241,7 +241,9 @@ All sections:
 
 Footnote:
 
-<sup id="f1"> 1 </sup> #### Additional funds and minor comments
+<sup id="f1"> 1 </sup>
+
+#### Additional funds and minor comments
 
 Vanguard’s US quality factor ETF (VFQY) is more balanced between small, mid, and large cap stocks than its counterpart at BlackRock (QUAL), which holds a smaller number of almost entirely large cap stocks. J.P. Morgan has a quality factor ETF with characteristics intermediate between the two ([JQUA](https://am.jpmorgan.com/us/en/asset-management/adv/products/jpmorgan-us-quality-factor-etf-46641q761)).
 
