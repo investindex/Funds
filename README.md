@@ -241,11 +241,13 @@ All sections:
 
 Footnote:
 
-<sup id="f1"> 1 </sup> When deciding on weights for developed vs. emerging markets, keep in mind that: (1) if a primary concern is market cap weighting, developed markets are a larger class and (even without the US) demand two to three times more weight than emerging markets; and (2) the international value ETFs — AVDV, ISVL, IVLU, FIVA — invest exclusively in developed countries, whereas VTRIX provides some coverage of emerging markets as well. Unlike the other managers, BlackRock includes South Korea in their emerging markets fund (IEMG) instead of their developed markets fund (IDEV).
+<sup id="f1"> 1 </sup> #### Additional funds and minor comments
 
 Vanguard’s US quality factor ETF (VFQY) is more balanced between small, mid, and large cap stocks than its counterpart at BlackRock (QUAL), which holds a smaller number of almost entirely large cap stocks. J.P. Morgan has a quality factor ETF with characteristics intermediate between the two ([JQUA](https://am.jpmorgan.com/us/en/asset-management/adv/products/jpmorgan-us-quality-factor-etf-46641q761)).
 
 BlackRock has an alternative to IUSV. This fund, [VLUE](https://www.ishares.com/us/products/251616/ishares-msci-usa-value-factor-etf), has a smaller number of holdings and a stronger value tilt than IUSV. It is expected to exaggerate the value premium, so it stands to reason that in the long run VLUE will probably outperform IUSV, with the drawback of higher volatility and higher random risk due to less diversification.
+
+When deciding on weights for developed vs. emerging markets, keep in mind that: (1) if a primary concern is market cap weighting, developed markets are a larger class and (even without the US) demand two to three times more weight than emerging markets; and (2) the international value ETFs — AVDV, ISVL, IVLU, FIVA — invest exclusively in developed countries, whereas VTRIX provides some coverage of emerging markets as well. Unlike the other managers, BlackRock includes South Korea in their emerging markets fund (IEMG) instead of their developed markets fund (IDEV).
 
 #### Multifactor funds
 
