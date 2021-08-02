@@ -107,7 +107,7 @@ The leading providers of indexed mutual funds are Fidelity and Vanguard; Schwab 
 
 ## General comments
 
-Although the funds are presented as groups, there is no prize for brand loyalty and you may want to choose a combination of managing institutions, as well as a combination of ETFs and mutual funds. Other institutions I haven’t mentioned have solid offerings which are not diverse enough to build a complex portfolio at low cost, as defined here. So this guide is not exhaustive. But the institutions reviewed here manage many of the best funds at very low cost. So unless you have highly specific ideas beyond indexing, you are not missing anything major by selecting among them.
+Although the funds are presented as groups, there is no prize for brand loyalty and you may want to choose a combination of managing institutions, as well as a combination of ETFs and mutual funds. Other institutions I haven’t mentioned have solid offerings which are not diverse enough to build a complex portfolio at low cost, as defined here. So this guide is not exhaustive. But the institutions reviewed here manage many of the best funds at very low cost. Unless you have highly specific ideas beyond indexing, you are not missing anything major by selecting among them.
 
 See this footnote<sup id="fn1">[1](#f1)</sup> for comments on minor details of funds, as well as many additional funds. Some of the new funds mentioned are multifactor funds, which combine the implementation of several factors in one fund.
 
