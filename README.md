@@ -60,7 +60,7 @@ The ETF issuers with the largest total [assets under management](https://www.inv
 </p>
 
 | Stock index | Allocation | BlackRock | Vanguard | State Street | Invesco | B. Fee | V. Fee | S. Fee | I. Fee |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | US Small Cap Value | 25% | [ISCV](https://www.ishares.com/us/products/239588/ishares-morningstar-smallcap-value-etf) | [VBR](https://investor.vanguard.com/etf/profile/VBR) | [SLYV](https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-600-small-cap-value-etf-slyv) | .06% | .07% | .15% |
 | US Mid Cap Value | 15% | [IMCV](https://www.ishares.com/us/products/239584/ishares-morningstar-midcap-value-etf) | [VOE](https://investor.vanguard.com/etf/profile/VOE) | [MDYV](https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-400-mid-cap-value-etf-mdyv) | .06% | .07% | .15% |
 | US Large Cap Value | 10% | [IUSV](https://www.ishares.com/us/products/239715/ishares-core-sp-us-value-etf) | [VTV](https://investor.vanguard.com/etf/profile/VTV) | [SPYV](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-sp-500-value-etf-spyv) | .04% | .04% | .04% |
