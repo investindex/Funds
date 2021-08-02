@@ -59,7 +59,7 @@ The ETF issuers with the largest total [assets under management](https://www.inv
   <b>Complex ETF portfolio</b>
 </p>
 
-| Stock index | Alloc. | BlackRock | Vanguard | State St | Invesco | B. | V. | S. | I. |
+| Index | Alloc. | BlackRock | Vanguard | State St | Invesco | B. | V. | S. | I. |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | US SCV | 25% | [ISCV](https://www.ishares.com/us/products/239588/ishares-morningstar-smallcap-value-etf) | [VBR](https://investor.vanguard.com/etf/profile/VBR) | [SLYV](https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-600-small-cap-value-etf-slyv) | [RZV](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=RZV) | .06% | .07% | .15% | .35% |
 | US MCV | 15% | [IMCV](https://www.ishares.com/us/products/239584/ishares-morningstar-midcap-value-etf) | [VOE](https://investor.vanguard.com/etf/profile/VOE) | [MDYV](https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-400-mid-cap-value-etf-mdyv) | [RFV](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=RFV) | .06% | .07% | .15% | .35% |
@@ -69,7 +69,7 @@ The ETF issuers with the largest total [assets under management](https://www.inv
 | Intl LCV | 7% | [IVLU](https://www.ishares.com/us/products/275382/ishares-msci-international-developed-value-factor-etf) | IVLU | IVLU | [PXF](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PXF) | .30% | .30% | .30% | .45% |
 | Intl Qual | 7% | [IQLT](https://www.ishares.com/us/products/271540/ishares-msci-international-developed-quality-factor-etf) | IDHQ | IDHQ | [IDHQ](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=IDHQ) | .30% | .29% | .29% | .29% |
 | Intl Emrg | 8% | [IEMG](https://www.ishares.com/us/products/244050/ishares-core-msci-emerging-markets-etf) | [VWO](https://investor.vanguard.com/etf/profile/VWO) | [SPEM](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-emerging-markets-etf-spem) | [PBEE](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PBEE) | .11% | .10% | .11% | .16% |
-| | | | | | .133% | .136% | .169% | .999% |
+| | | | | | | .133% | .136% | .169% | .999% |
 
 &nbsp;
 
