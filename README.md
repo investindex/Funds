@@ -187,7 +187,7 @@ These examples are for a hypothetical married couple, both age 35 and earning in
 | :--: | :--: | :--: | :--: |
 | Checking account | $8,000 | 16% | Potential for immediate use |
 | [60/40 Allocation - AOR](https://www.ishares.com/us/products/239756/ishares-growth-allocation-etf) | $32,000 | 64% | Emergency + Long-term funds |
-| [Global Multifactor - QWLD](https://www.ssga.com/us/en/individual/etfs/funds/spdr-msci-world-strategicfactorssm-etf-qwld) | $5,000 | 10% | Retirement investing (Roth IRA) |
+| [Total Global - SPGM](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-msci-global-stock-market-etf-spgm) | $5,000 | 10% | Retirement investing (Roth IRA) |
 | [US Small Cap Value - VBR](https://investor.vanguard.com/etf/profile/VBR) | $5,000 | 10% | Retirement investing (Roth IRA) |
 
 &nbsp;
@@ -200,7 +200,7 @@ These examples are for a hypothetical married couple, both age 35 and earning in
 | :--: | :--: | :--: | :--: |
 | Checking account | $8,000 | 16% | Potential for immediate use |
 | [Short-term Bonds - BSV](https://investor.vanguard.com/etf/profile/BSV) | $4,000 | 8% | Further emergency funds |
-| [Long-Term Corporate Bonds - SPLB](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-long-term-corporate-bond-etf-splb) | $8,000 | 16% | Appreciation without high risk |
+| [Long-Term Bonds - BLV](https://investor.vanguard.com/etf/profile/BLV) | $8,000 | 16% | Appreciation without high risk |
 | [US Small Cap Value - VBR](https://investor.vanguard.com/etf/profile/VBR) | $4,500 | 9% | Long-term financial goals |
 | [US Quality - QUAL](https://www.ishares.com/us/products/256101/ishares-msci-usa-quality-factor-etf) | $4,000 | 8% | Long-term financial goals |
 | [US Mid Cap Value - VOE](https://investor.vanguard.com/etf/profile/VOE) | $3,000 | 6% | Long-term financial goals |
