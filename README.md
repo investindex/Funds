@@ -55,24 +55,6 @@ The ETF issuers with the largest total [assets under management](https://www.inv
 
 &nbsp;
 
-<p align="center">
-  <b>Complex ETF portfolio</b>
-</p>
-
-| Index | Alloc. | BlackRock | Vanguard | State St | Invesco | B. | V. | S. | I. |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| US SCV | 25% | [ISCV](https://www.ishares.com/us/products/239588/ishares-morningstar-smallcap-value-etf) | [VBR](https://investor.vanguard.com/etf/profile/VBR) | [SLYV](https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-600-small-cap-value-etf-slyv) | [RZV](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=RZV) | .06% | .07% | .15% | .35% |
-| US MCV | 15% | [IMCV](https://www.ishares.com/us/products/239584/ishares-morningstar-midcap-value-etf) | [VOE](https://investor.vanguard.com/etf/profile/VOE) | [MDYV](https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-400-mid-cap-value-etf-mdyv) | [RFV](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=RFV) | .06% | .07% | .15% | .35% |
-| US LCV | 10% | [IUSV](https://www.ishares.com/us/products/239715/ishares-core-sp-us-value-etf) | [VTV](https://investor.vanguard.com/etf/profile/VTV) | [SPYV](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-sp-500-value-etf-spyv) | [RPV](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=RPV) | .04% | .04% | .04% | .35% |
-| US Qual | 20% | [QUAL](https://www.ishares.com/us/products/256101/ishares-msci-usa-quality-factor-etf) | [VFQY](https://investor.vanguard.com/etf/profile/VFQY) | VFQY | [SPHQ](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=SPHQ) | .15% | .13% | .13% | .15% |
-| Intl SCV | 8% | [ISVL](https://www.ishares.com/us/products/317548/ishares-international-developed-small-cap-value-factor-etf) | [AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) | [AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) | [PDN](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PDN) | .30% | .36% | .36% | .49% |
-| Intl LCV | 7% | [IVLU](https://www.ishares.com/us/products/275382/ishares-msci-international-developed-value-factor-etf) | IVLU | IVLU | [PXF](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PXF) | .30% | .30% | .30% | .45% |
-| Intl Qual | 7% | [IQLT](https://www.ishares.com/us/products/271540/ishares-msci-international-developed-quality-factor-etf) | IDHQ | IDHQ | [IDHQ](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=IDHQ) | .30% | .29% | .29% | .29% |
-| Intl Emrg | 8% | [IEMG](https://www.ishares.com/us/products/244050/ishares-core-msci-emerging-markets-etf) | [VWO](https://investor.vanguard.com/etf/profile/VWO) | [SPEM](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-emerging-markets-etf-spem) | [PBEE](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PBEE) | .11% | .10% | .11% | .16% |
-| | | | | | | .133% | .136% | .169% | .999% |
-
-&nbsp;
-
 &nbsp;
 
 ## Mutual funds
@@ -135,7 +117,7 @@ See this footnote<sup id="fn1">[1](#f1)</sup> for comments on minor details of f
 
 ## Summary
 
-These tables summarize the funds discussed above. Only one fund is not in its own institution’s column, AVDV by Avantis.
+These tables summarize the funds discussed above.
 
 <p align="center">
   <b>Stock funds</b>
@@ -151,7 +133,7 @@ These tables summarize the funds discussed above. Only one fund is not in its ow
 | Total International | [VXUS](https://investor.vanguard.com/etf/profile/VXUS) / [VTIAX](https://investor.vanguard.com/mutual-funds/profile/VTIAX) | [IXUS](https://www.ishares.com/us/products/244048/ishares-core-msci-total-international-stock-etf) | [CWI](https://www.ssga.com/us/en/individual/etfs/funds/spdr-msci-acwi-ex-us-etf-cwi) | [FTIHX](https://fundresearch.fidelity.com/mutual-funds/summary/31635V638) | |
 | Intl Developed | [VEA](https://investor.vanguard.com/etf/profile/VEA) / [VTMGX](https://investor.vanguard.com/mutual-funds/profile/VTMGX) | [IDEV](https://www.ishares.com/us/products/286762/ishares-core-msci-international-developed-markets-etf-fund) | [SPDW](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-developed-world-ex-us-etf-spdw) | [FSPSX](https://fundresearch.fidelity.com/mutual-funds/summary/315911727) | [SCHF](https://www.schwabassetmanagement.com/products/schf) / [SWISX](https://www.schwabassetmanagement.com/products/swisx) |
 | Intl Emerging | [VWO](https://investor.vanguard.com/etf/profile/VWO) / [VEMAX](https://investor.vanguard.com/mutual-funds/profile/VEMAX) | [IEMG](https://www.ishares.com/us/products/244050/ishares-core-msci-emerging-markets-etf) | [SPEM](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-emerging-markets-etf-spem) | [FPADX](https://fundresearch.fidelity.com/mutual-funds/summary/316146331) | [SCHE](https://www.schwabassetmanagement.com/products/sche) |
-| Intl Small Cap Value | [AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) | [ISVL](https://www.ishares.com/us/products/317548/ishares-international-developed-small-cap-value-factor-etf) | [AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) | [AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) | [FNDC](https://www.schwabassetmanagement.com/products/fndc) / [SFILX](https://www.schwabassetmanagement.com/products/sfilx) |
+| Intl Small Cap Value | | [ISVL](https://www.ishares.com/us/products/317548/ishares-international-developed-small-cap-value-factor-etf) | | [AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) | [FNDC](https://www.schwabassetmanagement.com/products/fndc) / [SFILX](https://www.schwabassetmanagement.com/products/sfilx) |
 | Intl Large Cap Value | [VTRIX](https://investor.vanguard.com/mutual-funds/profile/VTRIX) | [IVLU](https://www.ishares.com/us/products/275382/ishares-msci-international-developed-value-factor-etf) | | [FIVA](https://institutional.fidelity.com/app/fund/etf/snapshot/FIIS_ETF_FIVA.html) | [FNDF](https://www.schwabassetmanagement.com/products/fndf) / [SFNNX](https://www.schwabassetmanagement.com/products/sfnnx) |
 | International Quality | | [IQLT](https://www.ishares.com/us/products/271540/ishares-msci-international-developed-quality-factor-etf) | | | |
 | Total Global | [VT](https://investor.vanguard.com/etf/profile/VT) / [VTWAX](https://investor.vanguard.com/mutual-funds/profile/VTWAX) | [ACWI](https://www.ishares.com/us/products/239600/ishares-msci-acwi-etf) | [SPGM](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-msci-global-stock-market-etf-spgm) | | |
