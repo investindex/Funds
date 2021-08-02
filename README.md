@@ -49,9 +49,9 @@ The ETF issuers with the largest total [assets under management](https://www.inv
 | US Quality | 20% | [QUAL](https://www.ishares.com/us/products/256101/ishares-msci-usa-quality-factor-etf) | [VFQY](https://investor.vanguard.com/etf/profile/VFQY) | VFQY | .15% | .13% | .13% |
 | Intl Small Cap Value | 8% | [ISVL](https://www.ishares.com/us/products/317548/ishares-international-developed-small-cap-value-factor-etf) | [AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) | [AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) | .30% | .36% | .36% |
 | Intl Large Cap Value | 7% | [IVLU](https://www.ishares.com/us/products/275382/ishares-msci-international-developed-value-factor-etf) | IVLU | IVLU | .30% | .30% | .30% |
-| International Quality | 7% | [IQLT](https://www.ishares.com/us/products/271540/ishares-msci-international-developed-quality-factor-etf) | IQLT | IQLT | .30% | .30% | .30% |
+| International Quality | 7% | [IQLT](https://www.ishares.com/us/products/271540/ishares-msci-international-developed-quality-factor-etf) | [IDHQ](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=IDHQ) | [IDHQ](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=IDHQ) | .30% | .29% | .29% |
 | Intl Emerging | 8% | [IEMG](https://www.ishares.com/us/products/244050/ishares-core-msci-emerging-markets-etf) | [VWO](https://investor.vanguard.com/etf/profile/VWO) | [SPEM](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-emerging-markets-etf-spem) | .11% | .10% | .11% |
-| | | | | | .133% | .137% | .170% |
+| | | | | | .133% | .136% | .169% |
 
 &nbsp;
 
