@@ -165,8 +165,6 @@ These tables summarize the funds discussed above. Only one fund is not in its ow
 
 Fidelity bond funds are omitted completely because their expense ratios are too high. Some of the Vanguard bond ETFs have a mutual fund counterpart with a purchase fee (also known as a front-end load). Those mutual funds are excluded for that reason; other Vanguard bond ETFs lack a mutual fund counterpart.
 
-The only recommended funds not categorized in the tables above are J.P. Morgan's US quality ETF ([JQUA](https://am.jpmorgan.com/us/en/asset-management/adv/products/jpmorgan-us-quality-factor-etf-46641q761)) and US large cap value ETF ([JVAL](https://am.jpmorgan.com/us/en/asset-management/adv/products/jpmorgan-u-s-value-factor-etf-etf-shares-46641q753)); BlackRock's US large cap value fund ([VLUE](https://www.ishares.com/us/products/251616/ishares-msci-usa-value-factor-etf)) with greater value tilt than IUSV; and some Schwab funds that don't fit neatly into the table: their RAFI total US ETF ([FNDB](https://www.schwabassetmanagement.com/products/fndb)), RAFI US large cap funds ([FNDX](https://www.schwabassetmanagement.com/products/fndx)/[SFLNX](https://www.schwabassetmanagement.com/products/sflnx)), and RAFI emerging markets funds ([FNDE](https://www.schwabassetmanagement.com/products/fnde)/[SFENX](https://www.schwabassetmanagement.com/products/sfenx)).
-
 There are also the all-in-one funds [discussed in the guidelines](https://github.com/investindex/Guidelines#simplify-dont-oversimplify) and the multifactor funds discussed in the footnote.
 
 &nbsp;
@@ -241,13 +239,13 @@ All sections:
 
 Footnote:
 
-<sup id="f1"> 1 </sup>
+#### Additional funds and minor comments<sup id="f1"> 1 </sup>
 
-#### Additional funds and minor comments
-
-Vanguard’s US quality factor ETF (VFQY) is more balanced between small, mid, and large cap stocks than its counterpart at BlackRock (QUAL), which holds a smaller number of almost entirely large cap stocks. J.P. Morgan has a quality factor ETF with characteristics intermediate between the two ([JQUA](https://am.jpmorgan.com/us/en/asset-management/adv/products/jpmorgan-us-quality-factor-etf-46641q761)).
+Vanguard’s US quality factor ETF (VFQY) is more balanced between small, mid, and large cap stocks than its counterpart at BlackRock (QUAL), which holds a smaller number of almost entirely large cap stocks. J.P. Morgan has a quality factor ETF with characteristics intermediate between the two ([JQUA](https://am.jpmorgan.com/us/en/asset-management/adv/products/jpmorgan-us-quality-factor-etf-46641q761)). The only other fund by J.P. Morgan I can recommend is their large cap value fund ([JVAL](https://am.jpmorgan.com/us/en/asset-management/adv/products/jpmorgan-u-s-value-factor-etf-etf-shares-46641q753)).
 
 BlackRock has an alternative to IUSV. This fund, [VLUE](https://www.ishares.com/us/products/251616/ishares-msci-usa-value-factor-etf), has a smaller number of holdings and a stronger value tilt than IUSV. It is expected to exaggerate the value premium, so it stands to reason that in the long run VLUE will probably outperform IUSV, with the drawback of higher volatility and higher random risk due to less diversification.
+
+Some Schwab funds that don't fit neatly into the summary table: their RAFI total US ETF ([FNDB](https://www.schwabassetmanagement.com/products/fndb)), RAFI US large cap funds ([FNDX](https://www.schwabassetmanagement.com/products/fndx)/[SFLNX](https://www.schwabassetmanagement.com/products/sflnx)), and RAFI emerging markets funds ([FNDE](https://www.schwabassetmanagement.com/products/fnde)/[SFENX](https://www.schwabassetmanagement.com/products/sfenx)).
 
 When deciding on weights for developed vs. emerging markets, keep in mind that: (1) if a primary concern is market cap weighting, developed markets are a larger class and (even without the US) demand two to three times more weight than emerging markets; and (2) the international value ETFs — AVDV, ISVL, IVLU, FIVA — invest exclusively in developed countries, whereas VTRIX provides some coverage of emerging markets as well. Unlike the other managers, BlackRock includes South Korea in their emerging markets fund (IEMG) instead of their developed markets fund (IDEV).
 
