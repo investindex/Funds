@@ -188,7 +188,7 @@ These examples are for a hypothetical married couple, both age 35 and earning in
 | Checking account | $8,000 | 16% | Potential for immediate use |
 | [60/40 Allocation - AOR](https://www.ishares.com/us/products/239756/ishares-growth-allocation-etf) | $32,000 | 64% | Emergency + Long-term funds |
 | [Global Multifactor - QWLD](https://www.ssga.com/us/en/individual/etfs/funds/spdr-msci-world-strategicfactorssm-etf-qwld) | $5,000 | 10% | Retirement investing (Roth IRA) |
-| [US Small Cap Value - VSIAX](https://investor.vanguard.com/mutual-funds/profile/VSIAX) | $5,000 | 10% | Retirement investing (Roth IRA) |
+| [US Small Cap Value - VBR](https://investor.vanguard.com/etf/profile/VBR) | $5,000 | 10% | Retirement investing (Roth IRA) |
 
 &nbsp;
 
@@ -205,7 +205,7 @@ These examples are for a hypothetical married couple, both age 35 and earning in
 | [US Quality - QUAL](https://www.ishares.com/us/products/256101/ishares-msci-usa-quality-factor-etf) | $4,000 | 8% | Long-term financial goals |
 | [US Mid Cap Value - VOE](https://investor.vanguard.com/etf/profile/VOE) | $3,000 | 6% | Long-term financial goals |
 | [RAFI US Large Cap - FNDX](https://www.schwabassetmanagement.com/products/fndx) | $3,000 | 6% | Long-term financial goals |
-| [International Quality - IQLT](https://www.ishares.com/us/products/271540/ishares-msci-international-developed-quality-factor-etf) | $2,500 | 5% | Long-term financial goals |
+| [International Quality - IDHQ](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=IDHQ) | $2,500 | 5% | Long-term financial goals |
 | [Intl Small Cap Value - ISVL](https://www.ishares.com/us/products/317548/ishares-international-developed-small-cap-value-factor-etf) | $1,500 | 3% | Long-term financial goals |
 | [RAFI Emerging Markets Multifactor - MFEM](https://www.pimco.com/en-us/investments/etf/rafi-dynamic-multi-factor-emerging-markets-equity-etf) | $1,500 | 3% | Long-term financial goals |
 | [US Small Cap Value - FISVX](https://fundresearch.fidelity.com/mutual-funds/summary/31635T773) | $3,500 | 7% | Retirement investing (Roth IRA) |
@@ -243,13 +243,13 @@ Footnote:
 
 #### Additional funds and minor comments<sup id="f1"> 1 </sup>
 
-Vanguard’s US quality factor ETF (VFQY) is more balanced between small, mid, and large cap stocks than its counterpart at BlackRock (QUAL), which holds a smaller number of almost entirely large cap stocks. J.P. Morgan has a quality factor ETF with characteristics intermediate between the two ([JQUA](https://am.jpmorgan.com/us/en/asset-management/adv/products/jpmorgan-us-quality-factor-etf-46641q761)). The only other fund by J.P. Morgan I can recommend is their large cap value fund ([JVAL](https://am.jpmorgan.com/us/en/asset-management/adv/products/jpmorgan-u-s-value-factor-etf-etf-shares-46641q753)).
+Vanguard’s US quality factor ETF (VFQY) is more balanced between small, mid, and large cap stocks than its counterpart at BlackRock (QUAL), which holds a smaller number of almost entirely large cap stocks. J.P. Morgan's quality factor ETF has characteristics intermediate between the two ([JQUA](https://am.jpmorgan.com/us/en/asset-management/adv/products/jpmorgan-us-quality-factor-etf-46641q761)). The only other fund by J.P. Morgan I can recommend is their large cap value fund ([JVAL](https://am.jpmorgan.com/us/en/asset-management/adv/products/jpmorgan-u-s-value-factor-etf-etf-shares-46641q753)).
 
 BlackRock has an alternative to IUSV. This fund, [VLUE](https://www.ishares.com/us/products/251616/ishares-msci-usa-value-factor-etf), has a smaller number of holdings and a stronger value tilt than IUSV. It is expected to exaggerate the value premium, so it stands to reason that in the long run VLUE will probably outperform IUSV, with the drawback of higher volatility and higher random risk due to less diversification.
 
 Some Schwab funds that don't fit neatly into the summary table: their RAFI total US ETF ([FNDB](https://www.schwabassetmanagement.com/products/fndb)), RAFI US large cap funds ([FNDX](https://www.schwabassetmanagement.com/products/fndx)/[SFLNX](https://www.schwabassetmanagement.com/products/sflnx)), and RAFI emerging markets funds ([FNDE](https://www.schwabassetmanagement.com/products/fnde)/[SFENX](https://www.schwabassetmanagement.com/products/sfenx)).
 
-When deciding on weights for developed vs. emerging markets, keep in mind that: (1) if a primary concern is market cap weighting, developed markets are a larger class and (even without the US) demand two to three times more weight than emerging markets; and (2) the international value ETFs — AVDV, ISVL, IVLU, FIVA — invest exclusively in developed countries, whereas VTRIX provides some coverage of emerging markets as well. Unlike the other managers, BlackRock includes South Korea in their emerging markets fund (IEMG) instead of their developed markets fund (IDEV).
+When deciding on weights for developed vs. emerging markets, keep in mind that: (1) if a primary concern is market cap weighting, developed markets are a larger class and (even without the US) demand two to three times more weight than emerging markets; and (2) all the international single-factor funds invest exclusively in developed countries, except VTRIX which provides some coverage of emerging markets as well. Unlike the other managers, BlackRock includes South Korea in their emerging markets fund (IEMG) instead of their developed markets fund (IDEV).
 
 #### Multifactor funds
 
