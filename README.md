@@ -163,9 +163,9 @@ These tables summarize the funds discussed above. Only one fund is not in its ow
 
 &nbsp;
 
-Fidelity bond funds are omitted completely because their expense ratios are too high. Some of the Vanguard bond ETFs have a mutual fund counterpart with a purchase fee (also known as a front-end load). Those mutual funds are excluded for that reason; other Vanguard bond ETFs lack a mutual fund counterpart.
+Fidelity bond funds are omitted completely because their expense ratios are too high. Some of the Vanguard bond ETFs have a mutual fund counterpart with a purchase fee (also known as a front-end load). Those mutual funds are excluded for that reason; other Vanguard bond ETFs lack a mutual fund counterpart. Invesco's aggregate US bond fund [PBND](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PBND) is the only bond fund not included in the summary table.
 
-There are also the all-in-one funds [discussed in the guidelines](https://github.com/investindex/Guidelines#simplify-dont-oversimplify) and the multifactor funds discussed in the footnote.
+There are also the all-in-one funds [discussed in the guidelines](https://github.com/investindex/Guidelines#simplify-dont-oversimplify) and the additional funds discussed in the footnote.
 
 &nbsp;
 
