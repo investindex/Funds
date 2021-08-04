@@ -206,9 +206,9 @@ These examples are for a hypothetical married couple, both age 35 and earning in
 | [US Quality - VFQY](https://investor.vanguard.com/etf/profile/VFQY) | $4,000 | 8% | Long-term financial goals |
 | [US Mid Cap Value - VOE](https://investor.vanguard.com/etf/profile/VOE) | $3,000 | 6% | Long-term financial goals |
 | [RAFI US Large Cap - FNDX](https://www.schwabassetmanagement.com/products/fndx) | $3,000 | 6% | Long-term financial goals |
-| [International Quality - IDHQ](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=IDHQ) | $2,500 | 5% | Long-term financial goals |
+| [International Quality - IDHQ](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=IDHQ) | $3,000 | 6% | Long-term financial goals |
 | [Intl Small Cap Value - ISVL](https://www.ishares.com/us/products/317548/ishares-international-developed-small-cap-value-factor-etf) | $1,500 | 3% | Long-term financial goals |
-| [RAFI Emerging Markets Multifactor - MFEM](https://www.pimco.com/en-us/investments/etf/rafi-dynamic-multi-factor-emerging-markets-equity-etf) | $1,500 | 3% | Long-term financial goals |
+| [RAFI Emerging Markets Multifactor - MFEM](https://www.pimco.com/en-us/investments/etf/rafi-dynamic-multi-factor-emerging-markets-equity-etf) | $1,000 | 2% | Long-term financial goals |
 | [US Small Cap Value - FISVX](https://fundresearch.fidelity.com/mutual-funds/summary/31635T773) | $3,500 | 7% | Retirement investing (Roth IRA) |
 | [Intl Small Cap Value - AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) | $1,500 | 3% | Retirement investing (Roth IRA) |
 | [US Small Cap Quality - XSHQ](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=XSHQ) | $1,000 | 2% | Retirement investing (Roth IRA) |
