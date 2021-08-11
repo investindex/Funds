@@ -31,7 +31,7 @@ The ETF issuers with the largest total [assets under management](https://www.inv
 | &nbsp; &nbsp; &nbsp; &nbsp; Stock index &nbsp; &nbsp; &nbsp; &nbsp; | Allocation | BlackRock | Vanguard | State Street | B. Fee | V. Fee | S. Fee |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | US Quality | 30% | [QUAL](https://www.ishares.com/us/products/256101/ishares-msci-usa-quality-factor-etf) | [VFQY](https://investor.vanguard.com/etf/profile/VFQY) | VFQY | .15% | .13% | .13% |
-| US Small Cap Value | 40% | [ISCV](https://www.ishares.com/us/products/239588/ishares-morningstar-smallcap-value-etf) | [VBR](https://investor.vanguard.com/etf/profile/VBR) | [SLYV](https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-600-small-cap-value-etf-slyv) | .06% | .07% | .15% |
+| US Small Cap Value | 40% | [IJS](https://www.ishares.com/us/products/239775/ishares-sp-smallcap-600-value-etf) | [VBR](https://investor.vanguard.com/etf/profile/VBR) | [SLYV](https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-600-small-cap-value-etf-slyv) | .06% | .07% | .15% |
 | Total International | 30% | [IXUS](https://www.ishares.com/us/products/244048/ishares-core-msci-total-international-stock-etf) | [VXUS](https://investor.vanguard.com/etf/profile/VXUS) | [CWI](https://www.ssga.com/us/en/individual/etfs/funds/spdr-msci-acwi-ex-us-etf-cwi) | .09% | .08% | .30% |
 | | | | | | .096% | .091% | .189% |
 
@@ -43,7 +43,7 @@ The ETF issuers with the largest total [assets under management](https://www.inv
 
 | &nbsp; &nbsp; &nbsp; &nbsp; Stock index &nbsp; &nbsp; &nbsp; &nbsp; | Allocation | BlackRock | Vanguard | State Street | B. Fee | V. Fee | S. Fee |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| US Small Cap Value | 25% | [ISCV](https://www.ishares.com/us/products/239588/ishares-morningstar-smallcap-value-etf) | [VBR](https://investor.vanguard.com/etf/profile/VBR) | [SLYV](https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-600-small-cap-value-etf-slyv) | .06% | .07% | .15% |
+| US Small Cap Value | 25% | [IJS](https://www.ishares.com/us/products/239775/ishares-sp-smallcap-600-value-etf) | [VBR](https://investor.vanguard.com/etf/profile/VBR) | [SLYV](https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-600-small-cap-value-etf-slyv) | .06% | .07% | .15% |
 | US Mid Cap Value | 15% | [IMCV](https://www.ishares.com/us/products/239584/ishares-morningstar-midcap-value-etf) | [VOE](https://investor.vanguard.com/etf/profile/VOE) | [MDYV](https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-400-mid-cap-value-etf-mdyv) | .06% | .07% | .15% |
 | US Large Cap Value | 10% | [IUSV](https://www.ishares.com/us/products/239715/ishares-core-sp-us-value-etf) | [VTV](https://investor.vanguard.com/etf/profile/VTV) | [SPYV](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-sp-500-value-etf-spyv) | .04% | .04% | .04% |
 | US Quality | 20% | [QUAL](https://www.ishares.com/us/products/256101/ishares-msci-usa-quality-factor-etf) | [VFQY](https://investor.vanguard.com/etf/profile/VFQY) | VFQY | .15% | .13% | .13% |
@@ -51,7 +51,7 @@ The ETF issuers with the largest total [assets under management](https://www.inv
 | Intl Large Cap Value | 7% | [IVLU](https://www.ishares.com/us/products/275382/ishares-msci-international-developed-value-factor-etf) | IVLU | IVLU | .30% | .30% | .30% |
 | International Quality | 7% | [IQLT](https://www.ishares.com/us/products/271540/ishares-msci-international-developed-quality-factor-etf) | [IDHQ](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=IDHQ) | [IDHQ](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=IDHQ) | .30% | .29% | .29% |
 | Total Emerging | 8% | [IEMG](https://www.ishares.com/us/products/244050/ishares-core-msci-emerging-markets-etf) | [VWO](https://investor.vanguard.com/etf/profile/VWO) | [SPEM](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-emerging-markets-etf-spem) | .11% | .10% | .11% |
-| | | | | | .133% | .136% | .169% |
+| | | | | | .XX% | .136% | .169% |
 
 &nbsp;
 
@@ -126,7 +126,7 @@ These tables summarize the funds discussed above.
 | Stock index | Vanguard | &nbsp; BlackRock &nbsp; | &ensp; State Street &ensp; | Fidelity | Schwab |
 | :--: | :--: | :--: | :--: | :--: | :--: |
 | Total US | [VTI](https://investor.vanguard.com/etf/profile/VTI) / [VTSAX](https://investor.vanguard.com/mutual-funds/profile/VTSAX) | [ITOT](https://www.ishares.com/us/products/239724/ishares-core-sp-total-us-stock-market-etf) | [SPTM](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-sp-1500-composite-stock-market-etf-sptm) | [FSKAX](https://fundresearch.fidelity.com/mutual-funds/summary/315911693) | [SWTSX](https://www.schwabassetmanagement.com/products/swtsx) |
-| US Small Cap Value | [VBR](https://investor.vanguard.com/etf/profile/VBR) / [VSIAX](https://investor.vanguard.com/mutual-funds/profile/VSIAX) | [ISCV](https://www.ishares.com/us/products/239588/ishares-morningstar-smallcap-value-etf) | [SLYV](https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-600-small-cap-value-etf-slyv) | [FISVX](https://fundresearch.fidelity.com/mutual-funds/summary/31635T773) | [FNDA](https://www.schwabassetmanagement.com/products/fnda) / [SFSNX](https://www.schwabassetmanagement.com/products/sfsnx) |
+| US Small Cap Value | [VBR](https://investor.vanguard.com/etf/profile/VBR) / [VSIAX](https://investor.vanguard.com/mutual-funds/profile/VSIAX) | [IJS](https://www.ishares.com/us/products/239775/ishares-sp-smallcap-600-value-etf) | [SLYV](https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-600-small-cap-value-etf-slyv) | [FISVX](https://fundresearch.fidelity.com/mutual-funds/summary/31635T773) | [FNDA](https://www.schwabassetmanagement.com/products/fnda) / [SFSNX](https://www.schwabassetmanagement.com/products/sfsnx) |
 | US Mid Cap Value | [VOE](https://investor.vanguard.com/etf/profile/VOE) / [VMVAX](https://investor.vanguard.com/mutual-funds/profile/VMVAX) | [IMCV](https://www.ishares.com/us/products/239584/ishares-morningstar-midcap-value-etf) | [MDYV](https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-400-mid-cap-value-etf-mdyv) | [FIMVX](https://fundresearch.fidelity.com/mutual-funds/summary/31635T799) | |
 | US Large Cap Value | [VTV](https://investor.vanguard.com/etf/profile/VTV) / [VVIAX](https://investor.vanguard.com/mutual-funds/profile/VVIAX) | [IUSV](https://www.ishares.com/us/products/239715/ishares-core-sp-us-value-etf) | [SPYV](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-sp-500-value-etf-spyv) | [FVAL](https://institutional.fidelity.com/app/fund/etf/snapshot/FIIS_ETF_FVAL.html) / [FLCOX](https://fundresearch.fidelity.com/mutual-funds/summary/31635V679) | [SCHV](https://www.schwabassetmanagement.com/products/schv) / [SWLVX](https://www.schwabassetmanagement.com/products/swlvx) |
 | US Quality | [VFQY](https://investor.vanguard.com/etf/profile/VFQY) | [QUAL](https://www.ishares.com/us/products/256101/ishares-msci-usa-quality-factor-etf) | | [FQAL](https://institutional.fidelity.com/app/funds-and-products/etf/snapshot/FIIS_ETF_FQAL/fidelity-quality-factor-etf.html) | |
@@ -189,7 +189,7 @@ These examples are for a hypothetical married couple, both age 35 and earning in
 | Checking account | $8,000 | 16% | Potential for immediate use |
 | [60/40 Allocation - AOR](https://www.ishares.com/us/products/239756/ishares-growth-allocation-etf) | $32,000 | 64% | Emergency + Long-term funds |
 | [Total Global - SPGM](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-msci-global-stock-market-etf-spgm) | $5,000 | 10% | Retirement investing (Roth IRA) |
-| [US Small Cap Value - VBR](https://investor.vanguard.com/etf/profile/VBR) | $5,000 | 10% | Retirement investing (Roth IRA) |
+| [US Small Cap Value - IJS](https://www.ishares.com/us/products/239775/ishares-sp-smallcap-600-value-etf) | $5,000 | 10% | Retirement investing (Roth IRA) |
 
 &nbsp;
 
@@ -202,7 +202,7 @@ These examples are for a hypothetical married couple, both age 35 and earning in
 | Checking account | $8,000 | 16% | Potential for immediate use |
 | [Short-term Bonds - BSV](https://investor.vanguard.com/etf/profile/BSV) | $4,000 | 8% | Further emergency funds |
 | [Long-Term Bonds - BLV](https://investor.vanguard.com/etf/profile/BLV) | $8,000 | 16% | Appreciation without high risk |
-| [US Small Cap Value - VBR](https://investor.vanguard.com/etf/profile/VBR) | $4,500 | 9% | Long-term financial goals |
+| [US Small Cap Value - IJS](https://www.ishares.com/us/products/239775/ishares-sp-smallcap-600-value-etf) | $4,500 | 9% | Long-term financial goals |
 | [US Quality - VFQY](https://investor.vanguard.com/etf/profile/VFQY) | $4,000 | 8% | Long-term financial goals |
 | [US Mid Cap Value - VOE](https://investor.vanguard.com/etf/profile/VOE) | $3,000 | 6% | Long-term financial goals |
 | [RAFI US Large Cap - FNDX](https://www.schwabassetmanagement.com/products/fndx) | $3,000 | 6% | Long-term financial goals |
