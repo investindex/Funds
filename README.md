@@ -175,7 +175,7 @@ There are also the all-in-one funds [discussed in the guidelines](https://github
 
 ## Example portfolio
 
-These examples are for a hypothetical married couple, both age 35 and earning income, who rent their residence and have no debt. Their combined liquid net worth is $40,000 plus $10,000 in a Roth IRA one of them has contributed to. In the complex version, they keep $20,000 in cash and bonds and the remainder in stocks. Some indices are duplicated, because their taxable brokerage account and Roth IRA must be separate. When duplication was needed, I took the opportunity to select different funds, in order to average across differences in implementation. In the simple version, they keep about $20,800 in cash and bonds and the remainder in stocks. Only three funds are used, instead of 16. They approach two poles of a spectrum of complexity; many people would choose an intermediate number of funds.
+These examples are for a hypothetical married couple, both age 35 and earning income, who rent their residence and have no debt. Their combined liquid net worth is $40,000 plus $10,000 in a Roth IRA one of them has contributed to. In the complex version, they keep $20,000 in cash and bonds and the remainder in stocks. Some indices are duplicated, because their taxable brokerage account and Roth IRA must be separate. When duplication was needed, I took the opportunity to select different funds, in order to average across differences in implementation. In the simple version, they keep about $20,800 in cash and bonds and the remainder in stocks. Only three funds are used, instead of 15. They approach two poles of a spectrum of complexity; many people would choose an intermediate number of funds.
 
 &nbsp;
 
