@@ -160,6 +160,7 @@ These tables summarize the funds discussed above.
 | Total US Corporate | [VTC](https://investor.vanguard.com/etf/profile/VTC) | [LQD](https://www.ishares.com/us/products/239566/ishares-iboxx-investment-grade-corporate-bond-etf) | [SPBO](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-corporate-bond-etf-spbo) | |
 | Long-term US | [BLV](https://investor.vanguard.com/etf/profile/BLV) | [ILTB](https://www.ishares.com/us/products/239424/ishares-core-longterm-us-bond-etf) | | |
 | Long-term US Corporate | [VCLT](https://investor.vanguard.com/etf/profile/VCLT) | [IGLB](https://www.ishares.com/us/products/239423/ishares-10-year-credit-bond-etf) | [SPLB](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-long-term-corporate-bond-etf-splb) | |
+| High-yield | | [USHY](https://www.ishares.com/us/products/291299/ishares-broad-usd-high-yield-corporate-bond-etf) | [SPHY](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-high-yield-bond-etf-sphy) | |
 
 &nbsp; 
 
