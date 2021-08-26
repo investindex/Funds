@@ -4,7 +4,7 @@
 | :--: | :--: | :--: | :--: | :--: | :--: |
 | iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii | iiiiiiiiiiiiiiiiiiiiiiiiiii | iiiiiiiiiiiiiiiiiiiiiiiiii | iiiiiiiiiiiiiiiiiiiiiiiiiii | iiiiiiiiiiiiiiiiiiiiiiiiii | iiiiiiiiiiiiiiiiiiiiiiiiiii |
 
-| Bond index | Vanguard | &nbsp; BlackRock &nbsp; | State Street | &nbsp; &nbsp; Fidelity &nbsp; &nbsp; | Schwab |
+| Bond index | Vanguard | &nbsp; BlackRock &nbsp; | State Street | &emsp; Fidelity &emsp; | Schwab |
 | :--: | :--: | :--: | :--: | :--: | :--: |
 | Three-month US Treasury | | [SGOV](https://www.ishares.com/us/products/314116/ishares-0-3-month-treasury-bond-etf) | [BIL](https://www.ssga.com/us/en/individual/etfs/funds/spdr-bloomberg-barclays-1-3-month-t-bill-etf-bil) | | |
 | Ultrashort-term US | [VUSB](https://investor.vanguard.com/etf/profile/overview/VUSB) | [SHV](https://www.ishares.com/us/products/239466/ishares-short-treasury-bond-etf) | [BILS](https://www.ssga.com/us/en/individual/etfs/funds/spdr-bloomberg-barclays-3-12-month-t-bill-etf-bils) | | |
