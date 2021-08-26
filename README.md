@@ -2,7 +2,7 @@
 
 | Bond index | Vanguard | BlackRock | State Street | Fidelity | Schwab |
 | :--: | :--: | :--: | :--: | :--: | :--: |
-| iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii | iiiiiiiiiiiiiiiiiiiiiiiiiiiii | iiiiiiiiiiiiiiiiiiiiiiiiiiiii | iiiiiiiiiiiiiiiiiiiiiiiiiiiii | iiiiiiiiiiiiiiiiiiiiiiiiiiiii | iiiiiiiiiiiiiiiiiiiiiiiiiiiii |
+| iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii | iiiiiiiiiiiiiiiiiiiiii | iiiiiiiiiiiiiiiiiiiiii | iiiiiiiiiiiiiiiiiiiiii | iiiiiiiiiiiiiiiiiiiiii | iiiiiiiiiiiiiiiiiiiiii |
 
 | Bond index | Vanguard | BlackRock | State Street | Fidelity | Schwab |
 | :--: | :--: | :--: | :--: | :--: | :--: |
