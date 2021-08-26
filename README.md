@@ -1,6 +1,6 @@
 # Fund proposals
 
-| iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii | iiiiiiii | iiiiiiii | iiiiiiii | iiiiiiii | iiiiiiii |
+| iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii | iiiiiiiiiiiiiiii | iiiiiiiiiiiiiiii | iiiiiiiiiiiiiiii | iiiiiiiiiiiiiiii | iiiiiiiiiiiiiiii |
 | Bond index | Vanguard | BlackRock | State Street | Fidelity | Schwab |
 | :--: | :--: | :--: | :--: | :--: | :--: |
 | Three-month US Treasury | | [SGOV](https://www.ishares.com/us/products/314116/ishares-0-3-month-treasury-bond-etf) | [BIL](https://www.ssga.com/us/en/individual/etfs/funds/spdr-bloomberg-barclays-1-3-month-t-bill-etf-bil) | | |
