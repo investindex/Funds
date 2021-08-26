@@ -70,7 +70,7 @@ The leading providers of indexed mutual funds are Fidelity and Vanguard; Schwab 
 | &emsp; &nbsp; Stock index &nbsp; &emsp; | Allocation | Fidelity | Vanguard | Schwab | F. Fee | V. Fee | S. Fee |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | Total US | 100% | &ensp; [FSKAX](https://fundresearch.fidelity.com/mutual-funds/summary/315911693) &ensp; | &ensp; [VTSAX](https://investor.vanguard.com/mutual-funds/profile/VTSAX) &ensp; | &ensp; [SWTSX](https://www.schwabassetmanagement.com/products/swtsx) &ensp; | .015% | .04% | .03% |
-| Total Global | 100% | | [VTWAX](https://investor.vanguard.com/mutual-funds/profile/VTWAX) | | &ensp; &ensp; &ensp; &nbsp; &nbsp; | &nbsp; .10% &nbsp; | &ensp; &ensp; &ensp; &nbsp; &nbsp; |
+| Total Global | 100% | | [VTWAX](https://investor.vanguard.com/mutual-funds/profile/VTWAX) | | &ensp; &ensp; &ensp; &ensp; &nbsp; | &nbsp; .10% &nbsp; | &ensp; &ensp; &ensp; &ensp; &nbsp; |
 
 &nbsp;
 
