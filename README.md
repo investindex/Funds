@@ -163,7 +163,9 @@ These tables summarize the funds discussed above.
 | Long-term US Corp | [VCLT](https://investor.vanguard.com/etf/profile/VCLT) | [IGLB](https://www.ishares.com/us/products/239423/ishares-10-year-credit-bond-etf) | [SPLB](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-long-term-corporate-bond-etf-splb) | | |
 | High-yield | | [USHY](https://www.ishares.com/us/products/291299/ishares-broad-usd-high-yield-corporate-bond-etf) | [SPHY](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-high-yield-bond-etf-sphy) | | |
 
-&nbsp; 
+&nbsp;
+
+Some Schwab funds don't fit neatly into the summary table: their RAFI total US ETF ([FNDB](https://www.schwabassetmanagement.com/products/fndb)), RAFI US large cap funds ([FNDX](https://www.schwabassetmanagement.com/products/fndx)/[SFLNX](https://www.schwabassetmanagement.com/products/sflnx)), and RAFI emerging markets funds ([FNDE](https://www.schwabassetmanagement.com/products/fnde)/[SFENX](https://www.schwabassetmanagement.com/products/sfenx)). And in addition to their Schwab 1000 funds included in the table ([SCHK](https://www.schwabassetmanagement.com/products/schk)/[SNXFX](https://www.schwabassetmanagement.com/products/snxfx)), which hold the 1000 largest US companies, Schwab manages a large cap fund which holds the 750 largest US companies ([SCHX](https://www.schwabassetmanagement.com/products/schx)).
 
 The only previously mentioned bond funds not included in the summary table are BlackRock's short-term, high-yield bond fund ([SHYG](https://www.ishares.com/us/products/258100/ishares-05-year-high-yield-corporate-bond-etf)), Invesco's aggregate US bond fund ([PBND](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PBND)) and ultrashort-term US treasury bond fund ([CLTL](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=CLTL)), and Avantis's aggregate US bond fund ([AVIG](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-core-fixed-income-etf.html)) and short-term bond fund ([AVSF](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-short-term-fixed-income-etf.html)). Some of the Vanguard bond ETFs have a mutual fund counterpart with a purchase fee (also known as a front-end load). Those mutual funds are excluded for that reason; other Vanguard bond ETFs lack a mutual fund counterpart.
 
@@ -247,17 +249,15 @@ Footnote:
 
 #### Additional funds and minor comments<sup id="f1"> 1 </sup>
 
+Avantis has a suite of [core holdings](https://www.avantisinvestors.com/content/avantis/en/investments.html) as both ETFs and mutual funds. Their US small cap value ETF ([AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html)) is featured in the simple version of the example portfolio above.
+
 When deciding on weights for developed vs. emerging markets, keep in mind that: (1) if a primary concern is market cap weighting, developed markets are a larger class and (even without the US) demand two to three times more weight than emerging markets; and (2) all the international single-factor funds invest exclusively in developed countries, except VTRIX which provides some coverage of emerging markets as well.
 
 Unlike the other managers, BlackRock includes South Korea in their emerging markets fund (IEMG) instead of their developed markets fund (IDEV). This also applies to their emerging markets small cap fund ([EEMS](https://www.ishares.com/us/products/239642/ishares-msci-emerging-markets-smallcap-etf)), which includes South Korea while its counterpart at State Street ([EWX](https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-emerging-markets-small-cap-etf-ewx)) does not. If you choose to use EEMS or EWX, it would be best to pair it with country coverage in mind. AVDV and ISVL exclude South Korea but FNDC and PDN include it, so EEMS pairs well with AVDV or ISVL and EWX pairs with FNDC or PDN. A portfolio with AVDV and EWX would miss out on small cap South Korean stocks, and one with PDN and EEMS would double up on them.
 
-Avantis has a suite of [core holdings](https://www.avantisinvestors.com/content/avantis/en/investments.html) as both ETFs and mutual funds. Their US small cap value ETF ([AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html)) is featured in the simple version of the example portfolio above.
-
 Vanguard’s US quality factor ETF (VFQY) is more balanced between small, mid, and large cap stocks than its counterpart at BlackRock (QUAL), which holds a smaller number of almost entirely large cap stocks. J.P. Morgan's quality factor ETF has characteristics intermediate between the two ([JQUA](https://am.jpmorgan.com/us/en/asset-management/adv/products/jpmorgan-us-quality-factor-etf-46641q761)). The only other fund by J.P. Morgan I can recommend is their large cap value fund ([JVAL](https://am.jpmorgan.com/us/en/asset-management/adv/products/jpmorgan-u-s-value-factor-etf-etf-shares-46641q753)).
 
 BlackRock has an alternative to IUSV. This fund, [VLUE](https://www.ishares.com/us/products/251616/ishares-msci-usa-value-factor-etf), has a smaller number of holdings and a stronger value tilt than IUSV. It is expected to exaggerate the value premium, so it stands to reason that in the long run VLUE will probably outperform IUSV, with the drawback of higher volatility and higher random risk due to less diversification.
-
-Some Schwab funds don't fit neatly into the summary table: their RAFI total US ETF ([FNDB](https://www.schwabassetmanagement.com/products/fndb)), RAFI US large cap funds ([FNDX](https://www.schwabassetmanagement.com/products/fndx)/[SFLNX](https://www.schwabassetmanagement.com/products/sflnx)), and RAFI emerging markets funds ([FNDE](https://www.schwabassetmanagement.com/products/fnde)/[SFENX](https://www.schwabassetmanagement.com/products/sfenx)).
 
 #### Multifactor funds
 
