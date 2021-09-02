@@ -148,7 +148,7 @@ These tables summarize the funds discussed above.
   <b>Bond funds</b>
 </p>
 
-| Bond index | Vanguard | &nbsp; BlackRock &nbsp; | State Street | &ensp; Fidelity &ensp; | Schwab |
+| Bond index | Vanguard | &nbsp; BlackRock &nbsp; | &nbsp; State Street &nbsp; | &ensp; Fidelity &ensp; | Schwab |
 | :--: | :--: | :--: | :--: | :--: | :--: |
 | Three-month Treasury | | [SGOV](https://www.ishares.com/us/products/314116/ishares-0-3-month-treasury-bond-etf) | [BIL](https://www.ssga.com/us/en/individual/etfs/funds/spdr-bloomberg-barclays-1-3-month-t-bill-etf-bil) | | |
 | Ultrashort-term US | [VUSB](https://investor.vanguard.com/etf/profile/overview/VUSB) | [SHV](https://www.ishares.com/us/products/239466/ishares-short-treasury-bond-etf) | [ULST](https://www.ssga.com/us/en/individual/etfs/funds/spdr-ssga-ultra-short-term-bond-etf-ulst) | | |
