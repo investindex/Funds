@@ -195,7 +195,7 @@ These examples are for a hypothetical married couple, both age 35 and earning in
 | :--: | :--: | :--: | :--: |
 | Checking account | $8,000 | 16% | Potential for immediate use |
 | [60/40 Allocation - AOR](https://www.ishares.com/us/products/239756/ishares-growth-allocation-etf) | $32,000 | 64% | Emergency + Long-term funds |
-| [Total Global - SPGM](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-msci-global-stock-market-etf-spgm) | $5,000 | 10% | Retirement investing (Roth IRA) |
+| [Total Global - VT](https://investor.vanguard.com/etf/profile/VT) | $5,000 | 10% | Retirement investing (Roth IRA) |
 | [US Small Cap Value - AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html) | $5,000 | 10% | Retirement investing (Roth IRA) |
 
 &nbsp;
