@@ -211,15 +211,15 @@ These examples are for a hypothetical married couple, both age 35 and earning in
 | [Global bonds - BNDW](https://investor.vanguard.com/etf/profile/BNDW) | $12,000 | 24% | Emergency + Near-term funds |
 | [RAFI US Small Comp - FNDA](https://www.schwabassetmanagement.com/products/fnda) | $5,000 | 10% | Long-term financial goals |
 | [US Mid Cap Equal Weight - EWMC](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=EWMC) | $4,000 | 8% | Long-term financial goals |
+| [RAFI Dev ex-US Small-Mid Comp - PDN](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PDN) | $4,000 | 8% | Long-term financial goals |
 | [RAFI US Large Comp - FNDX](https://www.schwabassetmanagement.com/products/fndx) | $3,000 | 6% | Long-term financial goals |
-| [RAFI Dev ex-US Large Comp - FNDF](https://www.schwabassetmanagement.com/products/fndf) | $3,000 | 6% | Long-term financial goals |
-| [RAFI Dev ex-US Small Comp - FNDC](https://www.schwabassetmanagement.com/products/fndc) | $3,000 | 6% | Long-term financial goals |
+| [RAFI Dev ex-US Large Comp - FNDF](https://www.schwabassetmanagement.com/products/fndf) | $2,000 | 4% | Long-term financial goals |
 | [RAFI Emerging Markets Large Comp - FNDE](https://www.schwabassetmanagement.com/products/fnde) | $2,000 | 4% | Long-term financial goals |
 | [RAFI US Small Comp - FNDA](https://www.schwabassetmanagement.com/products/fnda) | $2,500 | 5% | Retirement investing (Roth IRA) |
 | [US Mid Cap Equal Weight - EWMC](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=EWMC) | $2,000 | 4% | Retirement investing (Roth IRA) |
+| [RAFI Dev ex-US Small-Mid Comp - PDN](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PDN) | $2,000 | 4% | Retirement investing (Roth IRA) |
 | [RAFI US Large Comp - FNDX](https://www.schwabassetmanagement.com/products/fndx) | $1,500 | 3% | Retirement investing (Roth IRA) |
-| [RAFI Dev ex-US Large Comp - FNDF](https://www.schwabassetmanagement.com/products/fndf) | $1,500 | 3% | Retirement investing (Roth IRA) |
-| [RAFI Dev ex-US Small Comp - FNDC](https://www.schwabassetmanagement.com/products/fndc) | $1,500 | 3% | Retirement investing (Roth IRA) |
+| [RAFI Dev ex-US Large Comp - FNDF](https://www.schwabassetmanagement.com/products/fndf) | $1,000 | 2% | Retirement investing (Roth IRA) |
 | [RAFI Emerging Markets Large Comp - FNDE](https://www.schwabassetmanagement.com/products/fnde) | $1,000 | 2% | Retirement investing (Roth IRA) |
 
 &nbsp;
