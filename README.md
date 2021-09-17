@@ -97,9 +97,10 @@ The leading providers of indexed mutual funds are Fidelity and Vanguard; Schwab 
 | US Small Cap Value | 20% | [FISVX](https://fundresearch.fidelity.com/mutual-funds/summary/31635T773) | [VSIAX](https://investor.vanguard.com/mutual-funds/profile/VSIAX) | [SFSNX](https://www.schwabassetmanagement.com/products/sfsnx) | .05% | .07% | .25% |
 | US Mid Cap Value | 15% | [FIMVX](https://fundresearch.fidelity.com/mutual-funds/summary/31635T799) | [VMVAX](https://investor.vanguard.com/mutual-funds/profile/VMVAX) | [VOE](https://investor.vanguard.com/etf/profile/VOE) | .05% | .07% | .07% |
 | US Large Cap Value | 10% | [FLCOX](https://fundresearch.fidelity.com/mutual-funds/summary/31635V679) | [VVIAX](https://investor.vanguard.com/mutual-funds/profile/VVIAX) | [SWLVX](https://www.schwabassetmanagement.com/products/swlvx) | .035% | .05% | .035%
-| Intl Large Cap Value | 25% | [FIVA](https://institutional.fidelity.com/app/fund/etf/snapshot/FIIS_ETF_FIVA.html) | [VTRIX](https://investor.vanguard.com/mutual-funds/profile/VTRIX) | [SFNNX](https://www.schwabassetmanagement.com/products/sfnnx) | &nbsp; .39% &nbsp; | &nbsp; .35% &nbsp; | &nbsp; .25% &nbsp; |
+| Intl Large Cap Value | 15% | [FIVA](https://institutional.fidelity.com/app/fund/etf/snapshot/FIIS_ETF_FIVA.html) | [VTRIX](https://investor.vanguard.com/mutual-funds/profile/VTRIX) | [SFNNX](https://www.schwabassetmanagement.com/products/sfnnx) | &nbsp; .39% &nbsp; | &nbsp; .35% &nbsp; | &nbsp; .25% &nbsp; |
+| Developed ex-US | 10% | [FSPSX](https://fundresearch.fidelity.com/mutual-funds/summary/315911727) | [VTMGX](https://investor.vanguard.com/mutual-funds/profile/VTMGX) | [SWISX](https://www.schwabassetmanagement.com/products/swisx) | &nbsp; .035% &nbsp; | &nbsp; .07% &nbsp; | &nbsp; .06% &nbsp; |
 | Total Emerging | 10% | [FPADX](https://fundresearch.fidelity.com/mutual-funds/summary/316146331) | [VEMAX](https://investor.vanguard.com/mutual-funds/profile/VEMAX) | [SCHE](https://www.schwabassetmanagement.com/products/sche) | &nbsp; .075% &nbsp; | &nbsp; .14% &nbsp; | &nbsp; .11% &nbsp; |
-| | | | | | .129% | .139% | .144% |
+| | | | | | .094% | .111% | .125% |
 
 &nbsp;
 
