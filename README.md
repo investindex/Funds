@@ -240,7 +240,7 @@ These examples are for a hypothetical married couple, both age 35 and earning in
 | [International Quality - IDHQ](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=IDHQ) | $3,000 | 6% | Long-term financial goals |
 | [Intl Small Cap Value - ISVL](https://www.ishares.com/us/products/317548/ishares-international-developed-small-cap-value-factor-etf) | $2,500 | 5% | Long-term financial goals |
 | [RAFI Emerging Markets Multifactor - MFEM](https://www.pimco.com/en-us/investments/etf/rafi-dynamic-multi-factor-emerging-markets-equity-etf) | $1,500 | 3% | Long-term financial goals |
-| [US Small Cap Value - FISVX](https://fundresearch.fidelity.com/mutual-funds/summary/31635T773) | $3,500 | 7% | Retirement investing (Roth IRA) |
+| [US Small Cap Value - AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html) | $3,500 | 7% | Retirement investing (Roth IRA) |
 | [RAFI Emerging Markets Large Comp - FNDE](https://www.schwabassetmanagement.com/products/fnde) | $2,000 | 4% | Retirement investing (Roth IRA) |
 | [Intl Small Cap Value - AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) | $1,500 | 3% | Retirement investing (Roth IRA) |
 | [US Small Cap Quality - XSHQ](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=XSHQ) | $1,000 | 2% | Retirement investing (Roth IRA) |
@@ -277,7 +277,15 @@ Footnote:
 
 #### Additional funds and minor comments<sup id="f1"> 1 </sup>
 
-Avantis has a suite of [core holdings](https://www.avantisinvestors.com/content/avantis/en/investments.html) as both ETFs and mutual funds. Their US small cap value ETF ([AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html)) is featured in the simple version of the example portfolio above.
+Three important fund managers not given much attention yet are Avantis, Dimensional, and Alpha Architect. Products from Dimensional Fund Advisors (DFA) were accessible only to those who used wealth management firms for about 40 years, until DFA began listing ETFs in November 2020. [Their ETF offerings](https://us.dimensional.com/etfs) are not yet as extensive as their mutual funds, but they continue to list more as recently as September 2021. Their funds are among the best. Ben Felix, the portfolio manager at PWL Capital, has a [YouTube channel](https://www.youtube.com/c/BenFelixCSI/videos) and [podcast](https://www.youtube.com/c/RATIONALREMINDER/videos) in which he often explains the value of applying academic research in fund management. PWL Capital uses DFA mutual funds for their clients.
+
+Avantis is a recently founded asset manager run by former DFA employees. [Their funds](https://www.avantisinvestors.com/content/avantis/en/investments.html) are also of the highest quality, and for now they offer a greater number of publicly accessible funds. Their US small cap value ETF ([AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html)) is an example of a superlative product that I would probably favor over any other (BlackRock's IJS is good too).
+
+Importantly, funds managed by DFA and Avantis are not exactly index funds. They are governed by rules, like index funds, but are not required to rebalance or reconstitute during short periods like many index funds managed by Vanguard or BlackRock. As explained [here](https://www.youtube.com/watch?v=V0RSFpUpovI&t=2627s&ab_channel=StrategicAnalysisCapitalManagement) by an Avantis manager, the obligation to rebalance quickly on a pre-set schedule can create liquidity issues and lead to high trading costs. If managers have the flexibility to wait for liquidity and better prices, they are able to trade in a way that produces better long-term returns.
+
+Alpha Architect is a smaller manager that develops [focused factor ETFs](https://etfsite.alphaarchitect.com). They create concentrated portfolios based on quantitative rules that seek to maximize the higher expected returns of factors like value. If you want to make an especially strong bet on value, probably with a small fraction of your portfolio, using ETFs like QVAL and IVAL is a way to do it. [This video](https://www.youtube.com/watch?v=kldNkfPBCBk&ab_channel=TheRationalReminderPodcast) is a great explanation of the firm's ideas by its founder, Wes Gray.
+
+&nbsp;
 
 When deciding on weights for developed vs. emerging markets, keep in mind that: (1) if a primary concern is market cap weighting, developed markets are a larger class and (even without the US) demand two to three times more weight than emerging markets; and (2) all the international single-factor funds invest exclusively in developed countries, except VTRIX which provides some coverage of emerging markets as well.
 
@@ -286,6 +294,8 @@ There are two ETFs for small cap stocks in emerging markets, [EEMS](https://www.
 Vanguard’s US quality factor ETF (VFQY) is more balanced between small, mid, and large cap stocks than its counterpart at BlackRock (QUAL), which holds a smaller number of almost entirely large cap stocks. J.P. Morgan's quality factor ETF has characteristics intermediate between the two ([JQUA](https://am.jpmorgan.com/us/en/asset-management/adv/products/jpmorgan-us-quality-factor-etf-46641q761)). The only other fund by J.P. Morgan I can recommend is their large cap value fund ([JVAL](https://am.jpmorgan.com/us/en/asset-management/adv/products/jpmorgan-u-s-value-factor-etf-etf-shares-46641q753)).
 
 BlackRock has an alternative to IUSV. This fund, [VLUE](https://www.ishares.com/us/products/251616/ishares-msci-usa-value-factor-etf), has a smaller number of holdings and a stronger value tilt than IUSV. It is expected to exaggerate the value premium, so it stands to reason that in the long run VLUE will probably outperform IUSV, with the drawback of higher volatility and higher random risk due to less diversification.
+
+&nbsp;
 
 #### Multifactor funds
 
