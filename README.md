@@ -1,6 +1,6 @@
 # Fund proposals
 
-For ETFs and mutual funds separately, I will propose portfolios with increasing levels of complexity and provide options from multiple institutions. If an institution lacks a fund to fill a given row's category, it will either be left blank or filled in with a suggested fund from another institution. The simplest portfolios are a single fund: a total US fund, a total global fund, or in the case of ETFs, a global multifactor fund. [Summary tables](https://github.com/investindex/Funds#summary) at the end organize all the funds, followed by an [example portfolio](https://github.com/investindex/Funds#example-portfolio) of specific stock and bond funds.
+For ETFs and mutual funds separately, I will propose portfolios with increasing levels of complexity and provide options from multiple institutions. If an institution lacks a fund to fill a given row's category, it will either be left blank or filled in with a suggested fund from another institution. The simplest portfolios are a single fund: a total global fund or a total US fund. [Summary tables](https://github.com/investindex/Funds#summary) at the end organize all the funds, followed by an [example portfolio](https://github.com/investindex/Funds#example-portfolio) of specific stock and bond funds.
 
 A terminology note: when used here in reference to a fund, the term _Global_ includes the US. The term _International_, abbreviated _Intl_, excludes the US.
 
@@ -18,9 +18,8 @@ The ETF issuers with the largest total [assets under management](https://www.inv
 
 | &nbsp; &nbsp; &nbsp; &nbsp; Stock index &nbsp; &nbsp; &nbsp; &nbsp; | Allocation | BlackRock | Vanguard | State Street | B. Fee | V. Fee | S. Fee |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| Total US | 100% | [ITOT](https://www.ishares.com/us/products/239724/ishares-core-sp-total-us-stock-market-etf) | [VTI](https://investor.vanguard.com/etf/profile/VTI) | [SPTM](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-sp-1500-composite-stock-market-etf-sptm) | .03% | .03% | .03% |
 | Total Global | 100% | [ACWI](https://www.ishares.com/us/products/239600/ishares-msci-acwi-etf) | [VT](https://investor.vanguard.com/etf/profile/VT) | [SPGM](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-msci-global-stock-market-etf-spgm) | .32% | .08% | .09% |
-| Global Multifactor | 100% | [ACWF](https://www.ishares.com/us/products/272821/ishares-msci-global-multi-factor-etf) | | [QWLD](https://www.ssga.com/us/en/individual/etfs/funds/spdr-msci-world-strategicfactorssm-etf-qwld) | .35% | | .30% |
+| Total US | 100% | [ITOT](https://www.ishares.com/us/products/239724/ishares-core-sp-total-us-stock-market-etf) | [VTI](https://investor.vanguard.com/etf/profile/VTI) | [SPTM](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-sp-1500-composite-stock-market-etf-sptm) | .03% | .03% | .03% |
 
 &nbsp;
 
@@ -69,8 +68,8 @@ The leading providers of indexed mutual funds are Fidelity and Vanguard; Schwab 
 
 | &emsp; &nbsp; Stock index &nbsp; &emsp; | Allocation | Fidelity | Vanguard | Schwab | F. Fee | V. Fee | S. Fee |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| Total US | 100% | &ensp; [FSKAX](https://fundresearch.fidelity.com/mutual-funds/summary/315911693) &ensp; | &ensp; [VTSAX](https://investor.vanguard.com/mutual-funds/profile/VTSAX) &ensp; | &ensp; [SWTSX](https://www.schwabassetmanagement.com/products/swtsx) &ensp; | &nbsp; .015% &nbsp; | &nbsp; .04% &nbsp; | &nbsp; .03% &nbsp; |
 | Total Global | 100% | | [VTWAX](https://investor.vanguard.com/mutual-funds/profile/VTWAX) | | | .10% | |
+| Total US | 100% | &ensp; [FSKAX](https://fundresearch.fidelity.com/mutual-funds/summary/315911693) &ensp; | &ensp; [VTSAX](https://investor.vanguard.com/mutual-funds/profile/VTSAX) &ensp; | &ensp; [SWTSX](https://www.schwabassetmanagement.com/products/swtsx) &ensp; | &nbsp; .015% &nbsp; | &nbsp; .04% &nbsp; | &nbsp; .03% &nbsp; |
 
 &nbsp;
 
@@ -141,7 +140,6 @@ These tables summarize the funds discussed above.
 | Intl Small Cap Value | | [ISVL](https://www.ishares.com/us/products/317548/ishares-international-developed-small-cap-value-factor-etf) | | | [FNDC](https://www.schwabassetmanagement.com/products/fndc) / [SFILX](https://www.schwabassetmanagement.com/products/sfilx) |
 | Intl Large Cap Value | [VTRIX](https://investor.vanguard.com/mutual-funds/profile/VTRIX) | [IVLU](https://www.ishares.com/us/products/275382/ishares-msci-international-developed-value-factor-etf) | | [FIVA](https://institutional.fidelity.com/app/fund/etf/snapshot/FIIS_ETF_FIVA.html) | [FNDF](https://www.schwabassetmanagement.com/products/fndf) / [SFNNX](https://www.schwabassetmanagement.com/products/sfnnx) |
 | Total Global | [VT](https://investor.vanguard.com/etf/profile/VT) / [VTWAX](https://investor.vanguard.com/mutual-funds/profile/VTWAX) | [ACWI](https://www.ishares.com/us/products/239600/ishares-msci-acwi-etf) | [SPGM](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-msci-global-stock-market-etf-spgm) | | |
-| Global Multifactor | | [ACWF](https://www.ishares.com/us/products/272821/ishares-msci-global-multi-factor-etf) | [QWLD](https://www.ssga.com/us/en/individual/etfs/funds/spdr-msci-world-strategicfactorssm-etf-qwld) | | |
 
 &nbsp;
 
