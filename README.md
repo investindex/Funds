@@ -232,7 +232,7 @@ These examples are for a hypothetical married couple, both age 35 and earning in
 | [Short-term Bonds - BSV](https://investor.vanguard.com/etf/profile/BSV) | $4,000 | 8% | Further emergency funds |
 | [Long-Term Bonds - BLV](https://investor.vanguard.com/etf/profile/BLV) | $8,000 | 16% | Appreciation without high risk |
 | [US Quality - VFQY](https://investor.vanguard.com/etf/profile/VFQY) | $3,500 | 7% | Long-term financial goals |
-| [US Small Cap Value - IJS](https://www.ishares.com/us/products/239775/ishares-sp-smallcap-600-value-etf) | $3,500 | 7% | Long-term financial goals |
+| [US Small Cap Value - VIOV](https://investor.vanguard.com/etf/profile/VIOV) | $3,500 | 7% | Long-term financial goals |
 | [US Mid Cap Value - VOE](https://investor.vanguard.com/etf/profile/VOE) | $3,000 | 6% | Long-term financial goals |
 | [RAFI US Large Comp - FNDX](https://www.schwabassetmanagement.com/products/fndx) | $3,000 | 6% | Long-term financial goals |
 | [International Quality - IDHQ](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=IDHQ) | $3,000 | 6% | Long-term financial goals |
