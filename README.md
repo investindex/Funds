@@ -289,8 +289,6 @@ When deciding on weights for developed vs. emerging markets, keep in mind that: 
 
 There are two ETFs for small cap stocks in emerging markets, [EEMS](https://www.ishares.com/us/products/239642/ishares-msci-emerging-markets-smallcap-etf) and [EWX](https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-emerging-markets-small-cap-etf-ewx). Without a filter for value or profitability, their high expense ratios suggest that these funds are not worth including at this time.
 
-Vanguard’s US quality factor ETF (VFQY) is more balanced between small, mid, and large cap stocks than its counterpart at BlackRock (QUAL), which holds a smaller number of almost entirely large cap stocks. J.P. Morgan's quality factor ETF has characteristics intermediate between the two ([JQUA](https://am.jpmorgan.com/us/en/asset-management/adv/products/jpmorgan-us-quality-factor-etf-46641q761)). The only other fund by J.P. Morgan I can recommend is their large cap value fund ([JVAL](https://am.jpmorgan.com/us/en/asset-management/adv/products/jpmorgan-u-s-value-factor-etf-etf-shares-46641q753)).
-
 BlackRock has an alternative to IUSV. This fund, [VLUE](https://www.ishares.com/us/products/251616/ishares-msci-usa-value-factor-etf), has a smaller number of holdings and a stronger value tilt than IUSV. It is expected to exaggerate the value premium, so it stands to reason that in the long run VLUE will probably outperform IUSV, with the drawback of higher volatility and higher random risk due to less diversification.
 
 &nbsp;
