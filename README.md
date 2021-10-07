@@ -200,7 +200,7 @@ These examples are for a hypothetical married couple, both age 35 and earning in
 &nbsp;
 
 <p align="center">
-  <b>Complex portfolio B</b>
+  <b>Complex portfolio A</b>
 </p>
 
 | &ensp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Location &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; | &nbsp; Amount &nbsp; | Percentage | Purpose | 
