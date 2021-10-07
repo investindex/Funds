@@ -182,7 +182,7 @@ There are also the all-in-one funds [discussed in the guidelines](https://github
 
 ## Example portfolio
 
-These examples are for a hypothetical married couple, both age 35 and earning income, who rent their residence and have no debt. Their combined liquid net worth is $40,000 plus $10,000 in a Roth IRA one of them has contributed to. In the complex versions, they keep $20,000 in cash and bonds and the remainder in stocks. Some indices are duplicated, because their taxable brokerage account and Roth IRA must be separate. In the simple version, they keep about $20,800 in cash and bonds and the remainder in stocks. Only three funds are used, instead of 13 (A) or 15 (B). They approach two poles of a spectrum of complexity; many people would choose an intermediate number of funds.
+These examples are for a hypothetical married couple, both age 35 and earning income, who rent their residence and have no debt. Their combined liquid net worth is $40,000 plus $10,000 in a Roth IRA one of them has contributed to. In the complex versions, they keep $20,000 in cash and bonds and the remainder in stocks. Some indices are duplicated, because their taxable brokerage account and Roth IRA must be separate. In the simple version, they keep about $20,800 in cash and bonds and the remainder in stocks. Only three funds are used, instead of 14. They approach two poles of a spectrum of complexity; many people would choose an intermediate number of funds.
 
 &nbsp;
 
@@ -200,25 +200,26 @@ These examples are for a hypothetical married couple, both age 35 and earning in
 &nbsp;
 
 <p align="center">
-  <b>Complex portfolio A</b>
+  <b>Complex portfolio B</b>
 </p>
 
 | &ensp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Location &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; | &nbsp; Amount &nbsp; | Percentage | Purpose | 
 | :--: | :--: | :--: | :--: |
 | Checking account | $8,000 | 16% | Potential for immediate use |
 | [Global bonds - BNDW](https://investor.vanguard.com/etf/profile/BNDW) | $12,000 | 24% | Emergency + Near-term funds |
-| [RAFI US Small Comp - FNDA](https://www.schwabassetmanagement.com/products/fnda) | $5,000 | 10% | Long-term financial goals |
-| [US Mid Cap Equal Weight - EWMC](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=EWMC) | $4,000 | 8% | Long-term financial goals |
-| [RAFI Dev ex-US Small-Mid Comp - PDN](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PDN) | $4,000 | 8% | Long-term financial goals |
-| [RAFI US Large Comp - FNDX](https://www.schwabassetmanagement.com/products/fndx) | $3,000 | 6% | Long-term financial goals |
-| [RAFI Dev ex-US Large Comp - FNDF](https://www.schwabassetmanagement.com/products/fndf) | $2,000 | 4% | Long-term financial goals |
-| [RAFI Emerging Markets Large Comp - FNDE](https://www.schwabassetmanagement.com/products/fnde) | $2,000 | 4% | Long-term financial goals |
-| [RAFI US Small Comp - FNDA](https://www.schwabassetmanagement.com/products/fnda) | $2,500 | 5% | Retirement investing (Roth IRA) |
-| [US Mid Cap Equal Weight - EWMC](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=EWMC) | $2,000 | 4% | Retirement investing (Roth IRA) |
-| [RAFI Dev ex-US Small-Mid Comp - PDN](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PDN) | $2,000 | 4% | Retirement investing (Roth IRA) |
-| [RAFI US Large Comp - FNDX](https://www.schwabassetmanagement.com/products/fndx) | $1,500 | 3% | Retirement investing (Roth IRA) |
-| [RAFI Dev ex-US Large Comp - FNDF](https://www.schwabassetmanagement.com/products/fndf) | $1,000 | 2% | Retirement investing (Roth IRA) |
-| [RAFI Emerging Markets Large Comp - FNDE](https://www.schwabassetmanagement.com/products/fnde) | $1,000 | 2% | Retirement investing (Roth IRA) |
+| [US Quality - VFQY](https://investor.vanguard.com/etf/profile/VFQY) | $3,500 | 7% | Long-term financial goals |
+| [US Small Cap Value - RZV](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=RZV) | $3,500 | 7% | Long-term financial goals |
+| [US Mid Cap Value - RFV](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=RFV) | $3,000 | 6% | Long-term financial goals |
+| [US Large Cap Value - VLUE](https://www.ishares.com/us/products/251616/ishares-msci-usa-value-factor-etf) | $3,000 | 6% | Long-term financial goals |
+| [International Quality - IDHQ](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=IDHQ) | $3,000 | 6% | Long-term financial goals |
+| [Intl Small Cap Value - ISVL](https://www.ishares.com/us/products/317548/ishares-international-developed-small-cap-value-factor-etf) | $2,500 | 5% | Long-term financial goals |
+| [RAFI Emerging Markets Multifactor - MFEM](https://www.pimco.com/en-us/investments/etf/rafi-dynamic-multi-factor-emerging-markets-equity-etf) | $1,500 | 3% | Long-term financial goals |
+| [US Small Cap Value - AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html) | $3,500 | 7% | Retirement investing (Roth IRA) |
+| [RAFI Emerging Markets Large Comp - FNDE](https://www.schwabassetmanagement.com/products/fnde) | $2,000 | 4% | Retirement investing (Roth IRA) |
+| [Intl Small Cap Value - AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) | $1,500 | 3% | Retirement investing (Roth IRA) |
+| [US Small Cap Quality - XSHQ](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=XSHQ) | $1,000 | 2% | Retirement investing (Roth IRA) |
+| [US Mid Cap Quality - XMHQ](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=XMHQ) | $1,000 | 2% | Retirement investing (Roth IRA) |
+| [US Large Cap Quality - SPHQ](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=SPHQ) | $1,000 | 2% | Retirement investing (Roth IRA) |
 
 &nbsp;
 
@@ -231,19 +232,18 @@ These examples are for a hypothetical married couple, both age 35 and earning in
 | Checking account | $8,000 | 16% | Potential for immediate use |
 | [Short-term Bonds - BSV](https://investor.vanguard.com/etf/profile/BSV) | $4,000 | 8% | Further emergency funds |
 | [Long-Term Bonds - BLV](https://investor.vanguard.com/etf/profile/BLV) | $8,000 | 16% | Appreciation without high risk |
-| [US Quality - VFQY](https://investor.vanguard.com/etf/profile/VFQY) | $3,500 | 7% | Long-term financial goals |
-| [US Small Cap Value - RZV](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=RZV) | $3,500 | 7% | Long-term financial goals |
-| [US Mid Cap Value - VOE](https://investor.vanguard.com/etf/profile/VOE) | $3,000 | 6% | Long-term financial goals |
-| [US Large Cap Value - VLUE](https://www.ishares.com/us/products/251616/ishares-msci-usa-value-factor-etf) | $3,000 | 6% | Long-term financial goals |
-| [International Quality - IDHQ](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=IDHQ) | $3,000 | 6% | Long-term financial goals |
-| [Intl Small Cap Value - ISVL](https://www.ishares.com/us/products/317548/ishares-international-developed-small-cap-value-factor-etf) | $2,500 | 5% | Long-term financial goals |
-| [RAFI Emerging Markets Multifactor - MFEM](https://www.pimco.com/en-us/investments/etf/rafi-dynamic-multi-factor-emerging-markets-equity-etf) | $1,500 | 3% | Long-term financial goals |
-| [US Small Cap Value - AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html) | $3,500 | 7% | Retirement investing (Roth IRA) |
-| [RAFI Emerging Markets Large Comp - FNDE](https://www.schwabassetmanagement.com/products/fnde) | $2,000 | 4% | Retirement investing (Roth IRA) |
-| [Intl Small Cap Value - AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) | $1,500 | 3% | Retirement investing (Roth IRA) |
-| [US Small Cap Quality - XSHQ](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=XSHQ) | $1,000 | 2% | Retirement investing (Roth IRA) |
-| [US Mid Cap Quality - XMHQ](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=XMHQ) | $1,000 | 2% | Retirement investing (Roth IRA) |
-| [US Large Cap Quality - SPHQ](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=SPHQ) | $1,000 | 2% | Retirement investing (Roth IRA) |
+| [RAFI US Small Comp - FNDA](https://www.schwabassetmanagement.com/products/fnda) | $5,000 | 10% | Long-term financial goals |
+| [US Mid Cap Equal Weight - EWMC](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=EWMC) | $4,000 | 8% | Long-term financial goals |
+| [RAFI Dev ex-US Small-Mid Comp - PDN](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PDN) | $4,000 | 8% | Long-term financial goals |
+| [RAFI US Large Comp - FNDX](https://www.schwabassetmanagement.com/products/fndx) | $3,000 | 6% | Long-term financial goals |
+| [RAFI Dev ex-US Large Comp - FNDF](https://www.schwabassetmanagement.com/products/fndf) | $2,000 | 4% | Long-term financial goals |
+| [RAFI Emerging Markets Large Comp - FNDE](https://www.schwabassetmanagement.com/products/fnde) | $2,000 | 4% | Long-term financial goals |
+| [RAFI US Small Comp - FNDA](https://www.schwabassetmanagement.com/products/fnda) | $2,500 | 5% | Retirement investing (Roth IRA) |
+| [US Mid Cap Equal Weight - EWMC](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=EWMC) | $2,000 | 4% | Retirement investing (Roth IRA) |
+| [RAFI Dev ex-US Small-Mid Comp - PDN](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PDN) | $2,000 | 4% | Retirement investing (Roth IRA) |
+| [RAFI US Large Comp - FNDX](https://www.schwabassetmanagement.com/products/fndx) | $1,500 | 3% | Retirement investing (Roth IRA) |
+| [RAFI Dev ex-US Large Comp - FNDF](https://www.schwabassetmanagement.com/products/fndf) | $1,000 | 2% | Retirement investing (Roth IRA) |
+| [RAFI Emerging Markets Large Comp - FNDE](https://www.schwabassetmanagement.com/products/fnde) | $1,000 | 2% | Retirement investing (Roth IRA) |
 
 &nbsp;
 
