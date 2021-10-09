@@ -109,7 +109,7 @@ The leading providers of indexed mutual funds are Fidelity and Vanguard; Schwab 
 
 Although the funds are presented as groups, there is no prize for brand loyalty and you may want to choose a combination of managing institutions, as well as a combination of ETFs and mutual funds. Other institutions I haven’t mentioned have solid offerings which are not diverse enough to build a complex portfolio at low cost, as defined here. So this guide is not exhaustive. But the institutions reviewed here manage many of the best funds at very low cost. Unless you have highly specific ideas beyond indexing, you are not missing anything major by selecting among them.
 
-I will restate that some of these portfolios, like the simple and complex ETF portfolios, are highly factor-tilted. Investors who are concerned with not straying too far from standard market returns should include a significant allocation to a total market fund or large cap fund (which are very similar because the cap-weighted total market is dominated by large cap stocks). Examples of US large cap funds are in the summary table. They could also hold [RAFI funds](https://www.youtube.com/watch?v=00ZACmAdi7g&ab_channel=TheRationalReminderPodcast), which are value-tilted but not as strongly as a value fund because they hold growth stocks as well (while underweighting them). RAFI funds are offered by Schwab, Invesco, and Pimco, as discussed below.
+Some of these portfolios, like the simple and complex ETF portfolios, are highly factor-tilted. Investors who are concerned with not straying too far from standard market returns should include a significant allocation to a total market fund or large cap fund (which are very similar because the cap-weighted total market is dominated by large cap stocks). Examples of US large cap funds are in the summary table. They could also hold [RAFI funds](https://www.youtube.com/watch?v=00ZACmAdi7g&ab_channel=TheRationalReminderPodcast), which are value-tilted but not as strongly as a value fund because they hold growth stocks as well (while underweighting them). RAFI funds are offered by Schwab, Invesco, and Pimco, as discussed below.
 
 See this footnote<sup id="fn1">[1](#f1)</sup> for comments on minor details of funds, as well as many additional funds. Some of the new funds mentioned are multifactor funds, which combine the implementation of several factors in one fund.
 
@@ -302,7 +302,7 @@ Invesco also has a total US fund ([PBUS](https://www.invesco.com/us/financial-pr
 
 &nbsp;
 
-When deciding on weights for developed vs. emerging markets, keep in mind that: (1) if a primary concern is market cap weighting, developed markets are a larger class and (even without the US) demand two to three times more weight than emerging markets; and (2) all the international single-factor funds invest exclusively in developed countries, except VTRIX which provides some coverage of emerging markets as well.
+When deciding on weights for developed vs. emerging markets, keep in mind that all the international single-factor funds that don't have "emerging" in their name invest exclusively in developed countries, except VTRIX.
 
 There are two ETFs for small cap stocks in emerging markets, [EEMS](https://www.ishares.com/us/products/239642/ishares-msci-emerging-markets-smallcap-etf) and [EWX](https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-emerging-markets-small-cap-etf-ewx). Without a filter for value or profitability, their high expense ratios suggest that these funds are not worth including at this time.
 
