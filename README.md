@@ -107,9 +107,9 @@ The leading providers of indexed mutual funds are Fidelity and Vanguard; Schwab 
 
 ## General comments
 
-Some of these portfolios, like the simple and complex ETF portfolios, are highly factor-tilted. Investors who are concerned with not straying too far from standard market returns should include a significant allocation to a total market fund or large cap fund (which are very similar because the cap-weighted total market is dominated by large cap stocks). Examples of US large cap funds are in the summary table. They could also hold [RAFI funds](https://www.youtube.com/watch?v=00ZACmAdi7g&ab_channel=TheRationalReminderPodcast), which are value-tilted but not as strongly as a value fund because they hold growth stocks as well (while underweighting them). RAFI funds are offered by Schwab and Invesco, among others.
+See the footnote for discussion of additional funds and other approaches to achieving factor tilts.<sup id="fn1">[1](#f1)</sup> My preferred approach is exhibited in the example portfolio section.
 
-See the footnote for discussion of additional funds.<sup id="fn1">[1](#f1)</sup>
+Some of these portfolios, like the simple and complex ETF portfolios, are highly factor-tilted. Investors who are concerned with not straying too far from standard market returns should include a significant allocation to a total market fund or large cap fund (which are very similar because the cap-weighted total market is dominated by large cap stocks). Examples of US large cap funds are in the summary table. They could also hold [RAFI funds](https://www.youtube.com/watch?v=00ZACmAdi7g&ab_channel=TheRationalReminderPodcast), which are value-tilted but not as strongly as a value fund because they hold growth stocks as well (while underweighting them). RAFI funds are offered by Schwab and Invesco, among others.
 
 Although the funds are presented as groups, there is no prize for brand loyalty and you may want to choose a combination of managing institutions, as well as a combination of ETFs and mutual funds. Keep in mind that investing in mutual funds from more than one manager requires using multiple accounts or paying fees; this is a major advantage of ETFs.
 
