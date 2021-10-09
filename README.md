@@ -194,8 +194,8 @@ The stocks in complex portfolio A are allocated roughly 58.5% US, 30% developed 
 
 | &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Location &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; | &emsp; Amount &emsp; | &emsp; &emsp; &emsp; &emsp; &emsp; Purpose &emsp; &emsp; &emsp; &emsp; &emsp; |
 | :--: | :--: | :--: |
-| Checking account | $8,000 | 16% | Potential for immediate use |
-| [60/40 Allocation - AOR](https://www.ishares.com/us/products/239756/ishares-growth-allocation-etf) | $32,000 | All-in-one Emergency + Long-term funds |
+| Checking account | $8,000 | Potential for immediate use |
+| [60/40 Allocation - AOR](https://www.ishares.com/us/products/239756/ishares-growth-allocation-etf) | $32,000 | Emergency funds + Long-term funds |
 | [Total Global - VT](https://investor.vanguard.com/etf/profile/VT) | $30,000 | Retirement investing (Roth IRA) |
 | [US Small Cap Value - AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html) | $15,000 | Retirement investing (Roth IRA) |
 | [Dev ex-US Small Cap Value - AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) | $15,000 | Retirement investing (Roth IRA) |
