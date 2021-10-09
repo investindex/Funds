@@ -111,7 +111,7 @@ Some of these portfolios, like the simple and complex ETF portfolios, are highly
 
 See the footnote for discussion of additional funds.<sup id="fn1">[1](#f1)</sup>
 
-Although the funds are presented as groups, there is no prize for brand loyalty and you may want to choose a combination of managing institutions, as well as a combination of ETFs and mutual funds. Keep in mind that investing in mutual funds from multiple managers requires using multiple accounts or paying fees; this is a major advantage of ETFs.
+Although the funds are presented as groups, there is no prize for brand loyalty and you may want to choose a combination of managing institutions, as well as a combination of ETFs and mutual funds. Keep in mind that investing in mutual funds from more than one manager requires using multiple accounts or paying fees; this is a major advantage of ETFs.
 
 &nbsp;
 
