@@ -193,11 +193,12 @@ The stocks in complex portfolio A are allocated roughly 58.5% US, 30% developed 
 </p>
 
 | &ensp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Location &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; | &nbsp; Amount &nbsp; | Percentage | Purpose | 
-| :--: | :--: | :--: | :--: |
+| :--: | :--: | :--: |
 | Checking account | $8,000 | 16% | Potential for immediate use |
-| [60/40 Allocation - AOR](https://www.ishares.com/us/products/239756/ishares-growth-allocation-etf) | $32,000 | 64% | Emergency + Long-term funds |
-| [Total Global - VT](https://investor.vanguard.com/etf/profile/VT) | $5,000 | 10% | Retirement investing (Roth IRA) |
-| [US Small Cap Value - AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html) | $5,000 | 10% | Retirement investing (Roth IRA) |
+| [60/40 Allocation - AOR](https://www.ishares.com/us/products/239756/ishares-growth-allocation-etf) | $32,000 | All-in-one Emergency + Long-term funds |
+| [Total Global - VT](https://investor.vanguard.com/etf/profile/VT) | $30,000 | Retirement investing (Roth IRA) |
+| [US Small Cap Value - AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html) | $15,000 | Retirement investing (Roth IRA) |
+| [Dev ex-US Small Cap Value - AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) | $15,000 | Retirement investing (Roth IRA) |
 
 &nbsp;
 
@@ -208,21 +209,21 @@ The stocks in complex portfolio A are allocated roughly 58.5% US, 30% developed 
 | &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Location &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; | &emsp; Amount &emsp; | &emsp; &emsp; &emsp; &emsp; &emsp; Purpose &emsp; &emsp; &emsp; &emsp; &emsp; | 
 | :--: | :--: | :--: |
 | Checking account | $8,000 | Potential for immediate use |
-| [Global aggregate bonds - BNDW](https://investor.vanguard.com/etf/profile/BNDW) | $12,000 | Emergency + Near-term funds |
-| [Total Global - VT](https://investor.vanguard.com/etf/profile/VT) | $8,000 | 16% | Long-term financial goals |
+| [Global Aggregate Bonds - BNDW](https://investor.vanguard.com/etf/profile/BNDW) | $12,000 | Emergency + Near-term funds |
+| [Total Global - VT](https://investor.vanguard.com/etf/profile/VT) | $8,000 | Long-term financial goals |
 | [US Small Cap Value - AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html) | $3,500 | Long-term financial goals |
 | [US Mid Cap Value - RFV](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=RFV) | $2,000 | Long-term financial goals |
 | [US Large Cap Value - AVLV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-us-large-cap-value-etf.html) | $1,500 | Long-term financial goals |
 | [Dev ex-US Small Cap Value - AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) | $2,000 | Long-term financial goals |
 | [Dev ex-US Large Cap Value - AVIV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-large-cap-value-etf.html) | $1,500 | Long-term financial goals |
 | [Emerging Markets Value - AVES](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-emerging-markets-value-etf.html) | $1,500 | Long-term financial goals |
-| [Total Global - VT](https://investor.vanguard.com/etf/profile/VT) | $4,000 | Retirement investing (Roth IRA) |
-| [US Small Cap Value - AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html) | $1,750 | Retirement investing (Roth IRA) |
-| [US Mid Cap Value - RFV](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=RFV) | $1,000 | Retirement investing (Roth IRA) |
-| [US Large Cap Value - AVLV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-us-large-cap-value-etf.html) | $750 | Retirement investing (Roth IRA) |
-| [Dev ex-US Small Cap Value - AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) | $1,000 | Retirement investing (Roth IRA) |
-| [Dev ex-US Large Cap Value - AVIV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-large-cap-value-etf.html) | $750 | Retirement investing (Roth IRA) |
-| [Emerging Markets Value - AVES](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-emerging-markets-value-etf.html) | $750 | Retirement investing (Roth IRA) |
+| [Total Global - VT](https://investor.vanguard.com/etf/profile/VT) | $24,000 | Retirement investing (Roth IRA) |
+| [US Small Cap Value - AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html) | $10,500 | Retirement investing (Roth IRA) |
+| [US Mid Cap Value - RFV](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=RFV) | $6,000 | Retirement investing (Roth IRA) |
+| [US Large Cap Value - AVLV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-us-large-cap-value-etf.html) | $4,500 | Retirement investing (Roth IRA) |
+| [Dev ex-US Small Cap Value - AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) | $6,000 | Retirement investing (Roth IRA) |
+| [Dev ex-US Large Cap Value - AVIV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-large-cap-value-etf.html) | $4,500 | Retirement investing (Roth IRA) |
+| [Emerging Markets Value - AVES](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-emerging-markets-value-etf.html) | $4,500 | Retirement investing (Roth IRA) |
 
 &nbsp;
 
