@@ -198,7 +198,7 @@ The stocks in complex portfolio A are allocated roughly 58.5% US, 30% developed 
 | [60/40 Allocation - AOR](https://www.ishares.com/us/products/239756/ishares-growth-allocation-etf) | $32,000 | Emergency funds + Long-term funds |
 | [Total Global - VT](https://investor.vanguard.com/etf/profile/VT) | $30,000 | Retirement investing (Roth IRA) |
 | [US Small Cap Value - AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html) | $15,000 | Retirement investing (Roth IRA) |
-| [Dev ex-US Small Cap Value - AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) | $15,000 | Retirement investing (Roth IRA) |
+| [Developed ex-US Small Cap Value - AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) | $15,000 | Retirement investing (Roth IRA) |
 
 &nbsp;
 
@@ -214,15 +214,15 @@ The stocks in complex portfolio A are allocated roughly 58.5% US, 30% developed 
 | [US Small Cap Value - AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html) | $3,500 | Long-term financial goals |
 | [US Mid Cap Value - RFV](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=RFV) | $2,000 | Long-term financial goals |
 | [US Large Cap Value - AVLV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-us-large-cap-value-etf.html) | $1,500 | Long-term financial goals |
-| [Dev ex-US Small Cap Value - AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) | $2,000 | Long-term financial goals |
-| [Dev ex-US Large Cap Value - AVIV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-large-cap-value-etf.html) | $1,500 | Long-term financial goals |
+| [Developed ex-US Small Cap Value - AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) | $2,000 | Long-term financial goals |
+| [Developed ex-US Large Cap Value - AVIV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-large-cap-value-etf.html) | $1,500 | Long-term financial goals |
 | [Emerging Markets Value - AVES](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-emerging-markets-value-etf.html) | $1,500 | Long-term financial goals |
 | [Total Global - VT](https://investor.vanguard.com/etf/profile/VT) | $24,000 | Retirement investing (Roth IRA) |
 | [US Small Cap Value - AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html) | $10,500 | Retirement investing (Roth IRA) |
 | [US Mid Cap Value - RFV](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=RFV) | $6,000 | Retirement investing (Roth IRA) |
 | [US Large Cap Value - AVLV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-us-large-cap-value-etf.html) | $4,500 | Retirement investing (Roth IRA) |
-| [Dev ex-US Small Cap Value - AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) | $6,000 | Retirement investing (Roth IRA) |
-| [Dev ex-US Large Cap Value - AVIV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-large-cap-value-etf.html) | $4,500 | Retirement investing (Roth IRA) |
+| [Developed ex-US Small Cap Value - AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) | $6,000 | Retirement investing (Roth IRA) |
+| [Developed ex-US Large Cap Value - AVIV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-large-cap-value-etf.html) | $4,500 | Retirement investing (Roth IRA) |
 | [Emerging Markets Value - AVES](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-emerging-markets-value-etf.html) | $4,500 | Retirement investing (Roth IRA) |
 
 &nbsp;
@@ -239,14 +239,14 @@ The stocks in complex portfolio A are allocated roughly 58.5% US, 30% developed 
 | [RAFI US Small Company - FNDA](https://www.schwabassetmanagement.com/products/fnda) | $5,000 | Long-term financial goals |
 | [US Mid Cap Equal Weight - EWMC](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=EWMC) | $4,000 | Long-term financial goals |
 | [RAFI US Large Company - FNDX](https://www.schwabassetmanagement.com/products/fndx) | $3,000 | Long-term financial goals |
-| [RAFI Dev ex-US Small-Mid Company - PDN](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PDN) | $4,000 | Long-term financial goals |
-| [RAFI Dev ex-US Large Company - FNDF](https://www.schwabassetmanagement.com/products/fndf) | $2,000 | Long-term financial goals |
+| [RAFI Developed ex-US Small-Mid Company - PDN](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PDN) | $4,000 | Long-term financial goals |
+| [RAFI Developed ex-US Large Company - FNDF](https://www.schwabassetmanagement.com/products/fndf) | $2,000 | Long-term financial goals |
 | [RAFI Emerging Markets Large Company - FNDE](https://www.schwabassetmanagement.com/products/fnde) | $2,000 | Long-term financial goals |
 | [RAFI US Small Company - FNDA](https://www.schwabassetmanagement.com/products/fnda) | $15,000 | Retirement investing (Roth IRA) |
 | [US Mid Cap Equal Weight - EWMC](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=EWMC) | $12,000 | Retirement investing (Roth IRA) |
 | [RAFI US Large Company - FNDX](https://www.schwabassetmanagement.com/products/fndx) | $9,000 | Retirement investing (Roth IRA) |
-| [RAFI Dev ex-US Small-Mid Company - PDN](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PDN) | $12,000 | Retirement investing (Roth IRA) |
-| [RAFI Dev ex-US Large Company - FNDF](https://www.schwabassetmanagement.com/products/fndf) | $6,000 | Retirement investing (Roth IRA) |
+| [RAFI Developed ex-US Small-Mid Company - PDN](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PDN) | $12,000 | Retirement investing (Roth IRA) |
+| [RAFI Developed ex-US Large Company - FNDF](https://www.schwabassetmanagement.com/products/fndf) | $6,000 | Retirement investing (Roth IRA) |
 | [RAFI Emerging Markets Large Company - FNDE](https://www.schwabassetmanagement.com/products/fnde) | $6,000 | Retirement investing (Roth IRA) |
 
 &nbsp;
