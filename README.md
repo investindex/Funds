@@ -182,9 +182,11 @@ There are also the all-in-one funds [discussed in the guidelines](https://github
 
 ## Example portfolio
 
-These examples are for a hypothetical married couple, both age 38 and earning income, who rent their residence and have no debt. Their combined liquid net worth is $40,000 plus $60,000 in a Roth IRA that one of them has contributed to for several years. In the complex versions, they keep $20,000 in cash and bonds and the remainder in stocks. Stock funds are duplicated because their taxable brokerage account and Roth IRA must be separate. In the simple version, they keep about $20,800 in cash and bonds and the remainder in stocks. Only four funds are used, instead of 15 (A) or 14 (B). They approach two poles of a spectrum of complexity; many people would choose an intermediate number of funds.
+These examples are for a hypothetical married couple, both age 38 and earning income, who rent their residence and have no debt. Their combined liquid net worth is $40,000 plus $60,000 in a Roth IRA that one of them has contributed to for several years. In the complex versions, they keep $20,000 in cash and bonds and the remainder in stocks. Stock funds are duplicated because their taxable brokerage account and Roth IRA must be separate. In the simple version, they keep about $20,800 in cash and bonds and the remainder in stocks. Only four funds are used, instead of 15 (A) or 14 (B).
 
-The stocks in complex portfolio A are allocated roughly 58.5% US, 30% developed ex-US, and 11.5% emerging. This is very close to global market cap weights. Value is highly overweighted, and small cap value even more so. However, we include all global stocks by using VT as the core.
+The stocks in complex portfolio A are allocated roughly 58.5% US, 30% developed ex-US, and 11.5% emerging. This is very close to global market cap weights. Value is highly overweighted, and small cap value even more so. However, we include nearly all global stocks to some degree by using VT as the core.
+
+40% VT, 17.5% AVUV, 10% RFV, 7.5% AVLV, 10% AVDV, 7.5% AVIV, 7.5% AVES. Investment recommendations should be personalized, but if I were to make a recommendation in general for a long-term stock portfolio, this would be it.
 
 &nbsp;
 
