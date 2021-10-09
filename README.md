@@ -192,7 +192,7 @@ The stocks in complex portfolio A are allocated roughly 58.5% US, 30% developed 
   <b>Couch potato portfolio</b>
 </p>
 
-| &ensp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Location &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; | &nbsp; Amount &nbsp; | Percentage | Purpose | 
+| &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Location &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; | &emsp; Amount &emsp; | &emsp; &emsp; &emsp; &emsp; &emsp; Purpose &emsp; &emsp; &emsp; &emsp; &emsp; |
 | :--: | :--: | :--: |
 | Checking account | $8,000 | 16% | Potential for immediate use |
 | [60/40 Allocation - AOR](https://www.ishares.com/us/products/239756/ishares-growth-allocation-etf) | $32,000 | All-in-one Emergency + Long-term funds |
