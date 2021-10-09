@@ -230,7 +230,7 @@ The stocks in complex portfolio A are allocated roughly 58.5% US, 30% developed 
   <b>Complex portfolio B</b>
 </p>
 
-| &ensp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Location &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; | &nbsp; Amount &nbsp; | &nbsp; Purpose &nbsp; | 
+| &ensp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Location &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; | &nbsp; Amount &nbsp; | &nbsp; &nbsp; Purpose &nbsp; &nbsp; | 
 | :--: | :--: | :--: |
 | Checking account | $8,000 | Potential for immediate use |
 | [Short-term Bonds - BSV](https://investor.vanguard.com/etf/profile/BSV) | $4,000 | Further emergency funds |
