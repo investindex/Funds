@@ -111,7 +111,7 @@ Although the funds are presented as groups, there is no prize for brand loyalty 
 
 Some of these portfolios, like the simple and complex ETF portfolios, are highly factor-tilted. Investors who are concerned with not straying too far from standard market returns should include a significant allocation to a total market fund or large cap fund (which are very similar because the cap-weighted total market is dominated by large cap stocks). Examples of US large cap funds are in the summary table. They could also hold [RAFI funds](https://www.youtube.com/watch?v=00ZACmAdi7g&ab_channel=TheRationalReminderPodcast), which are value-tilted but not as strongly as a value fund because they hold growth stocks as well (while underweighting them). RAFI funds are offered by Schwab, Invesco, and Pimco, as discussed below.
 
-See this footnote<sup id="fn1">[1](#f1)</sup> for comments on minor details of funds, as well as many additional funds. Some of the new funds mentioned are multifactor funds, which combine the implementation of several factors in one fund.
+See this footnote for discussion of additional funds.<sup id="fn1">[1](#f1)</sup>
 
 &nbsp;
 
@@ -310,6 +310,7 @@ BlackRock has an alternative to IUSV. This fund, [VLUE](https://www.ishares.com/
 
 &nbsp;
 
+<!--
 #### Multifactor funds
 
 State Street doesn’t offer an ETF focused solely on the quality factor, but it does offer multiple ETFs with a combination of quality, value, and low volatility: [QUS](https://www.ssga.com/us/en/individual/etfs/funds/spdr-msci-usa-strategicfactorssm-etf-qus), [QEFA](https://www.ssga.com/us/en/individual/etfs/funds/spdr-msci-eafe-strategicfactorssm-etf-qefa), [QEMM](https://www.ssga.com/us/en/individual/etfs/funds/spdr-msci-emerging-markets-strategicfactorssm-etf-qemm), and [QWLD](https://www.ssga.com/us/en/individual/etfs/funds/spdr-msci-world-strategicfactorssm-etf-qwld). Low volatility is advertised because it has strong historical returns, but these returns are explained by [other](https://www.youtube.com/watch?v=xUbJ21WcUWA&ab_channel=BenFelix) [variables](https://www.sciencedirect.com/science/article/pii/S0304405X21002051). A low-volatility strategy dovetails well with selecting high-profitability stocks.
@@ -330,6 +331,5 @@ Fidelity manages a developed markets multifactor fund ([FDEV](https://institutio
 
 &nbsp;
 
-<!--
 Note for author in case of dead link: "(The darts he refers to in the video are not an obscure acronym. They are [actual darts](https://thereformedbroker.com/wp-content/uploads/2014/11/jpm_summer2013_rallc.pdf), meaning random selection of equally weighted stocks)." Link leads to "The surprising alpha from Malkiel’s monkey and upside-down strategies" by Arnott, Hsu, Kalesnik, and Tindall (2013).
 -->
