@@ -230,23 +230,23 @@ The stocks in complex portfolio A are allocated roughly 58.5% US, 30% developed 
   <b>Complex portfolio B</b>
 </p>
 
-| &ensp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Location &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; | &nbsp; Amount &nbsp; | &nbsp; &nbsp; Purpose &nbsp; &nbsp; | 
+| &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Location &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; | &nbsp; Amount &nbsp; | &emsp; &emsp; &emsp; Purpose &emsp; &emsp; &emsp; | 
 | :--: | :--: | :--: |
 | Checking account | $8,000 | Potential for immediate use |
 | [Short-term Bonds - BSV](https://investor.vanguard.com/etf/profile/BSV) | $4,000 | Further emergency funds |
 | [Long-Term Bonds - BLV](https://investor.vanguard.com/etf/profile/BLV) | $8,000 | Appreciation without high risk |
-| [RAFI US Small Comp - FNDA](https://www.schwabassetmanagement.com/products/fnda) | $5,000 | Long-term financial goals |
+| [RAFI US Small Company - FNDA](https://www.schwabassetmanagement.com/products/fnda) | $5,000 | Long-term financial goals |
 | [US Mid Cap Equal Weight - EWMC](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=EWMC) | $4,000 | Long-term financial goals |
-| [RAFI US Large Comp - FNDX](https://www.schwabassetmanagement.com/products/fndx) | $3,000 | Long-term financial goals |
-| [RAFI Dev ex-US Small-Mid Comp - PDN](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PDN) | $4,000 | Long-term financial goals |
-| [RAFI Dev ex-US Large Comp - FNDF](https://www.schwabassetmanagement.com/products/fndf) | $2,000 | Long-term financial goals |
-| [RAFI Emerging Markets Large Comp - FNDE](https://www.schwabassetmanagement.com/products/fnde) | $2,000 | Long-term financial goals |
-| [RAFI US Small Comp - FNDA](https://www.schwabassetmanagement.com/products/fnda) | $15,000 | Retirement investing (Roth IRA) |
+| [RAFI US Large Company - FNDX](https://www.schwabassetmanagement.com/products/fndx) | $3,000 | Long-term financial goals |
+| [RAFI Dev ex-US Small-Mid Company - PDN](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PDN) | $4,000 | Long-term financial goals |
+| [RAFI Dev ex-US Large Company - FNDF](https://www.schwabassetmanagement.com/products/fndf) | $2,000 | Long-term financial goals |
+| [RAFI Emerging Markets Large Company - FNDE](https://www.schwabassetmanagement.com/products/fnde) | $2,000 | Long-term financial goals |
+| [RAFI US Small Company - FNDA](https://www.schwabassetmanagement.com/products/fnda) | $15,000 | Retirement investing (Roth IRA) |
 | [US Mid Cap Equal Weight - EWMC](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=EWMC) | $12,000 | Retirement investing (Roth IRA) |
-| [RAFI US Large Comp - FNDX](https://www.schwabassetmanagement.com/products/fndx) | $9,000 | Retirement investing (Roth IRA) |
-| [RAFI Dev ex-US Small-Mid Comp - PDN](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PDN) | $12,000 | Retirement investing (Roth IRA) |
-| [RAFI Dev ex-US Large Comp - FNDF](https://www.schwabassetmanagement.com/products/fndf) | $6,000 | Retirement investing (Roth IRA) |
-| [RAFI Emerging Markets Large Comp - FNDE](https://www.schwabassetmanagement.com/products/fnde) | $6,000 | Retirement investing (Roth IRA) |
+| [RAFI US Large Company - FNDX](https://www.schwabassetmanagement.com/products/fndx) | $9,000 | Retirement investing (Roth IRA) |
+| [RAFI Dev ex-US Small-Mid Company - PDN](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PDN) | $12,000 | Retirement investing (Roth IRA) |
+| [RAFI Dev ex-US Large Company - FNDF](https://www.schwabassetmanagement.com/products/fndf) | $6,000 | Retirement investing (Roth IRA) |
+| [RAFI Emerging Markets Large Company - FNDE](https://www.schwabassetmanagement.com/products/fnde) | $6,000 | Retirement investing (Roth IRA) |
 
 &nbsp;
 
