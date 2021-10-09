@@ -186,7 +186,9 @@ These examples are for a hypothetical married couple, both age 38 and earning in
 
 The stocks in complex portfolio A are allocated roughly 58.5% US, 30% developed ex-US, and 11.5% emerging. This is very close to global market cap weights. Value is highly overweighted, and small cap value even more so. However, we include nearly all global stocks to some degree by using VT as the core.
 
-40% VT, 17.5% AVUV, 10% RFV, 7.5% AVLV, 10% AVDV, 7.5% AVIV, 7.5% AVES. Investment recommendations should be personalized, but if I were to make a recommendation in general for a long-term stock portfolio, this would be it.
+The stock allocation in complex portfolio A is: 40% VT + 17.5% AVUV + 10% RFV + 7.5% AVLV + 10% AVDV + 7.5% AVIV + 7.5% AVES. Investment recommendations should be personalized, but if I were to make a recommendation in general for a long-term stock portfolio, it would be something like this.
+
+Complex portfolio B has a different approach to achieving factor tilts. It uses RAFI weighting and, to a lesser degree, equal weighting. See the footnote for more on this.
 
 &nbsp;
 
