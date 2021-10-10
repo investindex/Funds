@@ -119,7 +119,7 @@ See the footnote<sup id="fn1">[1](#f1)</sup> for additional funds, including RAF
 
 ## Summary
 
-These tables summarize the funds discussed above.
+These tables summarize stock and bond funds from the largest institutions.
 
 <p align="center">
   <b>Stock funds</b>
