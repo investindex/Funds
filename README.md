@@ -316,7 +316,7 @@ When deciding on weights for developed vs. emerging markets, keep in mind that a
 
 There are two ETFs for small cap stocks in emerging markets, [EEMS](https://www.ishares.com/us/products/239642/ishares-msci-emerging-markets-smallcap-etf) and [EWX](https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-emerging-markets-small-cap-etf-ewx). Without a filter for value or profitability, their high expense ratios suggest that these funds are not worth including at this time.
 
-BlackRock has an alternative to IUSV. This fund, [VLUE](https://www.ishares.com/us/products/251616/ishares-msci-usa-value-factor-etf), has a smaller number of holdings and a stronger value tilt than IUSV. It is expected to exaggerate the value premium, so it stands to reason that in the long run VLUE will probably outperform IUSV, with the drawback of higher volatility and higher random risk due to less diversification. [↩](#fn1)
+BlackRock has an alternative to IUSV. This fund, [VLUE](https://www.ishares.com/us/products/251616/ishares-msci-usa-value-factor-etf), has a smaller number of holdings and a stronger value tilt than IUSV. It is expected to exaggerate the value premium, so it stands to reason that in the long run VLUE will probably outperform IUSV, with the drawback of higher volatility due to less diversification. [↩](#fn1)
 
 &nbsp;
 
