@@ -111,7 +111,7 @@ Although the funds are presented as groups, there is no prize for brand loyalty 
 
 Some of these portfolios, like the simple and complex ETF portfolios, are highly factor-tilted. Investors who are concerned with not diverging too far from standard market returns should include a significant allocation to a total market fund or large cap fund (which are very similar because the cap-weighted total market is dominated by large cap stocks). Examples of US large cap funds are in the summary table. They could also hold [RAFI funds](https://www.youtube.com/watch?v=00ZACmAdi7g&ab_channel=TheRationalReminderPodcast), which are value-tilted but not as strongly as a value fund because they hold growth stocks as well (while underweighting them). RAFI funds are offered by Schwab and Invesco, among others.
 
-See the footnote<sup id="fn1">[1](#f1)</sup> for additional funds, including RAFI funds, and the discussion below for other approaches to achieving factor tilts. My preferred approach is exhibited in the example portfolio section, and it's substantively different than the portfolios above.
+See this footnote<sup id="fn1">[1](#f1)</sup> for additional funds, including RAFI funds, and the discussion below for other approaches to achieving factor tilts. My preferred approach is exhibited in the example portfolio section, and it's substantively different than the portfolios above.
 
 &nbsp;
 
@@ -168,13 +168,15 @@ These tables summarize stock and bond funds from the largest institutions.
 
 &nbsp;
 
-There are also the all-in-one funds [discussed in the guidelines](https://github.com/investindex/Guidelines#simplify-dont-oversimplify) and the additional funds discussed in the footnote.
+There are also the all-in-one funds [discussed in the guidelines](https://github.com/investindex/Guidelines#simplify-dont-oversimplify) and the additional funds discussed below and in the first footnote.
 
 &nbsp;
 
 &nbsp;
 
 ## Beyond mainstream factor funds
+
+It's important to understand 
 
 Three important fund managers not covered in the main tables are Avantis Investors, Dimensional Fund Advisors, and Alpha Architect. Products from Dimensional Fund Advisors (DFA) were accessible only to those who used wealth management firms for about 40 years, until DFA began listing ETFs in November 2020. [Their ETF offerings](https://us.dimensional.com/etfs) are not yet as extensive as their mutual funds, but they continue to list more as recently as September 2021. Their funds are among the best. Ben Felix, a portfolio manager at PWL Capital, has a [YouTube channel](https://www.youtube.com/c/BenFelixCSI/videos) and [podcast](https://www.youtube.com/c/RATIONALREMINDER/videos) which are referenced often in the hyperlinks of this guide. He provides outstanding explanations of the value of applying academic research to fund management, and why his firm uses DFA mutual funds for their clients.
 
@@ -291,6 +293,8 @@ All sections:
 Footnote:
 
 #### Additional funds and minor comments<sup id="f1"> 1 </sup>
+
+The following details are not particularly important except for those people who want to know all their options.
 
 In the summary tables, three of the emptiest stock fund rows are US Quality, Intl Quality, and Intl Small Cap Value. There are additional US Quality funds managed by Invesco ([SPHQ](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=SPHQ)/[XMHQ](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=XMHQ)/[XSHQ](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=XSHQ)) and J.P. Morgan ([JQUA](https://am.jpmorgan.com/us/en/asset-management/adv/products/jpmorgan-us-quality-factor-etf-46641q761)); an Intl Quality fund managed by Invesco ([IDHQ](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=IDHQ)); and Intl Small Cap Value funds managed by Avantis ([AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html)) and Invesco ([PDN](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PDN)). PDN actually invests in both small and mid cap stocks, which is valuable because no other fund offers exposure to mid cap equity in developed markets. It provides value tilt through RAFI weighting.
 
