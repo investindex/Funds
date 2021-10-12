@@ -322,7 +322,7 @@ BlackRock has an alternative to IUSV. This fund, [VLUE](https://www.ishares.com/
 
 &nbsp;
 
-<sup id="f2"> 2 </sup> Before explaining this myself, I recommend listening to Ben Felix’s explanation on [this podcast](https://www.youtube.com/watch?v=FGdREnI5ytc&t=1096s&ab_channel=TheRationalReminderPodcast) and in [this brief written post](https://rationalreminder.ca/blog/2019/8/22/zqes51gt9xfgi7iggxtjfmuh8z73sf). Hearing it first (from roughly the 18 min mark to the 28 min mark) may help with processing this dense material.
+<sup id="f2"> 2 </sup> Before explaining this myself, I recommend listening to Ben Felix’s explanation on [this podcast](https://www.youtube.com/watch?v=FGdREnI5ytc&t=1096s&ab_channel=TheRationalReminderPodcast) and in [this brief written post](https://rationalreminder.ca/blog/2019/8/22/zqes51gt9xfgi7iggxtjfmuh8z73sf). Hearing it first (from roughly the 18 min to 28 min marks) may help with processing this dense material.
 
 A few concepts must be established to understand why simultaneous implementation of factors is so much more effective than implementation of single factors in separate funds.
 
