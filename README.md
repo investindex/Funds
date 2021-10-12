@@ -338,7 +338,7 @@ One more term is needed before we move to the final stage: [book value](https://
 
 We’ve established that In an efficient market, stock prices reflect the present value of future profits, discounted at a discount rate which is equal to the expected rate of return. How does this relate to risk factors? Ben Felix discussed a valuation model called the dividend discount model in [this post](https://rationalreminder.ca/blog/2019/8/22/zqes51gt9xfgi7iggxtjfmuh8z73sf). Fully understanding the equation is not really needed to grasp the point of this long chain of conceptual development.
 
-... [↩](#fn2)
+... Completed explanation incoming soon. [↩](#fn2)
 
 &nbsp;
 
