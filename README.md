@@ -290,7 +290,9 @@ All sections:
 
 &nbsp;
 
-Footnote:
+Footnotes:
+
+#### Additional funds and minor comments
 
 <sup id="f1"> 1 </sup> The following details are not particularly important except for those people who want to know all their options.
 
@@ -322,6 +324,8 @@ BlackRock has an alternative to IUSV. This fund, [VLUE](https://www.ishares.com/
 
 &nbsp;
 
+#### Understanding risk factors and why they don't travel alone
+
 <sup id="f2"> 2 </sup> Before reading this, I recommend listening to Ben Felix’s explanation on [this podcast](https://www.youtube.com/watch?v=FGdREnI5ytc&t=1096s&ab_channel=TheRationalReminderPodcast) and in [this brief written post](https://rationalreminder.ca/blog/2019/8/22/zqes51gt9xfgi7iggxtjfmuh8z73sf). Hearing it first (from roughly the 18 min to 28 min marks) may help with processing this dense material.
 
 A few concepts must be established to understand why simultaneous implementation of factors is so much more effective than implementation of single factors in separate funds.
@@ -351,6 +355,8 @@ This has led to a proliferation of multifactor funds. Unfortunately, I currently
 &nbsp;
 
 &nbsp;
+
+#### Multifactor funds
 
 <sup id="fn3">[3](#f3)</sup> State Street offers multiple ETFs with a combination of quality, value, and low volatility: [QUS](https://www.ssga.com/us/en/individual/etfs/funds/spdr-msci-usa-strategicfactorssm-etf-qus), [QEFA](https://www.ssga.com/us/en/individual/etfs/funds/spdr-msci-eafe-strategicfactorssm-etf-qefa), [QEMM](https://www.ssga.com/us/en/individual/etfs/funds/spdr-msci-emerging-markets-strategicfactorssm-etf-qemm), and [QWLD](https://www.ssga.com/us/en/individual/etfs/funds/spdr-msci-world-strategicfactorssm-etf-qwld). Low volatility is advertised because it has strong historical returns, but these returns are explained by [other](https://www.youtube.com/watch?v=xUbJ21WcUWA&ab_channel=BenFelix) [variables](https://www.sciencedirect.com/science/article/pii/S0304405X21002051). Low volatility strategies are an example of failing to efficiently target risk factors.
 
