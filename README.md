@@ -198,7 +198,7 @@ The stocks in complex portfolio A are allocated roughly 58.5% US, 30% developed 
 
 The stock allocation is: 40% [VT](https://investor.vanguard.com/etf/profile/VT) + 17.5% [AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html) + 10% [RFV](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=RFV) + 7.5% [AVLV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-us-large-cap-value-etf.html) + 10% [AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) + 7.5% [AVIV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-large-cap-value-etf.html) + 7.5% [AVES](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-emerging-markets-value-etf.html). Investment recommendations should be personalized, but if I were to make a recommendation in general for a long-term stock portfolio, it would be something like this. Many people would be well-advised to adjust the allocation to VT upward; few people are suited to a portfolio with less allocation to VT and a stronger value tilt than this.
 
-Complex portfolio B has a different approach to achieving factor tilts. It uses RAFI weighting and, to a lesser degree, equal weighting. See the footnote for more on this.
+Complex portfolio B has a different approach to achieving factor tilts. It uses RAFI weighting and, to a lesser degree, equal weighting. See the first footnote for more on this.
 
 &nbsp;
 
