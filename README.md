@@ -211,8 +211,8 @@ Complex portfolio B has a different approach to achieving factor tilts. It uses 
 | Checking account | $8,000 | Potential for immediate use |
 | [60/40 Allocation - AOR](https://www.ishares.com/us/products/239756/ishares-growth-allocation-etf) | $32,000 | Emergency funds + Long-term funds |
 | [Total Global - VT](https://investor.vanguard.com/etf/profile/VT) | $30,000 | Retirement investing (Roth IRA) |
-| [US Small Cap Value - AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html) | $15,000 | Retirement investing (Roth IRA) |
-| [Developed ex-US Small Cap Value - AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) | $15,000 | Retirement investing (Roth IRA) |
+| [US Small Cap Value - AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html) | $18,000 | Retirement investing (Roth IRA) |
+| [Developed ex-US Small Cap Value - AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) | $12,000 | Retirement investing (Roth IRA) |
 
 &nbsp;
 
