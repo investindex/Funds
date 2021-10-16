@@ -251,14 +251,14 @@ Complex portfolio B has a different approach to achieving factor tilts. It uses 
 | [Short-term Bonds - BSV](https://investor.vanguard.com/etf/profile/BSV) | $4,000 | Further emergency funds |
 | [Long-Term Bonds - BLV](https://investor.vanguard.com/etf/profile/BLV) | $8,000 | Appreciation without high risk |
 | [RAFI US Small Company - FNDA](https://www.schwabassetmanagement.com/products/fnda) | $5,000 | Long-term financial goals |
-| [US Mid Cap Equal Weight - EWMC](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=EWMC) | $3,000 | Long-term financial goals |
-| [RAFI US Large Company - FNDX](https://www.schwabassetmanagement.com/products/fndx) | $4,000 | Long-term financial goals |
+| [US Mid Cap Equal Weight - EWMC](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=EWMC) | $3,500 | Long-term financial goals |
+| [RAFI US Large Company - FNDX](https://www.schwabassetmanagement.com/products/fndx) | $3,500 | Long-term financial goals |
 | [RAFI Developed ex-US Small-Mid Company - PDN](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PDN) | $4,000 | Long-term financial goals |
 | [RAFI Developed ex-US Large Company - FNDF](https://www.schwabassetmanagement.com/products/fndf) | $2,000 | Long-term financial goals |
 | [RAFI Emerging Markets Large Company - FNDE](https://www.schwabassetmanagement.com/products/fnde) | $2,000 | Long-term financial goals |
 | [RAFI US Small Company - FNDA](https://www.schwabassetmanagement.com/products/fnda) | $15,000 | Retirement investing (Roth IRA) |
-| [US Mid Cap Equal Weight - EWMC](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=EWMC) | $9,000 | Retirement investing (Roth IRA) |
-| [RAFI US Large Company - FNDX](https://www.schwabassetmanagement.com/products/fndx) | $12,000 | Retirement investing (Roth IRA) |
+| [US Mid Cap Equal Weight - EWMC](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=EWMC) | $10,500 | Retirement investing (Roth IRA) |
+| [RAFI US Large Company - FNDX](https://www.schwabassetmanagement.com/products/fndx) | $10,500 | Retirement investing (Roth IRA) |
 | [RAFI Developed ex-US Small-Mid Company - PDN](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PDN) | $12,000 | Retirement investing (Roth IRA) |
 | [RAFI Developed ex-US Large Company - FNDF](https://www.schwabassetmanagement.com/products/fndf) | $6,000 | Retirement investing (Roth IRA) |
 | [RAFI Emerging Markets Large Company - FNDE](https://www.schwabassetmanagement.com/products/fnde) | $6,000 | Retirement investing (Roth IRA) |
