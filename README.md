@@ -192,7 +192,7 @@ Alpha Architect is a smaller manager that develops [focused factor ETFs](https:/
 
 ## Example portfolio
 
-These examples are for a hypothetical married couple, both age 35 and earning income, who rent their residence and have no debt. Their combined liquid net worth is $40,000 plus $60,000 in a Roth IRA that one of them has contributed to for several years. In the complex versions, they keep $20,000 in cash and bonds and the remainder in stocks. Stock funds are duplicated because their taxable brokerage account and Roth IRA must be separate. In the simple version, they keep about $20,800 in cash and bonds and the remainder in stocks. Only four funds are used, instead of 15 (A) or 14 (B).
+These examples are for a hypothetical married couple, both age 35 and earning income, who rent their residence and have no debt. Their combined liquid net worth is $40,000 plus $60,000 in a Roth IRA that one of them has contributed to for several years. In the complex versions, they keep $20,000 in cash and bonds and the remainder in stocks. Stock funds are duplicated because their taxable brokerage account and Roth IRA must be separate. In the simple version, they keep about $23,200 in cash and bonds and the remainder in stocks. Only five funds are used, instead of 15 (A) or 14 (B).
 
 The stocks in complex portfolio A are allocated roughly 58.5% US, 30% developed ex-US, and 11.5% emerging. This is very close to global market cap weights. Value is highly overweighted, and small cap value even more so. However, we include nearly all global stocks to some degree by using VT as the core.
 
@@ -209,7 +209,8 @@ Complex portfolio B has a different approach to achieving factor tilts. It uses 
 | &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Location &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; | &emsp; Amount &emsp; | &emsp; &emsp; &emsp; &emsp; &emsp; Purpose &emsp; &emsp; &emsp; &emsp; &emsp; |
 | :--: | :--: | :--: |
 | Checking account | $8,000 | Potential for immediate use |
-| [60/40 Allocation - AOR](https://www.ishares.com/us/products/239756/ishares-growth-allocation-etf) | $32,000 | Emergency funds + Long-term funds |
+| [Short-term US Treasury bonds - VGSH](https://investor.vanguard.com/etf/profile/VGSH) | $4,000 | Emergency funds |
+| [60/40 Allocation - AOR](https://www.ishares.com/us/products/239756/ishares-growth-allocation-etf) | $28,000 | Near-term funds + Long-term funds |
 | [Total Global - VT](https://investor.vanguard.com/etf/profile/VT) | $30,000 | Retirement investing (Roth IRA) |
 | [US Small Cap Value - AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html) | $18,000 | Retirement investing (Roth IRA) |
 | [Developed ex-US Small Cap Value - AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) | $12,000 | Retirement investing (Roth IRA) |
