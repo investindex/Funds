@@ -209,7 +209,7 @@ Complex portfolio B has a different approach to achieving factor tilts. It uses 
 | &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Location &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; | &emsp; Amount &emsp; | &emsp; &emsp; &emsp; &emsp; &emsp; Purpose &emsp; &emsp; &emsp; &emsp; &emsp; |
 | :--: | :--: | :--: |
 | Checking account | $8,000 | Potential for immediate use |
-| [Short-term US Treasury bonds - VGSH](https://investor.vanguard.com/etf/profile/VGSH) | $4,000 | Emergency funds |
+| [Short-term US Treasury bonds - SCHO](https://www.schwabassetmanagement.com/products/scho) | $4,000 | Emergency funds |
 | [60/40 Allocation - AOR](https://www.ishares.com/us/products/239756/ishares-growth-allocation-etf) | $28,000 | Near-term funds + Long-term funds |
 | [Total Global - VT](https://investor.vanguard.com/etf/profile/VT) | $30,000 | Retirement investing (Roth IRA) |
 | [US Small Cap Value - AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html) | $18,000 | Retirement investing (Roth IRA) |
