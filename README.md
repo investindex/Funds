@@ -165,7 +165,7 @@ These tables summarize stock and bond funds from the largest institutions.
 | Long-term Treasury | [VGLT](https://investor.vanguard.com/etf/profile/VGLT) / [VLGSX](https://investor.vanguard.com/mutual-funds/profile/VLGSX) | [TLH](https://www.ishares.com/us/products/239453/ishares-1020-year-treasury-bond-etf) | [SPTL](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-long-term-treasury-etf-sptl) | [FNBGX](https://fundresearch.fidelity.com/mutual-funds/summary/31635V232) | [SCHQ](https://www.schwabassetmanagement.com/products/schq) |
 | Long-term US | [BLV](https://investor.vanguard.com/etf/profile/BLV) | [ILTB](https://www.ishares.com/us/products/239424/ishares-core-longterm-us-bond-etf) | | |
 | Long-term US Corp | [VCLT](https://investor.vanguard.com/etf/profile/VCLT) | [IGLB](https://www.ishares.com/us/products/239423/ishares-10-year-credit-bond-etf) | [SPLB](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-long-term-corporate-bond-etf-splb) | | |
-| High-yield | | [SHYG](https://www.ishares.com/us/products/258100/ishares-05-year-high-yield-corporate-bond-etf) + [USHY](https://www.ishares.com/us/products/291299/ishares-broad-usd-high-yield-corporate-bond-etf) | [SPHY](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-high-yield-bond-etf-sphy) | | |
+| High-yield | | [SHG](https://www.ishares.com/us/products/258100/ishares-05-year-high-yield-corporate-bond-etf) + [USHY](https://www.ishares.com/us/products/291299/ishares-broad-usd-high-yield-corporate-bond-etf) | [SPHY](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-high-yield-bond-etf-sphy) | | |
 
 &nbsp;
 
