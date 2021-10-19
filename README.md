@@ -147,7 +147,7 @@ These tables summarize stock and bond funds from the largest institutions.
   <b>Bond funds</b>
 </p>
 
-| Bond index | Vanguard | &nbsp; BlackRock &nbsp; | &nbsp; State Street &nbsp; | &ensp; Fidelity &ensp; | Schwab |
+| Bond index | Vanguard | &ensp; BlackRock &ensp; | &nbsp; State Street &nbsp; | &nbsp; Fidelity &nbsp; | Schwab |
 | :--: | :--: | :--: | :--: | :--: | :--: |
 | Three-month Treasury | | [SGOV](https://www.ishares.com/us/products/314116/ishares-0-3-month-treasury-bond-etf) | [BIL](https://www.ssga.com/us/en/individual/etfs/funds/spdr-bloomberg-barclays-1-3-month-t-bill-etf-bil) | | |
 | Ultrashort-term US | [VUSB](https://investor.vanguard.com/etf/profile/overview/VUSB) | [SHV](https://www.ishares.com/us/products/239466/ishares-short-treasury-bond-etf) | [BILS](https://www.ssga.com/us/en/individual/etfs/funds/spdr-bloomberg-barclays-3-12-month-t-bill-etf-bils) + [ULST](https://www.ssga.com/us/en/individual/etfs/funds/spdr-ssga-ultra-short-term-bond-etf-ulst) | | |
@@ -165,7 +165,7 @@ These tables summarize stock and bond funds from the largest institutions.
 | Long-term Treasury | [VGLT](https://investor.vanguard.com/etf/profile/VGLT) / [VLGSX](https://investor.vanguard.com/mutual-funds/profile/VLGSX) | [TLH](https://www.ishares.com/us/products/239453/ishares-1020-year-treasury-bond-etf) | [SPTL](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-long-term-treasury-etf-sptl) | [FNBGX](https://fundresearch.fidelity.com/mutual-funds/summary/31635V232) | [SCHQ](https://www.schwabassetmanagement.com/products/schq) |
 | Long-term US | [BLV](https://investor.vanguard.com/etf/profile/BLV) | [ILTB](https://www.ishares.com/us/products/239424/ishares-core-longterm-us-bond-etf) | | |
 | Long-term US Corp | [VCLT](https://investor.vanguard.com/etf/profile/VCLT) | [IGLB](https://www.ishares.com/us/products/239423/ishares-10-year-credit-bond-etf) | [SPLB](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-long-term-corporate-bond-etf-splb) | | |
-| High-yield | | [SHG](https://www.ishares.com/us/products/258100/ishares-05-year-high-yield-corporate-bond-etf) + [USHY](https://www.ishares.com/us/products/291299/ishares-broad-usd-high-yield-corporate-bond-etf) | [SPHY](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-high-yield-bond-etf-sphy) | | |
+| High-yield | | [SHYG](https://www.ishares.com/us/products/258100/ishares-05-year-high-yield-corporate-bond-etf) + [USHY](https://www.ishares.com/us/products/291299/ishares-broad-usd-high-yield-corporate-bond-etf) | [SPHY](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-high-yield-bond-etf-sphy) | | |
 
 &nbsp;
 
