@@ -1,3 +1,7 @@
+This version has been retired. All updates to this section are now [here](https://github.com/investindex/Fund/blob/main/README.md).
+
+&nbsp;
+
 # Fund proposals
 
 For ETFs and mutual funds separately, I will propose portfolios with increasing levels of complexity and provide options from multiple institutions. The portfolios are based on principles described in the [previous section](https://github.com/investindex/Portfolio). If an institution lacks a fund to fill a given row's category, it will either be left blank or filled in with a suggested fund from another institution. The simplest portfolios are a single fund: a total global fund or a total US fund. [Summary tables](https://github.com/investindex/Funds#summary) at the end organize all the funds. I then discuss the limitations of the stock funds from the largest institutions, and show how we can improve upon them with an [example portfolio](https://github.com/investindex/Funds#example-portfolio) of specific stock and bond funds.
